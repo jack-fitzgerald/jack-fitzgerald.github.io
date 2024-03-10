@@ -1,7 +1,7 @@
 ---
 title: "US states that mandated COVID-19 vaccination see higher, not lower, takeup of COVID-19 boosters and flu vaccines"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/PNAS-RR-replication
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
