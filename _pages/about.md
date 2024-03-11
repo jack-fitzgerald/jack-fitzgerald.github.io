@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in economics at Vrije Universiteit (VU) Amsterdam. I work on issues in applied econometrics, behavioral economics, and methodology. I am positioned in the Behavioral Social Sciences group within the Department of Ethics, Governance, and Society in the School of Business and Economics, and I hold a teaching affiliation at the Department of Criminology in the Faculty of Law. My PhD dissertation, "Why Do Firms Comply?", focuses on behavioral determinants of corporate compliance with public policies.
+I am a PhD candidate in economics at Vrije Universiteit (VU) Amsterdam. I work on issues in applied econometrics, behavioral economics, and methodology. 
+
+I am positioned in the Behavioral Social Sciences group within the Department of Ethics, Governance, and Society in the School of Business and Economics, and I hold a teaching affiliation at the Department of Criminology in the Faculty of Law. My PhD dissertation, "Why Do Firms Comply?", focuses on behavioral determinants of corporate compliance with public policies.
