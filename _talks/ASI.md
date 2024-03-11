@@ -2,7 +2,7 @@
 title: "Fine Enough or Don't Fine at All?"
 collection: talks
 type: "Grant presentation"
-permalink: /talks/2014-03-01-talk-3
+permalink: /talks/ASI
 venue: "Amsterdam Sustainability Institute"
 date: 2023-09-20
 location: "Amsterdam, The Netherlands"
