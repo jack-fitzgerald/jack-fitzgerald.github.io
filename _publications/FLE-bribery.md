@@ -8,4 +8,4 @@ paperurl: 'http://academicpages.github.io/publications'
 citation: 'Fitzgerald, J., Stroet, P., van Witteloostuijn, A., & Weiẞmüller, K. S. (2024). &quot;Is there a foreign language effect on workplace bribery susceptibility? Evidence from a randomized controlled vignette experiment.&quot; Working paper.'
 ---
 
-Joint work with [Paul Stroet]((https://paulstroet.netlify.app/)), [Arjen van Witteloostuijn]((https://research.vu.nl/en/persons/arjen-van-witteloostuijn)https://research.vu.nl/en/persons/arjen-van-witteloostuijn), and [Kristina S. Weiẞmüller]((https://www.ksweissmueller.com/)https://www.ksweissmueller.com/). [Code can be found here.](https://doi.org/10.17605/OSF.IO/Y3NQ7)
+Joint work with [Paul Stroet](https://paulstroet.netlify.app/), [Arjen van Witteloostuijn](https://research.vu.nl/en/persons/arjen-van-witteloostuijn), and [Kristina S. Weiẞmüller](https://www.ksweissmueller.com/). [Code can be found here.](https://doi.org/10.17605/OSF.IO/Y3NQ7)
