@@ -5,5 +5,5 @@ excerpt: 'Theory and evidence from the behavioral science literature suggest tha
 date: 2023-11-24
 venue: 'R&R, <i>Journal of Business Ethics</i>'
 paperurl: 'http://academicpages.github.io/publications'
-citation: 'Fitzgerald, J., Stroet, P., van Witteloostuijn, A., & Weiẞmüller, K. S. (2024). &quot;Is There a Foreign Language Effect on Workplace Bribery Susceptibility? Evidence from a Randomized Controlled Vignette Experiment.&quot; Working paper.'
+citation: 'Fitzgerald, J., Stroet, P., van Witteloostuijn, A., & Weiẞmüller, K. S. (2024). &quot;Is there a foreign language effect on workplace bribery susceptibility? Evidence from a randomized controlled vignette experiment.&quot; Working paper.'
 ---
