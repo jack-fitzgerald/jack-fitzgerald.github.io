@@ -2,7 +2,7 @@
 title: "Statistical Methods for Causal Inference"
 collection: teaching
 type: "PhD/Master's/Advanced bachelor's course"
-permalink: /teaching/
+permalink: /teaching/VUASS-2023
 venue: "VU Amsterdam Summer School"
 date: 2023-07-17
 location: "Amsterdam, The Netherlands"
