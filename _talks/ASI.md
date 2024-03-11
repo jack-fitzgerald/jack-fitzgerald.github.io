@@ -8,4 +8,4 @@ date: 2023-09-20
 location: "Amsterdam, The Netherlands"
 ---
 
-I presented an upcoming experimental project that the Amsterdam Sustainability Institue agreed to finance with a €2600 grant.
+I presented an upcoming experimental project that the Amsterdam Sustainability Institue agreed to finance with a £2600 grant.
