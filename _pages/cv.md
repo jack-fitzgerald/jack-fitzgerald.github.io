@@ -11,35 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Economics, Vrije Universiteit Amsterdam, 2026 (expected)
+* MSc in Economics, University of Amsterdam, 2021
+* BSc in Economics, Florida State University, 2020
 
-Work experience
+Languages
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* English (native), Dutch (NT2-certified ECFR B2 proficient)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Academic Work Experience
+======
+* 2021 - Present: Wyzant (Tutor)
+* 2020 - 2021: The Bronx High School of Science (Assistant Debate Coach)
+* 2019: Florida State University, Department of Economics (Research Assistant)
+* 2016: Teen Court of Sarasota (Research Intern)
   
-Skills
+Computer Proficiencies
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+R, Stata, Python, Matlab, LaTeX, Git
 
 Publications
 ======
@@ -59,6 +48,12 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Affiliations
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer Activity:
+  * Journal of International Business Studies; Humanities and Social Sciences Communications
+* 2024 - Present: Meta-Analysis in Economics Research Network (MAER-Net; Member)
+* 2023 - Present: Behavioral Social Sciences (BSS) Research Seminar (Organizer)
+* 2023 - Present: Social Science Prediction Platform (SSPP; Superforecaster Panel)
+* 2022 - Present: Amsterdam Behavioral Economics and Law Lab (ABEL; Member)
+* 2022 - Present: Amsterdam Sustainability Institute (ASI; Behavior and Governance Cluster)
