@@ -1,7 +1,7 @@
 ---
 title: "Statistical Methods for Causal Inference"
 collection: teaching
-type: "Workshop"
+type: "PhD/Master's/Advanced bachelor's course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "VU Amsterdam Summer School"
 date: 2024-07
