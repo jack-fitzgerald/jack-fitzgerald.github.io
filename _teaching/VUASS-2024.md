@@ -4,7 +4,7 @@ collection: teaching
 type: "PhD/Master's/Advanced bachelor's course"
 permalink: /teaching/
 venue: "VU Amsterdam Summer School"
-date: 2024-07
+date: 2024-07-08
 location: "Amsterdam, The Netherlands"
 ---
 
