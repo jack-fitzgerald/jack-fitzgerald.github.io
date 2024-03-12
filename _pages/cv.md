@@ -55,5 +55,6 @@ Service and Affiliations
 * 2024 - Present: Meta-Analysis in Economics Research Network (MAER-Net; Member)
 * 2023 - Present: Behavioral Social Sciences (BSS) Research Seminar (Organizer)
 * 2023 - Present: Social Science Prediction Platform (SSPP; Superforecaster Panel)
+  * Paid affiliation; compensation is independent of the number of surveys on the platform
 * 2022 - Present: Amsterdam Behavioral Economics and Law Lab (ABEL; Member)
 * 2022 - Present: Amsterdam Sustainability Institute (ASI; Behavior and Governance Cluster)
