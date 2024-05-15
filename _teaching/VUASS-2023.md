@@ -1,5 +1,5 @@
 ---
-title: "Statistical Methods for Causal Inference"
+title: "Statistical Methods for Causal Inference (2023)"
 collection: teaching
 type: "PhD/Master's/Advanced bachelor's course"
 permalink: /teaching/VUASS-2023
