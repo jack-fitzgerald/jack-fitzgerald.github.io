@@ -8,4 +8,4 @@ paperurl: 'http://jack-fitzgerald.github.io/publications'
 citation: 'Fitzgerald, J. &quot;The Need for Equivalence Testing in Economics.&quot; Working paper.'
 ---
 
-The TOST procedure and the testing under the TST framework can be conducted using the [-tsti- Stata command]([https://github.com/jack-fitzgerald/tsti]), as well as the -tst- command in the [-equivtest- R package]([https://github.com/jack-fitzgerald/tsti]).
+The TOST procedure and the testing under the TST framework can be conducted using the [-tsti- Stata command]([https://github.com/jack-fitzgerald/tsti]), as well as the -tst- command in the [-equivtest- R package]([https://github.com/jack-fitzgerald/equivtest]).
