@@ -1,0 +1,11 @@
+---
+title: "The Need for Equivalence Testing in Economics"
+collection: publications
+excerpt: 'Equivalence testing methods can provide statistically significant evidence that relationships are practically equal to zero. I demonstrate their necessity in a systematic reproduction of estimates defending 135 null claims made in 81 articles from top economics journals. 26-39% of these estimates cannot be significantly bounded beneath benchmark effect sizes. Though prediction platform data reveals that researchers find these equivalence testing 'failure rates' to be unacceptable, researchers actually expect unacceptably high failure rates, accurately predicting that failure rates exceed acceptable thresholds by around 23 percentage points. To obtain failure rates that researchers deem acceptable, one must contend that nearly half of published effect sizes in economics are practically equivalent to zero. Because such a claim is ludicrous, Type II error rates are likely quite high throughout economics. This paper provides economists with empirical justification, guidelines, and commands in Stata and R for conducting credible equivalence testing in future research.'
+date: 2024-05-15
+venue: 'Working paper'
+paperurl: 'http://jack-fitzgerald.github.io/publications'
+citation: 'Fitzgerald, J. &quot;The Need for Equivalence Testing in Economics.&quot; Working paper.'
+---
+
+The TOST procedure and the testing under the TST framework can be conducted using the [-tsti- Stata command]([https://github.com/jack-fitzgerald/tsti]), as well as the -tst- command in the [-equivtest- R package]([https://github.com/jack-fitzgerald/tsti]).
