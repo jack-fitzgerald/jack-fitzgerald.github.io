@@ -26,7 +26,7 @@ Theory and evidence from the behavioral science literature suggest that the wide
 
 <div id="pnas_replication" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
-[Rains and Richards](https://doi.org/10.1073/pnas.2313610121) (2024, <i>PNAS</i>) find that compared to US states that instituted bans on COVID-19 vaccination requirements, states that imposed COVID-19 vaccination mandates exhibit lower adult and child uptake of flu vaccines, and lower uptake of COVID-19 boosters. These differences are generally interpreted causally. However, further inspection reveals that these results are driven by the inclusion of a single bad control variable. When removed, the data instead shows that states which mandated COVID-19 vaccination experience higher COVID-19 booster and flu vaccine takeup than states that banned COVID-19 vaccination requirements.
+[Rains & Richards](https://doi.org/10.1073/pnas.2313610121) (2024, <i>PNAS</i>) find that compared to US states that instituted bans on COVID-19 vaccination requirements, states that imposed COVID-19 vaccination mandates exhibit lower adult and child uptake of flu vaccines, and lower uptake of COVID-19 boosters. These differences are generally interpreted causally. However, further inspection reveals that these results are driven by the inclusion of a single bad control variable. When removed, the data instead shows that states which mandated COVID-19 vaccination experience higher COVID-19 booster and flu vaccine takeup than states that banned COVID-19 vaccination requirements.
 
 </small><br><br/></div>
 
