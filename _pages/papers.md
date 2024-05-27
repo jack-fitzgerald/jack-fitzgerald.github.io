@@ -10,7 +10,7 @@ permalink: /papers/
 - - -
 
 **Is There a Foreign Language Effect on Workplace Bribery Susceptibility? Evidence from a Randomized Controlled Vignette Experiment** (with [Paul Stroet](https://paulstroet.netlify.app/), [Arjen van Witteloostuijn](https://research.vu.nl/en/persons/arjen-van-witteloostuijn), and [Kristina S. Weißmüller](https://www.ksweissmueller.com/)). Accepted. *Journal of Business Ethics* <br/>
-<small>[ <a href="#/" onclick="visib('fle_bribery')">Abstract</a> | [Draft][fle_bribery-main] ] </small>
+<small>[ [Draft][fle_bribery-main] ] </small>
 
 <div id="fle_bribery" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
@@ -23,7 +23,6 @@ Theory and evidence from the behavioral science literature suggest that the wide
 - - -
 
 **US States That Mandated COVID-19 Vaccination See Higher, Not Lower, Takeup of COVID-19 Boosters and Flu Vaccines**. 2024. *R&R, PNAS* <br/>
-<small>[ <a href="#/" onclick="visib('pnas_replication')">Abstract</a> ] </small>
 
 <div id="pnas_replication" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
@@ -32,7 +31,7 @@ Theory and evidence from the behavioral science literature suggest that the wide
 </small><br><br/></div>
 
 **The Need for Equivalence Testing in Economics**. 2024. <br/>
-<small>[ <a href="#/" onclick="visib('equiv-test')">Abstract</a> | [Draft][equiv-test_main] | [Online Appendix][equiv-test_oa]]] </small>
+<small>[ [Draft][equiv-test_main] | [Online Appendix][equiv-test_oa]]] </small>
 
 <div id="equiv-test" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
@@ -42,8 +41,8 @@ Equivalence testing methods can provide statistically significant evidence that 
 [equiv-test_main]:{{ site.baseurl }}{% link assets/files/The_Need_for_Equivalence_Testing_in_Economics.pdf %}
 [equiv-test_oa]:{{ site.baseurl }}{% link assets/files/The_Need_for_Equivalence_Testing_in_Economics_Online_Appendix.pdf %}
 
-**Does Technological Innovation Mitigate Agricultural Damage from Climate Change?**. 2024. <br/>
-<small>[ <a href="#/" onclick="visib('equiv-test')">Abstract</a> | [Draft][MS23_replication] ] </small>
+**Does Technological Innovation Mitigate Agricultural Damage from Climate Change?** 2024. <br/>
+<small>[ [Draft][MS23_replication] ] </small>
 
 <div id="equiv-test" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
@@ -51,17 +50,3 @@ Equivalence testing methods can provide statistically significant evidence that 
 
 </small><br><br/></div>
 [MS23_replication]:{{ site.baseurl }}{% link assets/files/MS23_Replication.pdf %}
-
-[//]: This java script is the button to show abstract
-<script>
- function visib(id) {
-  var x = document.getElementById(id);
-  if (x.style.display === "block") {
-    x.style.display = "none";
-  } else {
-    x.style.display = "block";
-  }
-}
-</script>
-
-[//]:&emsp;<button onclick="visib('polariz')" class="btn btn--inverse btn--small">Abstract</button>
