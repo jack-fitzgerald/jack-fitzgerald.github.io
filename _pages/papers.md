@@ -40,7 +40,7 @@ Equivalence testing methods can provide statistically significant evidence that 
 </small><br><br/></div>
 
 **Does Technological Innovation Mitigate Agricultural Damage from Climate Change?** 2024. <br/>
-<small>[ <a href="#/" onclick="visib('MS23')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/MS23_Replication.pdf) ] </small>
+<small>[ <a href="#/" onclick="visib('MS23')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/MS23_Replication.pdf) | [Data & Code](https://osf.io/d7wz9/) ] </small>
 
 <div id="MS23" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
