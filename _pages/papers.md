@@ -31,7 +31,7 @@ Rains & Richards (2024, <i>PNAS</i>) find that compared to US states that instit
 </small><br><br/></div>
 
 **The Need for Equivalence Testing in Economics**. 2024. <br/>
-<small>[ <a href="#/" onclick="visib('equiv-test')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/The_Need_for_Equivalence_Testing_in_Economics.pdf) | [Online Appendix](https://jack-fitzgerald.github.io/files/The_Need_for_Equivalence_Testing_in_Economics_Online_Appendix.pdf) ] </small>
+<small>[ <a href="#/" onclick="visib('equiv-test')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/The_Need_for_Equivalence_Testing_in_Economics.pdf) | [Online Appendix](https://jack-fitzgerald.github.io/files/The_Need_for_Equivalence_Testing_in_Economics_Online_Appendix.pdf) | [30-Minute Presentation](https://youtu.be/ltkuhpcH9mA) ] </small>
 
 <div id="equiv-test" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
