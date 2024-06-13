@@ -9,8 +9,8 @@ permalink: /papers/
 # <center> Published and Forthcoming Papers </center>
 - - -
 
-**Is There a Foreign Language Effect on Workplace Bribery Susceptibility? Evidence from a Randomized Controlled Vignette Experiment** (with [Paul Stroet](https://paulstroet.netlify.app/), [Arjen van Witteloostuijn](https://research.vu.nl/en/persons/arjen-van-witteloostuijn), and [Kristina S. Weißmüller](https://www.ksweissmueller.com/)). Accepted. *Journal of Business Ethics* <br/>
-<small>[ <a href="#/" onclick="visib('fle_bribery')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/JBE_manuscript.pdf) | [Code](https://doi.org/10.17605/OSF.IO/Y3NQ7) ] </small>
+**Is There a Foreign Language Effect on Workplace Bribery Susceptibility? Evidence from a Randomized Controlled Vignette Experiment** (with [Paul Stroet](https://paulstroet.netlify.app/), [Arjen van Witteloostuijn](https://research.vu.nl/en/persons/arjen-van-witteloostuijn), and [Kristina S. Weißmüller](https://www.ksweissmueller.com/)). *Journal of Business Ethics*, 2024. <br/>
+<small>[ <a href="#/" onclick="visib('fle_bribery')">Abstract</a> | [Article (Open Access)](https://doi.org/10.1007/s10551-024-05731-x) [Draft](https://jack-fitzgerald.github.io/files/JBE_manuscript.pdf) | [Code](https://doi.org/10.17605/OSF.IO/Y3NQ7) ] </small>
 
 <div id="fle_bribery" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
