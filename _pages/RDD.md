@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Regression Discontinuity Design (RDD)"
-permalink: /DID/
+permalink: /RDD/
 author_profile: true
 ---
 
