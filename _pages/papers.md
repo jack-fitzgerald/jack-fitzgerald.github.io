@@ -40,9 +40,9 @@ Equivalence testing methods can provide statistically significant evidence that 
 </small><br><br/></div>
 
 **Manipulation Tests in Regression Discontinuity Design: The Need for Equivalence Testing**. 2024. <br/>
-<small>[ <a href="#/" onclick="visib('equiv-test')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/RDD_Equivalence.pdf) ] </small>
+<small>[ <a href="#/" onclick="visib('rdd-equiv')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/RDD_Equivalence.pdf) ] </small>
 
-<div id="equiv-test" style="display: none; text-align: justify; line-height: 1.2" ><small>
+<div id="rdd-equiv" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
 Researchers utilizing regression discontinuity design (RDD) commonly test for running variable (RV) manipulation around a cutoff, but incorrectly assert that insignificant manipulation test statistics are evidence of negligible manipulation. I introduce simple frequentist equivalence testing procedures that can provide statistically significant evidence that RV manipulation around a cutoff is practically equivalent to zero. I then demonstrate the necessity of these procedures, leveraging replication data from 36 RDD publications to conduct 45 equivalence-based RV manipulation tests. Over 44% of RV density discontinuities at the cutoff can not be significantly bounded beneath a 50% upward jump. Bounding equivalence-based manipulation test failure rates beneath 5% requires arguing that a 350% upward density jump is practically equivalent to zero. Meta-analytic estimates reveal that average RV manipulation around the cutoff is equivalent to a 26% upward density jump. These results imply that many published RDD estimates may be confounded by discontinuities in potential outcomes due to RV manipulation that remains undetectable by existing tests. I provide research guidelines and commands in Stata and R to help researchers conduct more credible equivalence-based manipulation testing in future RDD research.
 
