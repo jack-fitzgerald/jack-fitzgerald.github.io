@@ -21,7 +21,7 @@ Theory and evidence from the behavioral science literature suggest that the wide
 # <center> Working Papers </center>
 - - -
 
-**US States That Mandated COVID-19 Vaccination See Higher, Not Lower, Takeup of COVID-19 Boosters and Flu Vaccines**. 2024. R&R, *PNAS* <br/>
+**US States That Mandated COVID-19 Vaccination See Higher, Not Lower, Takeup of COVID-19 Boosters and Flu Vaccines**. 2024. R&R, *PNAS*. <br/>
 <small>[ <a href="#/" onclick="visib('pnas_replication')">Abstract</a> | [Data & Code](https://osf.io/mdfb4/)] </small>
 
 <div id="pnas_replication" style="display: none; text-align: justify; line-height: 1.2" ><small>
