@@ -30,7 +30,7 @@ Rains & Richards (2024, <i>PNAS</i>) find that compared to US states that instit
 
 </small><br><br/></div>
 
-**Manipulation Tests in Regression Discontinuity Design: The Need for Equivalence Testing**. [<i>Institute for Replication Discussion Paper Series</i>, No. 125](https://hdl.handle.net/10419/300277), 2024. <br/>
+**Manipulation Tests in Regression Discontinuity Design: The Need for Equivalence Testing**. [<i>Institute for Replication Discussion Paper Series</i>, No. 136](https://hdl.handle.net/10419/300277), 2024. <br/>
 <small>[ <a href="#/" onclick="visib('rdd-equiv')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/RDD_Equivalence.pdf) ] </small>
 
 <div id="rdd-equiv" style="display: none; text-align: justify; line-height: 1.2" ><small>
