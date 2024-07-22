@@ -31,7 +31,7 @@ Rains & Richards (2024, <i>PNAS</i>) find that compared to US states that instit
 </small><br><br/></div>
 
 **Manipulation Tests in Regression Discontinuity Design: The Need for Equivalence Testing**. [<i>Institute for Replication Discussion Paper Series</i>, No. 136](https://hdl.handle.net/10419/300277), 2024. <br/>
-<small>[ <a href="#/" onclick="visib('rdd-equiv')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/RDD_Equivalence.pdf) ] </small>
+<small>[ <a href="#/" onclick="visib('rdd-equiv')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/RDD_Equivalence.pdf) | [Twitter/X Thread](https://x.com/FitzgeraldJack_/status/1815334145091920105)] </small>
 
 <div id="rdd-equiv" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
@@ -40,7 +40,7 @@ Researchers utilizing regression discontinuity design (RDD) commonly test for ru
 </small><br><br/></div>
 
 **The Need for Equivalence Testing in Economics**. [<i>Institute for Replication Discussion Paper Series</i>, No. 125](https://hdl.handle.net/10419/296190), 2024. Under submission. <br/>
-<small>[ <a href="#/" onclick="visib('equiv-test')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/The_Need_for_Equivalence_Testing_in_Economics.pdf) | [Online Appendix](https://jack-fitzgerald.github.io/files/The_Need_for_Equivalence_Testing_in_Economics_Online_Appendix.pdf) | [30-Minute Presentation](https://youtu.be/ltkuhpcH9mA) ] </small>
+<small>[ <a href="#/" onclick="visib('equiv-test')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/The_Need_for_Equivalence_Testing_in_Economics.pdf) | [Online Appendix](https://jack-fitzgerald.github.io/files/The_Need_for_Equivalence_Testing_in_Economics_Online_Appendix.pdf) | [Twitter/X Thread](https://x.com/FitzgeraldJack_/status/1799091059802149266) | [30-Minute Presentation](https://youtu.be/ltkuhpcH9mA) ] </small>
 
 <div id="equiv-test" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
