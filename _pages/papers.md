@@ -40,7 +40,7 @@ Researchers utilizing regression discontinuity design (RDD) commonly test for ru
 </small><br><br/></div>
 
 **The Need for Equivalence Testing in Economics**. [<i>Institute for Replication Discussion Paper Series</i>, No. 125](https://hdl.handle.net/10419/296190), 2024. Under submission. <br/>
-<small>[ <a href="#/" onclick="visib('equiv-test')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/The_Need_for_Equivalence_Testing_in_Economics.pdf) | [Online Appendix](https://jack-fitzgerald.github.io/files/The_Need_for_Equivalence_Testing_in_Economics_Online_Appendix.pdf) | [Twitter/X Thread](https://x.com/FitzgeraldJack_/status/1799091059802149266) | [30-Minute Presentation](https://youtu.be/ltkuhpcH9mA) ] </small>
+<small>[ <a href="#/" onclick="visib('equiv-test')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/The_Need_for_Equivalence_Testing_in_Economics.pdf) | [Online Appendix](https://jack-fitzgerald.github.io/files/The_Need_for_Equivalence_Testing_in_Economics_Online_Appendix.pdf) | [Twitter/X Thread](https://x.com/FitzgeraldJack_/status/1799091059802149266) | [30-Minute Presentation](https://youtu.be/ltkuhpcH9mA) | [Interview: Economisch Statistische Berichten (in Dutch)](https://esb.nu/we-moeten-vaker-toegeven-dat-er-niks-te-concluderen-valt/)] </small>
 
 <div id="equiv-test" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
