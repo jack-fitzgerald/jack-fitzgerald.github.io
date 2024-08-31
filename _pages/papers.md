@@ -9,6 +9,15 @@ permalink: /papers/
 # <center> Published and Forthcoming Papers </center>
 - - -
 
+**US States That Mandated COVID-19 Vaccination See Higher, Not Lower, Takeup of COVID-19 Boosters and Flu Vaccines**. Forthcoming, *PNAS*. <br/>
+<small>[ <a href="#/" onclick="visib('pnas_replication')">Abstract</a> | [Data & Code](https://osf.io/mdfb4/)] </small>
+
+<div id="pnas_replication" style="display: none; text-align: justify; line-height: 1.2" ><small>
+
+Rains & Richards (2024, <i>PNAS</i>) find that compared to US states that instituted bans on COVID-19 vaccination requirements, states that imposed COVID-19 vaccination mandates exhibit lower adult and child uptake of flu vaccines, and lower uptake of COVID-19 boosters. These differences are generally interpreted causally. However, further inspection reveals that these results are driven by the inclusion of a single bad control variable. When removed, the data instead shows that states which mandated COVID-19 vaccination experience higher COVID-19 booster and flu vaccine takeup than states that banned COVID-19 vaccination requirements.
+
+</small><br><br/></div>
+
 **Is There a Foreign Language Effect on Workplace Bribery Susceptibility? Evidence from a Randomized Controlled Vignette Experiment** (with [Paul Stroet](https://paulstroet.netlify.app/), [Arjen van Witteloostuijn](https://research.vu.nl/en/persons/arjen-van-witteloostuijn), and [Kristina S. Weißmüller](https://www.ksweissmueller.com/)). *Journal of Business Ethics*, 2024. <br/>
 <small>[ <a href="#/" onclick="visib('fle_bribery')">Abstract</a> | [Article (Open Access)](https://doi.org/10.1007/s10551-024-05731-x) | [Draft](https://jack-fitzgerald.github.io/files/JBE_manuscript.pdf) | [Code](https://doi.org/10.17605/OSF.IO/Y3NQ7) ] </small>
 
@@ -20,15 +29,6 @@ Theory and evidence from the behavioral science literature suggest that the wide
 
 # <center> Working Papers </center>
 - - -
-
-**US States That Mandated COVID-19 Vaccination See Higher, Not Lower, Takeup of COVID-19 Boosters and Flu Vaccines**. 2024. R&R, *PNAS*. <br/>
-<small>[ <a href="#/" onclick="visib('pnas_replication')">Abstract</a> | [Data & Code](https://osf.io/mdfb4/)] </small>
-
-<div id="pnas_replication" style="display: none; text-align: justify; line-height: 1.2" ><small>
-
-Rains & Richards (2024, <i>PNAS</i>) find that compared to US states that instituted bans on COVID-19 vaccination requirements, states that imposed COVID-19 vaccination mandates exhibit lower adult and child uptake of flu vaccines, and lower uptake of COVID-19 boosters. These differences are generally interpreted causally. However, further inspection reveals that these results are driven by the inclusion of a single bad control variable. When removed, the data instead shows that states which mandated COVID-19 vaccination experience higher COVID-19 booster and flu vaccine takeup than states that banned COVID-19 vaccination requirements.
-
-</small><br><br/></div>
 
 **Manipulation Tests in Regression Discontinuity Design: The Need for Equivalence Testing**. [<i>Institute for Replication Discussion Paper Series</i>, No. 136](https://hdl.handle.net/10419/300277), 2024. <br/>
 <small>[ <a href="#/" onclick="visib('rdd-equiv')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/RDD_Equivalence.pdf) | [Twitter/X Thread](https://x.com/FitzgeraldJack_/status/1815334145091920105)] </small>
