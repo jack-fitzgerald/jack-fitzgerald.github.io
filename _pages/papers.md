@@ -30,7 +30,7 @@ Theory and evidence from the behavioral science literature suggest that the wide
 # <center> Working Papers </center>
 - - -
 
-**Manipulation Tests in Regression Discontinuity Design: The Need for Equivalence Testing**. [<i>Institute for Replication Discussion Paper Series</i>, No. 136](https://hdl.handle.net/10419/300277), 2024. <br/>
+**Manipulation Tests in Regression Discontinuity Design: The Need for Equivalence Testing**. [<i>Institute for Replication Discussion Paper Series</i>, No. 136](https://hdl.handle.net/10419/300277), 2024. Under submission. <br/>
 <small>[ <a href="#/" onclick="visib('rdd-equiv')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/RDD_Equivalence.pdf) | [Twitter/X Thread](https://x.com/FitzgeraldJack_/status/1815334145091920105)] </small>
 
 <div id="rdd-equiv" style="display: none; text-align: justify; line-height: 1.2" ><small>
