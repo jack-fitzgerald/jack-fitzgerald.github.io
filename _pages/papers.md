@@ -30,7 +30,7 @@ Theory and evidence from the behavioral science literature suggest that the wide
 # <center> Working Papers </center>
 - - -
 
-**Imputations, Inverse Hyperbolic Sines, and Impossible Values** 2024. Under invited submission, *Nature Human Behaviour*. <br/>
+**Imputations, Inverse Hyperbolic Sines, and Impossible Values**. 2024. Under invited submission, *Nature Human Behaviour*. <br/>
 <small>[ <a href="#/" onclick="visib('WEA23')">Abstract</a> | [Data & Code](https://osf.io/hce6n/) | [Draft](https://jack-fitzgerald.github.io/files/WEA23_Replication.pdf)] </small>
 
 <div id="WEA23" style="display: none; text-align: justify; line-height: 1.2" ><small>
