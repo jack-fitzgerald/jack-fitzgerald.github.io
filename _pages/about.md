@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in economics at Vrije Universiteit (VU) Amsterdam. I work on issues in applied econometrics, behavioral economics, and methodology. 
+I am a PhD candidate in economics at Vrije Universiteit (VU) Amsterdam. I work on issues in applied econometrics, replication, and methodology. 
 
 Equivalence testing is a major focus of my current research. I document [empirical evidence](https://jack-fitzgerald.github.io/files/The_Need_for_Equivalence_Testing_in_Economics.pdf) that null claims made in the absence of equivalence testing exhibit high error rates in top economics journals. To facilitate adoption, I offer practical guidelines and develop [software commands](https://jack-fitzgerald.github.io/code/) for implementing equivalence testing. I also introduce equivalence testing improvements to standard methodologies (for instance, see [my paper on manipulation testing for regression discontinuity](https://jack-fitzgerald.github.io/files/RDD_Equivalence.pdf)), and introduce equivalence testing to different disciplines through empirical applications (for example, see [my article in <i>Journal of Business Ethics</i>](https://doi.org/10.1007/s10551-024-05731-x)). 
 
