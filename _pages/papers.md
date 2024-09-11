@@ -10,7 +10,7 @@ permalink: /papers/
 - - -
 
 **US States That Mandated COVID-19 Vaccination See Higher, Not Lower, Takeup of COVID-19 Boosters and Flu Vaccines**. Accepted, *PNAS*. <br/>
-<small>[ <a href="#/" onclick="visib('pnas_replication')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/RR24_Replication.pdf)] | [Data & Code](https://osf.io/mdfb4/)] </small>
+<small>[ <a href="#/" onclick="visib('pnas_replication')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/RR24_Replication.pdf) | [Data & Code](https://osf.io/mdfb4/)] </small>
 
 <div id="pnas_replication" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
