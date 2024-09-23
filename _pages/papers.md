@@ -58,7 +58,7 @@ I introduce equivalence testing procedures that can provide statistically signif
 </small><br><br/></div>
 
 **Identifying the Impact of Hypothetical Incentives on Experimental Outcomes and Treatment Effects**. 2024. <br/>
-<small>[ <a href="#/" onclick="visib('WEA23')">Abstract</a> | [Code & Data Retrieval Instructions]([https://osf.io/hce6n/](https://osf.io/fe6jn/)) | [Draft](https://jack-fitzgerald.github.io/files/Hypothetical_Incentives.pdf)] </small>
+<small>[ <a href="#/" onclick="visib('WEA23')">Abstract</a> | [Code & Data Retrieval Instructions](https://osf.io/fe6jn/) | [Draft](https://jack-fitzgerald.github.io/files/Hypothetical_Incentives.pdf)] </small>
 
 <div id="WEA23" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
