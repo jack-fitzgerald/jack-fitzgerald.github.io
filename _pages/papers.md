@@ -57,6 +57,15 @@ I introduce equivalence testing procedures that can provide statistically signif
 
 </small><br><br/></div>
 
+**Identifying the Impact of Hypothetical Incentives on Experimental Outcomes and Treatment Effects**. 2024. <br/>
+<small>[ <a href="#/" onclick="visib('WEA23')">Abstract</a> | [Code & Data Retrieval Instructions]([https://osf.io/hce6n/](https://osf.io/fe6jn/)) | [Draft](https://jack-fitzgerald.github.io/files/Hypothetical_Incentives.pdf)] </small>
+
+<div id="WEA23" style="display: none; text-align: justify; line-height: 1.2" ><small>
+
+Recent findings showing that outcome variables do not statistically significantly differ between incentivized and unincentivized conditions in experiments have spurred methodological challenges to experimental economics' disciplinary norm that experimental choices should be incentivized with real stakes. I show that the classical hypothetical bias measures estimated in these studies do not econometrically identify the kinds of hypothetical bias that matter in most modern experiments. Specifically, classical hypothetical bias measures are fully informative in 'elicitation experiments' where the researcher is uninterested in treatment effects (TEs). However, in 'intervention experiments' where TEs are of interest, classical measures are uninformative, and incentivization schemes matter if and only if TEs are heterogeneous between incentivization schemes. I demonstrate that classical hypothetical bias metrics can be misleading measures of hypothetical bias for intervention experiments, both econometrically and through several empirical applications. The fact that a given experimental outcome does not statistically significantly differ on average between incentivization conditions does not imply that all TEs on that outcome are unimpacted by incentivization. Therefore, the recent hypothetical bias literature does not justify leaving most modern experiments unincentivized. Norms in favor of completely or probabilistically incentivizing  experimental choices remain useful for ensuring externally valid TEs in experimental economics.
+
+</small><br><br/></div>
+
 **The Problems with Poor Proxies: Does Innovation Mitigate Agricultural Damage from Climate Change?** 2024. <br/>
 <small>[ <a href="#/" onclick="visib('MS23')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/MS23_Replication.pdf) | [Data & Code](https://osf.io/d7wz9/) ] </small>
 
