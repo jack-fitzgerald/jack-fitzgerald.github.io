@@ -57,6 +57,15 @@ I introduce equivalence testing procedures that can provide statistically signif
 
 </small><br><br/></div>
 
+**Revisiting the Impacts of Anti-Discrimination Employment Protections on American Businesses**. 2024. Under submission. <br/>
+<small>[ <a href="#/" onclick="visib('GS22')">Abstract</a> | [Code & Data Retrieval Instructions](https://osf.io/6q4k5/) | [Draft](https://jack-fitzgerald.github.io/files/GS22_Replication.pdf)] </small>
+
+<div id="GS22" style="display: none; text-align: justify; line-height: 1.2" ><small>
+
+Greene & Shenoy (2022) - henceforth GS22 - find that the staggered adoption of U.S. state-level protections against racial discrimination in employment decreased both the profitability and leverage of affected businesses. However, these results arise from two-way fixed effects (TWFE) difference-in-differences models. Such models are now known to return inaccurate estimates of average treatment effects on the treated (ATTs) when treatment assignment is staggered, as some firm-year ATTs can enter the TWFE estimator with negative weight. I find that 21-36% of firm-year ATTs in GS22's sample enter the TWFE estimator with negative weight. I then replicate GS22's results using recently-developed difference-in-differences estimators that return valid ATT estimates under staggered adoption. None of these new ATT estimates are statistically significantly different from zero.
+
+</small><br><br/></div>
+
 **Identifying the Impact of Hypothetical Incentives on Experimental Outcomes and Treatment Effects**. 2024. <br/>
 <small>[ <a href="#/" onclick="visib('hypo-bias')">Abstract</a> | [Code & Data Retrieval Instructions](https://osf.io/fe6jn/) | [Draft](https://jack-fitzgerald.github.io/files/Hypothetical_Incentives.pdf)] </small>
 
