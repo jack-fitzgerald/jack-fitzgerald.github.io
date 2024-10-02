@@ -6,6 +6,18 @@ permalink: /papers/
 ---
 <br/> 
 
+# <center> Job Market Paper </center>
+- - -
+
+**The Need for Equivalence Testing in Economics**. [<i>Institute for Replication Discussion Paper Series</i>, No. 125](https://hdl.handle.net/10419/296190), 2024. Under submission. <br/>
+<small>[ <a href="#/" onclick="visib('equiv-test')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/The_Need_for_Equivalence_Testing_in_Economics.pdf) | [Online Appendix](https://jack-fitzgerald.github.io/files/The_Need_for_Equivalence_Testing_in_Economics_Online_Appendix.pdf) | [Twitter/X Thread](https://x.com/FitzgeraldJack_/status/1799091059802149266) | [30-Minute Presentation](https://youtu.be/ltkuhpcH9mA) | [Interview: Economisch Statistische Berichten (in Dutch)](https://esb.nu/we-moeten-vaker-toegeven-dat-er-niks-te-concluderen-valt/)] </small>
+
+<div id="equiv-test" style="display: none; text-align: justify; line-height: 1.2" ><small>
+
+I introduce equivalence testing procedures that can provide statistically significant evidence that economic relationships are practically equal to zero. I then demonstrate their necessity by systematically reproducing the estimates that defend 135 null claims made in 81 articles from top economics journals. 36-63% of these estimates fail lenient equivalence tests. Though prediction platform data reveals that researchers find these equivalence testing failure rates (ETFRs) to be unacceptably high, researchers actually anticipate unacceptably high ETFRs, accurately predicting that ETFRs exceed acceptable thresholds by around 23 percentage points. To obtain ETFRs that researchers deem acceptable, one must contend that nearly 75% of published effect sizes in economics are practically equal to zero. This implies that Type II error rates are unacceptably high throughout economics. This paper provides economists with empirical justification, guidelines, and commands in Stata and R for conducting credible equivalence testing and practical significance testing in future research.
+
+</small><br><br/></div>
+
 # <center> Published and Forthcoming Papers </center>
 - - -
 
@@ -54,15 +66,6 @@ Moscona & Sastry (2023, <i>Quarterly Journal of Economics</i>) - henceforth MS23
 <div id="rdd-equiv" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
 Researchers utilizing regression discontinuity design (RDD) commonly test for running variable (RV) manipulation around a cutoff, but incorrectly assert that insignificant manipulation test statistics are evidence of negligible manipulation. I introduce simple frequentist equivalence testing procedures that can provide statistically significant evidence that RV manipulation around a cutoff is practically equivalent to zero. I then demonstrate the necessity of these procedures, leveraging replication data from 36 RDD publications to conduct 45 equivalence-based RV manipulation tests. Over 44% of RV density discontinuities at the cutoff can not be significantly bounded beneath a 50% upward jump. Bounding equivalence-based manipulation test failure rates beneath 5% requires arguing that a 350% upward density jump is practically equivalent to zero. Meta-analytic estimates reveal that average RV manipulation around the cutoff is equivalent to a 26% upward density jump. These results imply that many published RDD estimates may be confounded by discontinuities in potential outcomes due to RV manipulation that remains undetectable by existing tests. I provide research guidelines and commands in Stata and R to help researchers conduct more credible equivalence-based manipulation testing in future RDD research.
-
-</small><br><br/></div>
-
-**The Need for Equivalence Testing in Economics**. [<i>Institute for Replication Discussion Paper Series</i>, No. 125](https://hdl.handle.net/10419/296190), 2024. Under submission. <br/>
-<small>[ <a href="#/" onclick="visib('equiv-test')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/The_Need_for_Equivalence_Testing_in_Economics.pdf) | [Online Appendix](https://jack-fitzgerald.github.io/files/The_Need_for_Equivalence_Testing_in_Economics_Online_Appendix.pdf) | [Twitter/X Thread](https://x.com/FitzgeraldJack_/status/1799091059802149266) | [30-Minute Presentation](https://youtu.be/ltkuhpcH9mA) | [Interview: Economisch Statistische Berichten (in Dutch)](https://esb.nu/we-moeten-vaker-toegeven-dat-er-niks-te-concluderen-valt/)] </small>
-
-<div id="equiv-test" style="display: none; text-align: justify; line-height: 1.2" ><small>
-
-I introduce equivalence testing procedures that can provide statistically significant evidence that economic relationships are practically equal to zero. I then demonstrate their necessity by systematically reproducing the estimates that defend 135 null claims made in 81 articles from top economics journals. 36-63% of these estimates fail lenient equivalence tests. Though prediction platform data reveals that researchers find these equivalence testing failure rates (ETFRs) to be unacceptably high, researchers actually anticipate unacceptably high ETFRs, accurately predicting that ETFRs exceed acceptable thresholds by around 23 percentage points. To obtain ETFRs that researchers deem acceptable, one must contend that nearly 75% of published effect sizes in economics are practically equal to zero. This implies that Type II error rates are unacceptably high throughout economics. This paper provides economists with empirical justification, guidelines, and commands in Stata and R for conducting credible equivalence testing and practical significance testing in future research.
 
 </small><br><br/></div>
 
