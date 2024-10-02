@@ -10,7 +10,7 @@ permalink: /papers/
 - - -
 
 **US States That Mandated COVID-19 Vaccination See Higher, Not Lower, Take-Up of COVID-19 Boosters and Flu Vaccines**. *Proceedings of the National Academy of Sciences* (121)41, e2403758121, 2024. <br/>
-<small>[ <a href="#/" onclick="visib('pnas_replication')">Abstract</a> | [Article (Open Access)](https://doi.org/10.1073/pnas.2403758121) | [Draft](https://jack-fitzgerald.github.io/files/RR24_Replication.pdf) | [Data & Code, Published Replication](https://osf.io/mdfb4/) | [Response to Reply](https://jack-fitzgerald.github.io/files/RR24_Response_to_Reply.pdf) | [Data & Code, Response to Reply](https://osf.io/9cn38/) | [Twitter/X Thread](https://twitter.com/FitzgeraldJack_/status/1841491274391597266) ] </small>
+<small>[ <a href="#/" onclick="visib('pnas_replication')">Abstract</a> | [Article (Open Access)](https://doi.org/10.1073/pnas.2403758121) | [Draft](https://jack-fitzgerald.github.io/files/RR24_Replication.pdf) | [Data & Code, Published Replication](https://osf.io/mdfb4/) | [Reply](https://www.pnas.org/doi/10.1073/pnas.2409246121) | [Response to Reply](https://jack-fitzgerald.github.io/files/RR24_Response_to_Reply.pdf) | [Data & Code, Response to Reply](https://osf.io/9cn38/) | [Twitter/X Thread](https://twitter.com/FitzgeraldJack_/status/1841491274391597266) ] </small>
 
 <div id="pnas_replication" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
