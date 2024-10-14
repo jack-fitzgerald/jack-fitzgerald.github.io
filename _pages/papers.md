@@ -87,6 +87,15 @@ Recent studies showing that some outcome variables do not statistically signific
 
 </small><br><br/></div>
 
+# <center> Selected Works in Progress </center>
+- - -
+
+**The Impacts of Replications in Economics**. Joint with [Bob Reed](https://profiles.canterbury.ac.nz/Bob-Reed) and [Tom Coupé](https://profiles.canterbury.ac.nz/Tom-Coupe).
+
+**The Nuclear Option: Cross-Country Evidence on the Impacts of Nuclear Power Supply**.
+
+**Fine Enough or Don't Fine At All?**.
+
 [//]: This java script is the button to show abstract
 <script>
  function visib(id) {
