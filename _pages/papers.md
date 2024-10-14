@@ -94,7 +94,7 @@ Recent studies showing that some outcome variables do not statistically signific
 
 **The Nuclear Option: Cross-Country Evidence on the Impacts of Nuclear Power Supply**.
 
-**Fine Enough or Don't Fine At All?**.
+**Fine Enough or Don't Fine At All?**
 
 [//]: This java script is the button to show abstract
 <script>
