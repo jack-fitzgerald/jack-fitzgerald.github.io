@@ -92,9 +92,11 @@ Recent studies showing that some outcome variables do not statistically signific
 
 **The Impacts of Replications in Economics** (with [Bob Reed](https://profiles.canterbury.ac.nz/Bob-Reed) and [Tom Coupé](https://profiles.canterbury.ac.nz/Tom-Coupe)).
 
-**The Nuclear Option: Cross-Country Evidence on the Impacts of Nuclear Power Supply**.
+**Practical Significance Testing in Psychological Research: A Tutorial in Three-Sided Testing** (with [Peder Isager](https://pedermisager.org/)).
 
 **Fine Enough or Don't Fine At All? Experimental Evidence on Optimal Fine Levels for Natural Resource Conservation**.
+
+**The Nuclear Option: Cross-Country Evidence on the Impacts of Nuclear Power Supply**.
 
 [//]: This java script is the button to show abstract
 <script>
