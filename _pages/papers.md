@@ -51,6 +51,15 @@ Wolfowicz et al. (2023, <i>Nature Human Behaviour</i>) find that more arrests an
 
 </small><br><br/></div>
 
+**Revisiting the Impacts of Anti-Discrimination Employment Protections on American Businesses**. 2024. Under submission, <i>Management Science</i>.
+<small>[ <a href="#/" onclick="visib('GS22')">Abstract</a> | [Code & Data Retrieval Instructions](https://osf.io/6q4k5/) | [Draft](https://jack-fitzgerald.github.io/files/GS22_Replication.pdf)] </small>
+
+<div id="GS22" style="display: none; text-align: justify; line-height: 1.2" ><small>
+
+Greene & Shenoy (2022, <i>Management Science</i>) - henceforth GS22 - find that the staggered adoption of U.S. state-level protections against racial discrimination in employment decreased both the profitability and leverage of affected businesses. However, these results arise from two-way fixed effects (TWFE) difference-in-differences models. Such models are now known to return inaccurate estimates of average treatment effects on the treated (ATTs) when treatment assignment is staggered, as some firm-year ATTs can enter the TWFE estimator with negative weight. I find that 21-36% of firm-year ATTs in GS22's sample enter the TWFE estimator with negative weight. I then replicate GS22's results using recently-developed difference-in-differences estimators that return valid ATT estimates under staggered adoption. None of these new ATT estimates are statistically significantly different from zero.
+
+</small><br><br/></div>
+
 **The Problems with Poor Proxies: Does Innovation Mitigate Agricultural Damage from Climate Change?** [<i>Institute for Replication Discussion Paper Series</i>, No. 158](https://www.econstor.eu/handle/10419/303190), 2024. <br/>
 <small>[ <a href="#/" onclick="visib('MS23')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/MS23_Replication.pdf) | [Data & Code](https://osf.io/d7wz9/) | [Authors' Response](https://www.econstor.eu/handle/10419/303191) | [Twitter/X Thread](https://threadreaderapp.com/thread/1844359711854104708.html) ] </small>
 
@@ -66,15 +75,6 @@ Moscona & Sastry (2023, <i>Quarterly Journal of Economics</i>) - henceforth MS23
 <div id="rdd-equiv" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
 Researchers utilizing regression discontinuity design (RDD) commonly test for running variable (RV) manipulation around a cutoff, but incorrectly assert that insignificant manipulation test statistics are evidence of negligible manipulation. I introduce simple frequentist equivalence testing procedures that can provide statistically significant evidence that RV manipulation around a cutoff is practically equivalent to zero. I then demonstrate the necessity of these procedures, leveraging replication data from 36 RDD publications to conduct 45 equivalence-based RV manipulation tests. Over 44% of RV density discontinuities at the cutoff can not be significantly bounded beneath a 50% upward jump. Bounding equivalence-based manipulation test failure rates beneath 5% requires arguing that a 350% upward density jump is practically equivalent to zero. Meta-analytic estimates reveal that average RV manipulation around the cutoff is equivalent to a 26% upward density jump. These results imply that many published RDD estimates may be confounded by discontinuities in potential outcomes due to RV manipulation that remains undetectable by existing tests. I provide research guidelines and commands in Stata and R to help researchers conduct more credible equivalence-based manipulation testing in future RDD research.
-
-</small><br><br/></div>
-
-**Revisiting the Impacts of Anti-Discrimination Employment Protections on American Businesses**. 2024. Under submission. <br/>
-<small>[ <a href="#/" onclick="visib('GS22')">Abstract</a> | [Code & Data Retrieval Instructions](https://osf.io/6q4k5/) | [Draft](https://jack-fitzgerald.github.io/files/GS22_Replication.pdf)] </small>
-
-<div id="GS22" style="display: none; text-align: justify; line-height: 1.2" ><small>
-
-Greene & Shenoy (2022, <i>Management Science</i>) - henceforth GS22 - find that the staggered adoption of U.S. state-level protections against racial discrimination in employment decreased both the profitability and leverage of affected businesses. However, these results arise from two-way fixed effects (TWFE) difference-in-differences models. Such models are now known to return inaccurate estimates of average treatment effects on the treated (ATTs) when treatment assignment is staggered, as some firm-year ATTs can enter the TWFE estimator with negative weight. I find that 21-36% of firm-year ATTs in GS22's sample enter the TWFE estimator with negative weight. I then replicate GS22's results using recently-developed difference-in-differences estimators that return valid ATT estimates under staggered adoption. None of these new ATT estimates are statistically significantly different from zero.
 
 </small><br><br/></div>
 
