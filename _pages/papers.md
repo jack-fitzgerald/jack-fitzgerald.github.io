@@ -18,7 +18,7 @@ Equivalence testing can provide statistically significant evidence that economic
 
 </small><br><br/></div>
 
-# <center> Published and Forthcoming Papers </center>
+# <center> Published and Forthcoming Articles </center>
 - - -
 
 **US States That Mandated COVID-19 Vaccination See Higher, Not Lower, Take-Up of COVID-19 Boosters and Flu Vaccines**. *Proceedings of the National Academy of Sciences* (121)41, e2403758121, 2024. <br/>
