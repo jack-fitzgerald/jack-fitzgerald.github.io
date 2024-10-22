@@ -60,21 +60,21 @@ Wolfowicz et al. (2023, <i>Nature Human Behaviour</i>) find that more arrests an
 
 </small><br><br/></div>
 
+**The Problems with Poor Proxies: Does Innovation Mitigate Agricultural Damage from Climate Change?** [<i>Institute for Replication Discussion Paper Series</i>, No. 158](https://www.econstor.eu/handle/10419/303190), 2024. Under submission, <i>Quarterly Journal of Economics</i>. <br/>
+<small>[ <a href="#/" onclick="visib('MS23')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/MS23_Replication.pdf) | [Data & Code](https://osf.io/d7wz9/) | [Authors' Response](https://www.econstor.eu/handle/10419/303191) | [Twitter/X Thread](https://threadreaderapp.com/thread/1844359711854104708.html) ] </small>
+
+<div id="MS23" style="display: none; text-align: justify; line-height: 1.2" ><small>
+
+Moscona & Sastry (2023, <i>Quarterly Journal of Economics</i>) - henceforth MS23 - find that cropland values are significantly less damaged by extreme heat exposure (EHE) when crops are more exposed to technological innovation. However, MS23's 'innovation exposure' variable does not measure innovation, instead proxying innovation using a measure of crops' national heat exposure. A re-examination of MS23's replication data - which permits a close but inexact reproduction of MS23's published findings - shows that this proxy moderates EHE impacts for reasons unrelated to innovation. The proxy is practically identical to local EHE, so MS23's models examining interaction effects between their proxy and local EHE effectively interact local EHE with itself. I document extensive evidence that MS23's findings on 'innovation exposure' are simply artefacts of nonlinear impacts in local EHE, and uncover robustness issues for other key findings. I then construct direct measures of innovation exposure from MS23's crop variety and patenting data. Replacing MS23's proxy with these direct innovation measures decreases MS23's moderating effect estimates by at least 99.8% in standardized units; none of these new estimates are statistically significantly different from zero. Similar results arise from an instrumental variables strategy that instruments my direct innovation measures with MS23's heat proxy. These results cast doubt on the general capacity for market innovations to mitigate agricultural damage from climate change.
+
+</small><br><br/></div>
+
 **Revisiting the Impacts of Anti-Discrimination Employment Protections on American Businesses**. 2024. Under submission, <i>Management Science</i>.
 <small>[ <a href="#/" onclick="visib('GS22')">Abstract</a> | [Code & Data Retrieval Instructions](https://osf.io/6q4k5/) | [Draft](https://jack-fitzgerald.github.io/files/GS22_Replication.pdf)] </small>
 
 <div id="GS22" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
 Greene & Shenoy (2022, <i>Management Science</i>) - henceforth GS22 - find that the staggered adoption of U.S. state-level protections against racial discrimination in employment decreased both the profitability and leverage of affected businesses. However, these results arise from two-way fixed effects (TWFE) difference-in-differences models. Such models are now known to return inaccurate estimates of average treatment effects on the treated (ATTs) when treatment assignment is staggered, as some firm-year ATTs can enter the TWFE estimator with negative weight. I find that 21-36% of firm-year ATTs in GS22's sample enter the TWFE estimator with negative weight. I then replicate GS22's results using recently-developed difference-in-differences estimators that return valid ATT estimates under staggered adoption. None of these new ATT estimates are statistically significantly different from zero.
-
-</small><br><br/></div>
-
-**The Problems with Poor Proxies: Does Innovation Mitigate Agricultural Damage from Climate Change?** [<i>Institute for Replication Discussion Paper Series</i>, No. 158](https://www.econstor.eu/handle/10419/303190), 2024. <br/>
-<small>[ <a href="#/" onclick="visib('MS23')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/MS23_Replication.pdf) | [Data & Code](https://osf.io/d7wz9/) | [Authors' Response](https://www.econstor.eu/handle/10419/303191) | [Twitter/X Thread](https://threadreaderapp.com/thread/1844359711854104708.html) ] </small>
-
-<div id="MS23" style="display: none; text-align: justify; line-height: 1.2" ><small>
-
-Moscona & Sastry (2023, <i>Quarterly Journal of Economics</i>) - henceforth MS23 - find that cropland values are significantly less damaged by extreme heat exposure (EHE) when crops are more exposed to technological innovation. However, MS23's 'innovation exposure' variable does not measure innovation, instead proxying innovation using a measure of crops' national heat exposure. A re-examination of MS23's replication data - which permits a close but inexact reproduction of MS23's published findings - shows that this proxy moderates EHE impacts for reasons unrelated to innovation. The proxy is practically identical to local EHE, so MS23's models examining interaction effects between their proxy and local EHE effectively interact local EHE with itself. I document extensive evidence that MS23's findings on 'innovation exposure' are simply artefacts of nonlinear impacts in local EHE, and uncover robustness issues for other key findings. I then construct direct measures of innovation exposure from MS23's crop variety and patenting data. Replacing MS23's proxy with these direct innovation measures decreases MS23's moderating effect estimates by at least 99.8% in standardized units; none of these new estimates are statistically significantly different from zero. Similar results arise from an instrumental variables strategy that instruments my direct innovation measures with MS23's heat proxy. These results cast doubt on the general capacity for market innovations to mitigate agricultural damage from climate change.
 
 </small><br><br/></div>
 
