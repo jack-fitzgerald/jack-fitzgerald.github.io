@@ -43,7 +43,7 @@ Theory and evidence from the behavioral science literature suggest that the wide
 - - -
 
 **Identifying the Impact of Hypothetical Incentives on Experimental Outcomes and Treatment Effects**. 2024. Under invited submission, <i>Experimental Economics</i>. <br/>
-<small>[ <a href="#/" onclick="visib('hypo-bias')">Abstract</a> | [Code & Data Retrieval Instructions](https://osf.io/fe6jn/) | [Draft](https://jack-fitzgerald.github.io/files/Hypothetical_Bias.pdf)] </small>
+<small>[ <a href="#/" onclick="visib('hypo-bias')">Abstract</a> | [Code & Data Retrieval Instructions](https://osf.io/fe6jn/) | [Draft](https://jack-fitzgerald.github.io/files/Hypothetical_Bias.pdf) ] </small>
 
 <div id="hypo-bias" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
@@ -52,7 +52,7 @@ Recent studies showing that some outcome variables do not statistically signific
 </small><br><br/></div>
 
 **Imputations, Inverse Hyperbolic Sines, and Impossible Values**. 2024. Under invited submission, *Nature Human Behaviour*. <br/>
-<small>[ <a href="#/" onclick="visib('WEA23')">Abstract</a> | [Data & Code](https://osf.io/hce6n/) | [Draft](https://jack-fitzgerald.github.io/files/WEA23_Replication.pdf)] </small>
+<small>[ <a href="#/" onclick="visib('WEA23')">Abstract</a> | [Data & Code](https://osf.io/hce6n/) | [Draft](https://jack-fitzgerald.github.io/files/WEA23_Replication.pdf) ] </small>
 
 <div id="WEA23" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
@@ -61,7 +61,7 @@ Wolfowicz et al. (2023, <i>Nature Human Behaviour</i>) find that more arrests an
 </small><br><br/></div>
 
 **Revisiting the Impacts of Anti-Discrimination Employment Protections on American Businesses**. 2024. Under submission, <i>Management Science</i>.
-<small>[ <a href="#/" onclick="visib('GS22')">Abstract</a> | [Code & Data Retrieval Instructions](https://osf.io/6q4k5/) | [Draft](https://jack-fitzgerald.github.io/files/GS22_Replication.pdf)] </small>
+<small>[ <a href="#/" onclick="visib('GS22')">Abstract</a> | [Code & Data Retrieval Instructions](https://osf.io/6q4k5/) | [Draft](https://jack-fitzgerald.github.io/files/GS22_Replication.pdf) ] </small>
 
 <div id="GS22" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
@@ -79,7 +79,7 @@ Moscona & Sastry (2023, <i>Quarterly Journal of Economics</i>) - henceforth MS23
 </small><br><br/></div>
 
 **Manipulation Tests in Regression Discontinuity Design: The Need for Equivalence Testing**. [<i>Institute for Replication Discussion Paper Series</i>, No. 136](https://hdl.handle.net/10419/300277), 2024. Under submission. <br/>
-<small>[ <a href="#/" onclick="visib('rdd-equiv')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/RDD_Equivalence.pdf) | [Twitter/X Thread](https://threadreaderapp.com/thread/1815334145091920105.html)] </small>
+<small>[ <a href="#/" onclick="visib('rdd-equiv')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/RDD_Equivalence.pdf) | [Twitter/X Thread](https://threadreaderapp.com/thread/1815334145091920105.html) ] </small>
 
 <div id="rdd-equiv" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
