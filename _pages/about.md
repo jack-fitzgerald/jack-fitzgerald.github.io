@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in economics at Vrije Universiteit (VU) Amsterdam. I work on issues in applied econometrics, replication, and economics of science. 
+I am a PhD candidate in economics at Vrije Universiteit Amsterdam and the Tinbergen Institute. I work on issues in applied econometrics, replication, and economics of science. 
 
 I am dedicated to improving methods in scientific research. My research can broadly be categorized as follows:
 * **Equivalence testing and practical significance testing.** [My job market paper](https://jack-fitzgerald.github.io/files/The_Need_for_Equivalence_Testing_in_Economics.pdf) introduces methods that can provide statistically significant evidence that economic relationships are practically equal to zero. In their absence, error rates in top economics journals are quite high. I’ve also employed these tests in empirical applications, such as [my article in <i>Journal of Business Ethics</i>](https://link.springer.com/article/10.1007/s10551-024-05731-x).
