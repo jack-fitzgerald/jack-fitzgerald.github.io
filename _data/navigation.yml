@@ -6,8 +6,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Software Packages"
-    url: /packages/
+  - title: "Software"
+    url: /software/
     
   - title: "CV"
     url: /files/jack_fitzgerald_cv.pdf
