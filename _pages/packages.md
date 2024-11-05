@@ -8,7 +8,7 @@ author_profile: true
 **shinyTST** <br/>
 <small>[ [Website](https://jack-fitzgerald.shinyapps.io/shinyTST/) ] </small>
 
-A Shiny app for three-sided testin g([Goeman, Solari, & Stijnen 2010](https://doi.org/10.1002/sim.4002)). Shiny adaptation of the <b>tst</b> command in my <b>eqtesting</b> R package. Developed jointly with [Peder Isager](https://pedermisager.org/).
+A Shiny app for three-sided testing ([Goeman, Solari, & Stijnen 2010](https://doi.org/10.1002/sim.4002)). Shiny adaptation of the <b>tst</b> command in my <b>eqtesting</b> R package. Developed jointly with [Peder Isager](https://pedermisager.org/).
 
 **eqtesting** <br/>
 <small>[ [Github Repository](https://github.com/jack-fitzgerald/eqtesting) ] </small>
