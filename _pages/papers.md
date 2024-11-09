@@ -9,7 +9,7 @@ permalink: /papers/
 # <center> Job Market Paper </center>
 - - -
 
-**The Need for Equivalence Testing in Economics**. [<i>Institute for Replication Discussion Paper Series</i>, No. 125](https://hdl.handle.net/10419/296190), 2024. <br/>
+**The Need for Equivalence Testing in Economics**. [<i>Institute for Replication Discussion Paper Series</i> No. 125](https://hdl.handle.net/10419/296190), 2024. <br/>
 <small>[ <a href="#/" onclick="visib('equiv-test')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/The_Need_for_Equivalence_Testing_in_Economics.pdf) | [Online Appendix](https://jack-fitzgerald.github.io/files/The_Need_for_Equivalence_Testing_in_Economics_Online_Appendix.pdf) | [30-Minute Presentation](https://youtu.be/ltkuhpcH9mA) | [Interview: Economisch Statistische Berichten (in Dutch)](https://esb.nu/we-moeten-vaker-toegeven-dat-er-niks-te-concluderen-valt/) ] </small>
 
 <div id="equiv-test" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -42,7 +42,7 @@ Theory and evidence from the behavioral science literature suggest that the wide
 # <center> Working Papers </center>
 - - -
 
-**Identifying the Impact of Hypothetical Incentives on Experimental Outcomes and Treatment Effects**. [<i>Tinbergen Institute Discussion Paper Series</i>, No. 24/070-I](https://papers.tinbergen.nl/24070.pdf) 2024. Under invited submission, <i>Experimental Economics</i>. <br/>
+**Identifying the Impact of Hypothetical Incentives on Experimental Outcomes and Treatment Effects**. [<i>Tinbergen Institute Discussion Paper Series</i> No. 24/070-I](https://papers.tinbergen.nl/24070.pdf), 2024. Under invited submission, <i>Experimental Economics</i>. <br/>
 <small>[ <a href="#/" onclick="visib('hypo-bias')">Abstract</a> | [Code & Data Retrieval Instructions](https://osf.io/fe6jn/) | [Draft](https://jack-fitzgerald.github.io/files/Hypothetical_Bias.pdf) ] </small>
 
 <div id="hypo-bias" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -69,7 +69,7 @@ Greene & Shenoy (2022, <i>Management Science</i>) - henceforth GS22 - find that 
 
 </small><br><br/></div>
 
-**The Problems with Poor Proxies: Does Innovation Mitigate Agricultural Damage from Climate Change?** [<i>Institute for Replication Discussion Paper Series</i>, No. 158](https://www.econstor.eu/handle/10419/303190), 2024. Under submission. <br/>
+**The Problems with Poor Proxies: Does Innovation Mitigate Agricultural Damage from Climate Change?** [<i>Institute for Replication Discussion Paper Series</i> No. 158](https://www.econstor.eu/handle/10419/303190), 2024. Under submission. <br/>
 <small>[ <a href="#/" onclick="visib('MS23')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/MS23_Replication.pdf) | [Data & Code](https://osf.io/d7wz9/) | [Authors' Response](https://www.econstor.eu/handle/10419/303191) | [Twitter/X Thread](https://threadreaderapp.com/thread/1844359711854104708.html) ] </small>
 
 <div id="MS23" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -78,7 +78,7 @@ Moscona & Sastry (2023, <i>Quarterly Journal of Economics</i>) - henceforth MS23
 
 </small><br><br/></div>
 
-**Manipulation Tests in Regression Discontinuity Design: The Need for Equivalence Testing**. [<i>Institute for Replication Discussion Paper Series</i>, No. 136](https://hdl.handle.net/10419/300277), 2024. Under submission. <br/>
+**Manipulation Tests in Regression Discontinuity Design: The Need for Equivalence Testing**. [<i>Institute for Replication Discussion Paper Series</i> No. 136](https://hdl.handle.net/10419/300277), 2024. Under submission. <br/>
 <small>[ <a href="#/" onclick="visib('rdd-equiv')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/RDD_Equivalence.pdf) | [Slides](https://jack-fitzgerald.github.io/files/CDSM24_Slides.pdf) | [Twitter/X Thread](https://threadreaderapp.com/thread/1815334145091920105.html) ] </small>
 
 <div id="rdd-equiv" style="display: none; text-align: justify; line-height: 1.2" ><small>
