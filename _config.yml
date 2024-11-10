@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Jack Fitzgerald"
   pronouns         : # example: "she/her"  
-  bio              : "Economics PhD Candidate"
+  bio              : "Economics PhD Candidate, Vrije Universiteit Amsterdam and Tinbergen Institute"
   location         : #
-  employer         : "Vrije Universiteit Amsterdam and Tinbergen Institute"
+  employer         : #
   uri              : #URL
   email            : "j.f.fitzgerald@vu.nl" 
 
