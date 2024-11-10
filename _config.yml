@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Jack Fitzgerald"
 title_separator          : "-"
 name                     : &name "Jack Fitzgerald"
-description              : &description "Economics PhD Candidate, Vrije Universiteit Amsterdam"
+description              : &description "Economics PhD Candidate, Vrije Universiteit Amsterdam and Tinbergen Institute"
 url                      : https://jack-fitzgerald.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/jack-fitzgerald.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Jack Fitzgerald"
   pronouns         : # example: "she/her"  
-  bio              : "Economics PhD Candidate, Vrije Universiteit Amsterdam"
+  bio              : "Economics PhD Candidate, Vrije Universiteit Amsterdam and Tinbergen Institute"
   location         : #
   employer         : "Vrije Universiteit Amsterdam"
   uri              : #URL
