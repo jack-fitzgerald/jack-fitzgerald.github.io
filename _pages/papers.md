@@ -92,7 +92,7 @@ Researchers utilizing regression discontinuity design (RDD) commonly test for ru
 
 **The Impacts of Replications in Economics** (with [Bob Reed](https://profiles.canterbury.ac.nz/Bob-Reed) and [Tom Coupé](https://profiles.canterbury.ac.nz/Tom-Coupe)).
 
-**Practical Significance Testing in Psychological Research: A Tutorial in Three-Sided Testing** (with [Peder Isager](https://pedermisager.org/)).
+**Three-Sided Testing to Establish Practical Significance: A Tutorial** (with [Peder Isager](https://pedermisager.org/)).
 
 **Fine Enough or Don't Fine At All? Experimental Evidence on Optimal Fine Levels for Natural Resource Conservation**.
 
