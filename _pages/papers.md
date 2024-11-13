@@ -94,6 +94,8 @@ Researchers utilizing regression discontinuity design (RDD) commonly test for ru
 
 **Three-Sided Testing to Establish Practical Significance: A Tutorial** (with [Peder Isager](https://pedermisager.org/)).
 
+**A Comment on "Resisting Social Pressure in the Household Using Mobile Money: Experimental Evidence on Microenterprise Investment in Uganda"** (with [Lenka Fiala](https://www.lenkafiala.com/), [Essi Kujansuu](https://sites.google.com/view/essi-kujansuu/home), and [David Valenta](https://valenta.dev/)).
+
 **Fine Enough or Don't Fine At All? Experimental Evidence on Optimal Fine Levels for Natural Resource Conservation**.
 
 **The Nuclear Option: Cross-Country Evidence on the Impacts of Nuclear Power Supply**.
