@@ -69,7 +69,7 @@ Greene & Shenoy (2022, <i>Management Science</i>) - henceforth GS22 - find that 
 
 </small><br><br/></div>
 
-**The Problems with Poor Proxies: Does Innovation Mitigate Agricultural Damage from Climate Change?** [<i>Institute for Replication Discussion Paper Series</i> No. 158](https://www.econstor.eu/handle/10419/303190), 2024. Under submission. <br/>
+**The Problems with Poor Proxies: Does Innovation Mitigate Agricultural Damage from Climate Change?** [<i>Institute for Replication Discussion Paper Series</i> No. 158](https://www.econstor.eu/handle/10419/303190), 2024. <br/>
 <small>[ <a href="#/" onclick="visib('MS23')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/MS23_Replication.pdf) | [Data & Code](https://osf.io/d7wz9/) | [Authors' Response](https://www.econstor.eu/handle/10419/303191) | [Twitter/X Thread](https://threadreaderapp.com/thread/1844359711854104708.html) ] </small>
 
 <div id="MS23" style="display: none; text-align: justify; line-height: 1.2" ><small>
