@@ -43,7 +43,7 @@ Theory and evidence from the behavioral science literature suggest that the wide
 - - -
 
 **Identifying the Impact of Hypothetical Incentives on Experimental Outcomes and Treatment Effects**. [<i>Tinbergen Institute Discussion Paper Series</i> No. 24/070-I](https://papers.tinbergen.nl/24070.pdf), 2024. Under invited submission, <i>Experimental Economics</i>. <br/>
-<small>[ <a href="#/" onclick="visib('hypo-bias')">Abstract</a> | [Code & Data Retrieval Instructions](https://osf.io/fe6jn/) | [Draft](https://jack-fitzgerald.github.io/files/Hypothetical_Bias.pdf) ] </small>
+<small>[ <a href="#/" onclick="visib('hypo-bias')">Abstract</a> | [Code & Data Retrieval Instructions](https://osf.io/fe6jn/) | [Draft](https://jack-fitzgerald.github.io/files/Hypothetical_Bias.pdf) | [Slides](https://jack-fitzgerald.github.io/files/Hypothetical_Bias_Slides.pdf) ] </small>
 
 <div id="hypo-bias" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
