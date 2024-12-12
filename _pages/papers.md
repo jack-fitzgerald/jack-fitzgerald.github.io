@@ -60,7 +60,7 @@ Wolfowicz et al. (2023, <i>Nature Human Behaviour</i>) find that more arrests an
 
 </small><br><br/></div>
 
-**Three-Sided Testing to Establish Practical Significance: A Tutorial** (with [Peder Isager](https://pedermisager.org/)). 2024. [<i>PsyArXiv</i>](https://doi.org/10.31234/osf.io/8y925).
+**Three-Sided Testing to Establish Practical Significance: A Tutorial** (with [Peder Isager](https://pedermisager.org/)). 2024. [<i>PsyArXiv</i>](https://doi.org/10.31234/osf.io/8y925). <br/>
 <small>[ <a href="#/" onclick="visib('TST')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/TST_Tutorial.pdf) ] </small>
 
 <div id="TST" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -69,7 +69,7 @@ Researchers may want to know whether an observed statistical relationship is eit
 
 </small><br><br/></div>
 
-**Revisiting the Impacts of Anti-Discrimination Employment Protections on American Businesses**. 2024. Under submission, <i>Management Science</i>.
+**Revisiting the Impacts of Anti-Discrimination Employment Protections on American Businesses**. 2024. Under submission, <i>Management Science</i>. <br/>
 <small>[ <a href="#/" onclick="visib('GS22')">Abstract</a> | [Code & Data Retrieval Instructions](https://osf.io/6q4k5/) | [Draft](https://jack-fitzgerald.github.io/files/GS22_Replication.pdf) ] </small>
 
 <div id="GS22" style="display: none; text-align: justify; line-height: 1.2" ><small>
