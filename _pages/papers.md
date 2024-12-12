@@ -61,7 +61,7 @@ Wolfowicz et al. (2023, <i>Nature Human Behaviour</i>) find that more arrests an
 </small><br><br/></div>
 
 **Three-Sided Testing to Establish Practical Significance: A Tutorial** (with [Peder Isager](https://pedermisager.org/)). 2024. [<i>PsyArXiv</i>](https://doi.org/10.31234/osf.io/8y925). <br/>
-<small>[ <a href="#/" onclick="visib('TST')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/TST_Tutorial.pdf) | [Stata Command](https://github.com/jack-fitzgerald/tsti) | [R Package](https://github.com/jack-fitzgerald/eqtesting) | [Shiny App](https://jack-fitzgerald.shinyapps.io/shinyTST/) ] </small>
+<small>[ <a href="#/" onclick="visib('TST')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/TST_Tutorial.pdf) | [Stata Command](https://github.com/jack-fitzgerald/tsti) | [R Package](https://github.com/jack-fitzgerald/eqtesting) | [Shiny App](https://jack-fitzgerald.shinyapps.io/shinyTST/) | [Slides](https://jack-fitzgerald.github.io/files/TST_Slides.pdf) ] </small>
 
 <div id="TST" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
