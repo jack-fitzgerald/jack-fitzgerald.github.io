@@ -88,7 +88,7 @@ Moscona & Sastry (2023, <i>Quarterly Journal of Economics</i>) - henceforth MS23
 </small><br><br/></div>
 
 **Manipulation Tests in Regression Discontinuity Design: The Need for Equivalence Testing**. [<i>Institute for Replication Discussion Paper Series</i> No. 136](https://hdl.handle.net/10419/300277), 2024. Under submission. <br/>
-<small>[ <a href="#/" onclick="visib('rdd-equiv')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/RDD_Equivalence.pdf) | [R Package](https://github.com/jack-fitzgerald/eqtesting) | [Stata Command](https://github.com/jack-fitzgerald/lddtest) | [Slides](https://jack-fitzgerald.github.io/files/CDSM24_Slides.pdf) | [Twitter/X Thread](https://threadreaderapp.com/thread/1815334145091920105.html) ] </small>
+<small>[ <a href="#/" onclick="visib('rdd-equiv')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/RDD_Equivalence.pdf) | [R Package](https://github.com/jack-fitzgerald/eqtesting) | [Stata Command](https://github.com/jack-fitzgerald/lddtest) | [Python Package (Not Mine)](https://github.com/leostimpfle/lddtest) [Slides](https://jack-fitzgerald.github.io/files/CDSM24_Slides.pdf) | [Twitter/X Thread](https://threadreaderapp.com/thread/1815334145091920105.html) ] </small>
 
 <div id="rdd-equiv" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
