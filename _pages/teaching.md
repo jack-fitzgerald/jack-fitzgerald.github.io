@@ -11,7 +11,7 @@ I coordinate this course, teaching R programming to prepare students for quantit
 
 **Scientific Integrity**. MRes Economics, Econometrics, and Finance/Business Data Science, Tinbergen Institute, 2025. <br/>
 
-I provide lecture support concerning replication and reproducibility for empirical economics, econometrics, and finance research. The course is coordinated by [Benoît Crutzen](https://sites.google.com/view/benoitcrutzen/home) and [Peter Wakker](https://personal.eur.nl/wakker/), and I lecture alongside [Kacana Khadjavi](https://kacanasipangule.wordpress.com/).
+I provide lecture support concerning replication and reproducibility for empirical economics, econometrics, finance, and management research alongside [Kacana Khadjavi](https://kacanasipangule.wordpress.com/).
 
 **Statistical Methods for Causal Inference**. Vrije Universiteit Amsterdam Summer School, 2023-2025. <br/>
 
