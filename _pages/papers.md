@@ -105,17 +105,6 @@ Researchers utilizing regression discontinuity design (RDD) commonly test for ru
 
 </small><br><br/></div>
 
-# <center> Selected Works in Progress </center>
-- - -
-
-**The Impacts of Replications in Economics** (with [Bob Reed](https://profiles.canterbury.ac.nz/Bob-Reed) and [Tom Coupé](https://profiles.canterbury.ac.nz/Tom-Coupe)).
-
-**A Comment on "Resisting Social Pressure in the Household Using Mobile Money: Experimental Evidence on Microenterprise Investment in Uganda"** (with [Lenka Fiala](https://www.lenkafiala.com/), [Essi Kujansuu](https://sites.google.com/view/essi-kujansuu/home), and [David Valenta](https://valenta.dev/)).
-
-**Fine Enough or Don't Fine At All? Experimental Evidence on Optimal Fine Levels for Natural Resource Conservation**.
-
-**The Nuclear Option: Cross-Country Evidence on the Impacts of Nuclear Power Supply**.
-
 [//]: This java script is the button to show abstract
 <script>
  function visib(id) {
