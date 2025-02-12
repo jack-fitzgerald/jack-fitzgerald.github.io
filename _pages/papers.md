@@ -42,6 +42,15 @@ Theory and evidence from the behavioral science literature suggest that the wide
 # <center> Working Papers </center>
 - - -
 
+**Three-Sided Testing to Establish Practical Significance: A Tutorial** (with [Peder Isager](https://pedermisager.org/)). [<i>PsyArXiv</i>](https://doi.org/10.31234/osf.io/8y925) and [<i>Tinbergen Institute Discussion Paper Series</i> No. 2024-077/III](https://papers.tinbergen.nl/24077.pdf), 2024. Revise and resubmit, <i>Advances in Methods and Practices in Psychological Science.</i> <br/>
+<small>[ <a href="#/" onclick="visib('TST')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/TST_Tutorial.pdf) | [Stata Command](https://github.com/jack-fitzgerald/tsti) | [R Package](https://github.com/jack-fitzgerald/eqtesting) | [Shiny App](https://jack-fitzgerald.shinyapps.io/shinyTST/) | [Slides](https://jack-fitzgerald.github.io/files/TST_Slides.pdf) | [Twitter/X Thread](https://threadreaderapp.com/thread/1870130179160584350.html) ] </small>
+
+<div id="TST" style="display: none; text-align: justify; line-height: 1.2" ><small>
+
+Researchers may want to know whether an observed statistical relationship is either meaningfully negative, meaningfully positive, or small enough to be considered practically equivalent to zero. Such a question can not be addressed with standard null hypothesis significance testing, nor with standard equivalence testing. Three-sided testing (TST) is a procedure to address such questions, by simultaneously testing whether an estimated relationship is significantly below, within, or above predetermined smallest effect sizes of interest. TST is a natural extension of the standard two one-sided tests (TOST) procedure for equivalence testing. TST offers a more comprehensive decision framework than TOST with no penalty to error rates or statistical power. In this paper, we give a non-technical introduction to TST, provide commands for conducting TST in R, Jamovi, and Stata, and provide a Shiny app for easy implementation. Whenever a meaningful smallest effect size of interest can be specified, TST should be combined with null hypothesis significance testing as the default frequentist testing procedure.
+
+</small><br><br/></div>
+
 **Identifying the Impact of Hypothetical Stakes on Experimental Outcomes and Treatment Effects**. [<i>MetaArXiv</i>](https://doi.org/10.31222/osf.io/j5nmf_v1), 2025. Under invited submission, <i>Experimental Economics</i>. <br/>
 <small>[ <a href="#/" onclick="visib('hypo-bias')">Abstract</a> | [Code & Data Retrieval Instructions](https://osf.io/fe6jn/) | [Draft](https://jack-fitzgerald.github.io/files/Hypothetical_Bias.pdf) | [Tinbergen Institute Discussion Paper](https://papers.tinbergen.nl/24070.pdf) | [Slides](https://jack-fitzgerald.github.io/files/Hypothetical_Bias_Slides.pdf) ] </small>
 
@@ -57,15 +66,6 @@ Recent studies showing that some outcome variables do not statistically signific
 <div id="WEA23" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
 Wolfowicz et al. (2023, <i>Nature Human Behaviour</i>) find that more arrests and convictions for terrorism offenses decrease terrorism, more charges increase terrorism, and longer sentences do not deter terrorism in 28 European Union member states from 2006-2021. I assess the computational reproducibility of their study and find many data irregularities. The article's primary dependent variable - purportedly an inverse hyperbolic sine transformation of terrorist attack rates - takes on 292 different values when attack rates equal zero, and negatively correlates with attack rates. Many variables exhibit impossible values or undisclosed imputations, often masking a lack of reporting in the article's main data sources. I estimate that the authors have access to 57% fewer observations than claimed. Reproduction attempts produce estimates at least 77.7% smaller than the published estimates. Models reflecting the true degree of missing data produce estimates that are not statistically significantly different from zero for any independent variable of interest.
-
-</small><br><br/></div>
-
-**Three-Sided Testing to Establish Practical Significance: A Tutorial** (with [Peder Isager](https://pedermisager.org/)). [<i>PsyArXiv</i>](https://doi.org/10.31234/osf.io/8y925) and [<i>Tinbergen Institute Discussion Paper Series</i> No. 2024-077/III](https://papers.tinbergen.nl/24077.pdf), 2024. Revise and resubmit, <i>Advances in Methods and Practices in Psychological Science.</i> <br/>
-<small>[ <a href="#/" onclick="visib('TST')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/TST_Tutorial.pdf) | [Stata Command](https://github.com/jack-fitzgerald/tsti) | [R Package](https://github.com/jack-fitzgerald/eqtesting) | [Shiny App](https://jack-fitzgerald.shinyapps.io/shinyTST/) | [Slides](https://jack-fitzgerald.github.io/files/TST_Slides.pdf) | [Twitter/X Thread](https://threadreaderapp.com/thread/1870130179160584350.html) ] </small>
-
-<div id="TST" style="display: none; text-align: justify; line-height: 1.2" ><small>
-
-Researchers may want to know whether an observed statistical relationship is either meaningfully negative, meaningfully positive, or small enough to be considered practically equivalent to zero. Such a question can not be addressed with standard null hypothesis significance testing, nor with standard equivalence testing. Three-sided testing (TST) is a procedure to address such questions, by simultaneously testing whether an estimated relationship is significantly below, within, or above predetermined smallest effect sizes of interest. TST is a natural extension of the standard two one-sided tests (TOST) procedure for equivalence testing. TST offers a more comprehensive decision framework than TOST with no penalty to error rates or statistical power. In this paper, we give a non-technical introduction to TST, provide commands for conducting TST in R, Jamovi, and Stata, and provide a Shiny app for easy implementation. Whenever a meaningful smallest effect size of interest can be specified, TST should be combined with null hypothesis significance testing as the default frequentist testing procedure.
 
 </small><br><br/></div>
 
