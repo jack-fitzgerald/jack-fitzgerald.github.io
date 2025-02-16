@@ -68,7 +68,7 @@ Wolfowicz et al. (2023, <i>Nature Human Behaviour</i>) find that more arrests an
 
 </small><br><br/></div>
 
-**Manipulation Tests in Regression Discontinuity Design: The Need for Equivalence Testing**. [<i>MetaArXiv</i>](https://doi.org/10.31222/osf.io/2dgrp_v1), 2025. Under submission. <br/>
+**Manipulation Tests in Regression Discontinuity Design: The Need for Equivalence Testing**. [<i>MetaArXiv</i>](https://doi.org/10.31222/osf.io/2dgrp_v1), 2025. <br/>
 <small>[ <a href="#/" onclick="visib('rdd-equiv')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/RDD_Equivalence.pdf) | [R Package](https://github.com/jack-fitzgerald/eqtesting) | [Stata Command](https://github.com/jack-fitzgerald/lddtest) | [Python Package](https://github.com/leostimpfle/lddtest) (created by [Leo Stimpfle](https://www.ugent.be/eb/accountancy-fiscaliteit/en/research/corpfin/team/stimpfle.htm)) | [Institute for Replication Discussion Paper (Older Version)](https://hdl.handle.net/10419/300277) | [Slides](https://jack-fitzgerald.github.io/files/CDSM24_Slides.pdf) | [Twitter/X Thread](https://threadreaderapp.com/thread/1815334145091920105.html) ] </small>
 
 <div id="rdd-equiv" style="display: none; text-align: justify; line-height: 1.2" ><small>
