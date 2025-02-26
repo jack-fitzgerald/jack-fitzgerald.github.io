@@ -59,7 +59,7 @@ Researchers may want to know whether an observed statistical relationship is eit
 
 </small><br><br/></div>
 
-**A Comment on "Improving Women's Mental Health During a Pandemic"**  (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home), [Lenka Fiala](https://www.lenkafiala.com/), [Essi Kujansuu](https://sites.google.com/view/essi-kujansuu/home), [David Valenta](https://valenta.dev/), [Ole Rogeberg](https://www.frisch.uio.no/english/personell/olejr/), & [Gunther Bensch](https://www.rwi-essen.de/en/rwi/team/person/gunther-bensch)). 2025. Under invited submission, *American Economic Journal: Applied Economics*. <br/>
+**A Comment on "Improving Women's Mental Health During a Pandemic"**  (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home), [Lenka Fiala](https://www.lenkafiala.com/), [Essi Kujansuu](https://sites.google.com/view/essi-kujansuu/home), [David Valenta](https://valenta.dev/), [Ole Rogeberg](https://www.frisch.uio.no/english/personell/olejr/), & [Gunther Bensch](https://www.rwi-essen.de/en/rwi/team/person/gunther-bensch)). *Open Science Framework*, 2025. Under invited submission, *American Economic Journal: Applied Economics*. <br/>
 <small>[ <a href="#/" onclick="visib('VEA24')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/VEA24.pdf) | [Data & Code](https://osf.io/s2t6f) | [Author Statement 1](https://osf.io/b94vw) | [Author Response 2](https://osf.io/wnf29) ] </small>
 
 <div id="VEA24" style="display: none; text-align: justify; line-height: 1.2" ><small>
