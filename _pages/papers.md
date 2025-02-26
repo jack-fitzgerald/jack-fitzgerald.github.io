@@ -59,6 +59,15 @@ Researchers may want to know whether an observed statistical relationship is eit
 
 </small><br><br/></div>
 
+**A Comment on "Improving Women's Mental Health During a Pandemic"**  (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home), [Lenka Fiala](https://www.lenkafiala.com/), [Essi Kujansuu](https://sites.google.com/view/essi-kujansuu/home), [David Valenta](https://valenta.dev/), [Ole Rogeberg](https://www.frisch.uio.no/english/personell/olejr/), & [Gunther Bensch](https://www.rwi-essen.de/en/rwi/team/person/gunther-bensch)). 2025. Under invited submission, *American Economic Journal: Applied Economics*. <br/>
+<small>[ <a href="#/" onclick="visib('VEA24')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/VEA24.pdf) | [Data & Code](https://osf.io/s2t6f | [Author Statement 1](https://osf.io/b94vw) | [Author Response 2](https://osf.io/wnf29) ] </small>
+
+<div id="VEA24" style="display: none; text-align: justify; line-height: 1.2" ><small>
+
+Vlassopoulos et al. (2024, <i>American Economic Journal: Applied Economics</i>) find that after providing two hours of telephone counseling over three months, a sample of Bangladeshi women saw significant reductions in stress and depression after ten months. We find three anomalies. First, estimates are almost entirely driven by reverse-scored survey items, which are handled inconsistently both in the code and in the field. Second, participants in this experiment are reused from multiple prior experiments conducted by the paper's authors, and estimates are extremely sensitive to the experiment from which participants originate. Finally, inconsistencies and irregularities in raw survey files raise doubts about the data.
+
+</small><br><br/></div>
+
 **Imputations, Inverse Hyperbolic Sines, and Impossible Values**. 2024. Under invited submission, *Nature Human Behaviour*. <br/>
 <small>[ <a href="#/" onclick="visib('WEA23')">Abstract</a> | [Data & Code](https://osf.io/hce6n/) | [Draft](https://jack-fitzgerald.github.io/files/WEA23_Replication.pdf) ] </small>
 
