@@ -21,21 +21,21 @@ Equivalence testing can provide statistically significant evidence that economic
 # <center> Published and Forthcoming Articles </center>
 - - -
 
+**Is There a Foreign Language Effect on Workplace Bribery Susceptibility? Evidence from a Randomized Controlled Vignette Experiment** (with [Paul Stroet](https://paulstroet.netlify.app/), [Arjen van Witteloostuijn](https://research.vu.nl/en/persons/arjen-van-witteloostuijn), and [Kristina S. Weißmüller](https://www.ksweissmueller.com/)). *Journal of Business Ethics* 197, 73-97, 2025. <br/>
+<small>[ <a href="#/" onclick="visib('fle_bribery')">Abstract</a> | [Article (Open Access)](https://doi.org/10.1007/s10551-024-05731-x) | [Draft](https://jack-fitzgerald.github.io/files/JBE_manuscript.pdf) | [Code](https://doi.org/10.17605/OSF.IO/Y3NQ7) ] </small>
+
+<div id="fle_bribery" style="display: none; text-align: justify; line-height: 1.2" ><small>
+
+Theory and evidence from the behavioral science literature suggest that the widespread and rising use of <i>lingua francas</i> in the workplace may impact the ethical decision-making of individuals who must use foreign languages at work. We test the impact of foreign language usage on individual susceptibility to bribery in workplace settings using a vignette-based randomized controlled trial in a Dutch student sample. Results suggest that there is not even a small foreign language effect on workplace bribery susceptibility. We combine traditional null hypothesis significance testing with equivalence testing methods novel to the business ethics literature that can provide statistically significant evidence of bounded or null relationships between variables. These tests suggest that the foreign language effect on workplace bribery susceptibility is bounded below even small effect sizes. <i>Post hoc</i> analyses provide evidence suggesting fruitful further routes of experimental research into bribery.
+
+</small><br><br/></div>
+
 **US States That Mandated COVID-19 Vaccination See Higher, Not Lower, Take-Up of COVID-19 Boosters and Flu Vaccines**. *Proceedings of the National Academy of Sciences* (121)41, e2403758121, 2024. <br/>
 <small>[ <a href="#/" onclick="visib('pnas_replication')">Abstract</a> | [Article (Open Access)](https://doi.org/10.1073/pnas.2403758121) | [Draft](https://jack-fitzgerald.github.io/files/RR24_Replication.pdf) | [Data & Code, Published Replication](https://osf.io/mdfb4/) | [Reply](https://www.pnas.org/doi/10.1073/pnas.2409246121) | [Response to Reply](https://jack-fitzgerald.github.io/files/RR24_Response_to_Reply.pdf) | [Data & Code, Response to Reply](https://osf.io/9cn38/) | [Twitter/X Thread](https://threadreaderapp.com/thread/1841491274391597266.html) ] </small>
 
 <div id="pnas_replication" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
 Rains & Richards (2024, <i>Proceedings of the National Academy of Sciences</i>) find that compared to US states that instituted bans on COVID-19 vaccination requirements, states that imposed COVID-19 vaccination mandates exhibit lower adult and child uptake of flu vaccines, and lower uptake of COVID-19 boosters. These differences are generally interpreted causally. However, further inspection reveals that these results are driven by the inclusion of a single bad control variable. When removed, the data instead shows that states which mandated COVID-19 vaccination experience higher COVID-19 booster and flu vaccine takeup than states that banned COVID-19 vaccination requirements.
-
-</small><br><br/></div>
-
-**Is There a Foreign Language Effect on Workplace Bribery Susceptibility? Evidence from a Randomized Controlled Vignette Experiment** (with [Paul Stroet](https://paulstroet.netlify.app/), [Arjen van Witteloostuijn](https://research.vu.nl/en/persons/arjen-van-witteloostuijn), and [Kristina S. Weißmüller](https://www.ksweissmueller.com/)). *Journal of Business Ethics*, 2024. <br/>
-<small>[ <a href="#/" onclick="visib('fle_bribery')">Abstract</a> | [Article (Open Access)](https://doi.org/10.1007/s10551-024-05731-x) | [Draft](https://jack-fitzgerald.github.io/files/JBE_manuscript.pdf) | [Code](https://doi.org/10.17605/OSF.IO/Y3NQ7) ] </small>
-
-<div id="fle_bribery" style="display: none; text-align: justify; line-height: 1.2" ><small>
-
-Theory and evidence from the behavioral science literature suggest that the widespread and rising use of <i>lingua francas</i> in the workplace may impact the ethical decision-making of individuals who must use foreign languages at work. We test the impact of foreign language usage on individual susceptibility to bribery in workplace settings using a vignette-based randomized controlled trial in a Dutch student sample. Results suggest that there is not even a small foreign language effect on workplace bribery susceptibility. We combine traditional null hypothesis significance testing with equivalence testing methods novel to the business ethics literature that can provide statistically significant evidence of bounded or null relationships between variables. These tests suggest that the foreign language effect on workplace bribery susceptibility is bounded below even small effect sizes. <i>Post hoc</i> analyses provide evidence suggesting fruitful further routes of experimental research into bribery.
 
 </small><br><br/></div>
 
