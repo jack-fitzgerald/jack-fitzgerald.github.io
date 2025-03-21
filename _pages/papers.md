@@ -113,6 +113,15 @@ Moscona & Sastry (2023, <i>Quarterly Journal of Economics</i>) - henceforth MS23
 
 </small><br><br/></div>
 
+**A Comment on "Resisting Social Pressure in the Household Using Mobile Money: Experimental Evidence on Microenterprise Investment in Uganda"** (with [Lenka Fiala](https://www.lenkafiala.com/), [Essi Kujansuu](https://sites.google.com/view/essi-kujansuu/home), & [David Valenta](https://valenta.dev/)). 2024. <br/>
+<small>[ <a href="#/" onclick="visib('Riley24')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/Riley24.pdf) ] </small>
+
+<div id="Riley24" style="display: none; text-align: justify; line-height: 1.2" ><small>
+
+In a pre-registered experiment, Riley (2024, <i>American Economic Review</i>) finds that providing microcredit loans onto mobile money accounts yields significantly more profit and capital for women's businesses than providing loans in cash, as this disbursement technique permits women to resist family pressure to share loans. We uncover two credibility issues. First, we find evidence suggesting that most of the experiment's participants are not assigned to treatment using the pre-registered stratified randomization protocol described in the paper. Second, the reported variables and empirical methods contradict commitments in the paper's pre-registration; these contradictions are unacknowledged and meaningfully impact the paper's main findings.
+
+</small><br><br/></div>
+
 [//]: This java script is the button to show abstract
 <script>
  function visib(id) {
