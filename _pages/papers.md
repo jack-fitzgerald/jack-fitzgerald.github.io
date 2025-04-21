@@ -42,7 +42,7 @@ Rains & Richards (2024, <i>Proceedings of the National Academy of Sciences</i>) 
 # <center> Working Papers </center>
 - - -
 **Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science** (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home) et al). [<i>Institute for Replication Discussion Paper Series</i> No. 195](https://hdl.handle.net/10419/308508), 2025. Revise & resubmit, <i>Nature</i>. <br/>
-<small>[ <a href="#/" onclick="visib('AI')">Abstract</a> | [Draft](https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf) | [Replication Data, Code, and Pre-Analysis Plan](https://osf.io/sz2g8/)) ] </small>
+<small>[ <a href="#/" onclick="visib('AI')">Abstract</a> | [Draft](https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf) | [Replication Data, Code, and Pre-Analysis Plan](https://osf.io/sz2g8/) ] </small>
 
 <div id="AI" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
