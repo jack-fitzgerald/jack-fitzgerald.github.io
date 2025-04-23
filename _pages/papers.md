@@ -9,7 +9,7 @@ permalink: /papers/
 # <center> Job Market Paper </center>
 - - -
 
-**The Need for Equivalence Testing in Economics**. [<i>MetaArXiv</i>](https://doi.org/10.31222/osf.io/d7sqr_v1), 2025. Under submission. <br/>
+**The Need for Equivalence Testing in Economics**. [<i>MetaArXiv</i>](https://doi.org/10.31222/osf.io/d7sqr_v1), 2025. <br/>
 <small>[ <a href="#/" onclick="visib('equiv-test')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/The_Need_for_Equivalence_Testing_in_Economics.pdf) | [Online Appendix](https://jack-fitzgerald.github.io/files/The_Need_for_Equivalence_Testing_in_Economics_Online_Appendix.pdf) | [Stata Command](https://github.com/jack-fitzgerald/tsti) | [R Package](https://github.com/jack-fitzgerald/eqtesting) | [Shiny App](https://jack-fitzgerald.shinyapps.io/shinyTST/) | [30-Minute Presentation](https://youtu.be/ltkuhpcH9mA) | [Institute for Replication Discussion Paper (Older Version)](https://hdl.handle.net/10419/2961900) | [Interview: Economisch Statistische Berichten (in Dutch)](https://esb.nu/we-moeten-vaker-toegeven-dat-er-niks-te-concluderen-valt/) ] </small>
 
 <div id="equiv-test" style="display: none; text-align: justify; line-height: 1.2" ><small>
