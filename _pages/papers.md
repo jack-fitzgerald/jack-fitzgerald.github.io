@@ -86,7 +86,7 @@ Wolfowicz et al. (2023, <i>Nature Human Behaviour</i>) find that more arrests an
 
 </small><br><br/></div>
 
-**Which Businesses Respond to Surveys? Evidence from the Netherlands**. 2025. <br/>
+**Which Businesses Respond to Surveys? Evidence from Dutch Administrative Data**. 2025. <br/>
 <small>[ <a href="#/" onclick="visib('LISA')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/LISA.pdf) ] </small>
 
 <div id="LISA" style="display: none; text-align: justify; line-height: 1.2" ><small>
