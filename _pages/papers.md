@@ -86,6 +86,15 @@ Wolfowicz et al. (2023, <i>Nature Human Behaviour</i>) find that more arrests an
 
 </small><br><br/></div>
 
+**Which Businesses Respond to Surveys? Evidence from the Netherlands"**. 2025. <br/>
+<small>[ <a href="#/" onclick="visib('LISA')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/LISA.pdf) ] </small>
+
+<div id="LISA" style="display: none; text-align: justify; line-height: 1.2" ><small>
+
+I leverage a unique administrative register covering the universe of establishments in the Netherlands to examine how characteristics differ between establishments that do and do not respond to business surveys. Only 20% of Dutch establishments responded to regional business surveys in 2022. Responsive establishments employed two fewer people than unresponsive establishments, and exhibited parttime employment rates 15 percentage points higher than unresponsive establishments. Sectoral and occupational response rates can vary by nearly 50 percentage points, with public-sector and white-collar occupations overrepresented amongst responsive establishments. Solo enterprises registered to residential addresses are the most common kind of establishment, but exhibit response rates 18 percentage points lower than an average office. However, controlling for contact probability reveals that most sectoral and occupational variation in response rates can be traced back to differences in contact probability rather than responsiveness. These findings highlight generalizability challenges in business surveys and opportunities to improve their design.
+
+</small><br><br/></div>
+
 **Manipulation Tests in Regression Discontinuity Design: The Need for Equivalence Testing**. [<i>MetaArXiv</i>](https://doi.org/10.31222/osf.io/2dgrp_v1), 2025. <br/>
 <small>[ <a href="#/" onclick="visib('rdd-equiv')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/RDD_Equivalence.pdf) | [R Package](https://github.com/jack-fitzgerald/eqtesting) | [Stata Command](https://github.com/jack-fitzgerald/lddtest) | [Python Package](https://github.com/leostimpfle/lddtest) (created by [Leo Stimpfle](https://www.ugent.be/eb/accountancy-fiscaliteit/en/research/corpfin/team/stimpfle.htm)) | [Institute for Replication Discussion Paper (Older Version)](https://hdl.handle.net/10419/300277) | [Slides](https://jack-fitzgerald.github.io/files/CDSM24_Slides.pdf) | [Twitter/X Thread](https://threadreaderapp.com/thread/1815334145091920105.html) ] </small>
 
