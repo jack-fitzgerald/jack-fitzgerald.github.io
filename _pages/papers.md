@@ -78,7 +78,7 @@ Vlassopoulos et al. (2024, <i>American Economic Journal: Applied Economics</i>) 
 </small><br><br/></div>
 
 **Imputations, Inverse Hyperbolic Sines, and Impossible Values**. 2024. Under invited submission, *Nature Human Behaviour*. <br/>
-<small>[ <a href="#/" onclick="visib('WEA23')">Abstract</a> | [Data & Code](https://osf.io/hce6n/) | [Draft](https://jack-fitzgerald.github.io/files/WEA23_Replication.pdf) ] </small>
+<small>[ <a href="#/" onclick="visib('WEA23')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/WEA23_Replication.pdf) | [Data & Code](https://osf.io/hce6n/) ] </small>
 
 <div id="WEA23" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
