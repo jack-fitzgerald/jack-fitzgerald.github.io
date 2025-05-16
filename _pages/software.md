@@ -16,11 +16,11 @@ A Shiny app for three-sided testing ([Goeman, Solari, & Stijnen 2010](https://do
 An R package for equivalence testing. Provides the <b>tst</b> command, which implements the three-sided testing procedure ([Goeman, Solari, & Stijnen 2010](https://doi.org/10.1002/sim.4002)), as well as the <b>lddtest</b> command, which performs equivalence testing on logarithmic density discontinuities at the cutoff for running variables in regression discontinuity design ([Fitzgerald 2024](https://jack-fitzgerald.github.io/files/RDD_Equivalence.pdf)).
 
 **lddtest** <br/>
-<small>[ [Github Repository](https://github.com/jack-fitzgerald/lddtest) ] </small>
+<small>[ [SSC Package](https://ideas.repec.org/c/boc/bocode/s459446.html) | [Github Repository](https://github.com/jack-fitzgerald/lddtest) ] </small>
 
 A Stata command that performs equivalence testing on logarithmic density discontinuities at the cutoff for running variables in regression discontinuity design ([Fitzgerald 2024](https://jack-fitzgerald.github.io/files/RDD_Equivalence.pdf)).
 
 **tsti** <br/>
-<small>[ [Github Repository](https://github.com/jack-fitzgerald/tsti) ] </small>
+<small>[ [SSC Package](https://ideas.repec.org/c/boc/bocode/s459445.html) | [Github Repository](https://github.com/jack-fitzgerald/tsti) ] </small>
 
 An immediate Stata command that implements the three-sided testing procedure ([Goeman, Solari, & Stijnen 2010](https://doi.org/10.1002/sim.4002)).
