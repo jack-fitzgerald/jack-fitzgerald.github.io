@@ -21,6 +21,15 @@ Equivalence testing can provide statistically significant evidence that economic
 # <center> Published and Forthcoming Articles </center>
 - - -
 
+**Imputations, Inverse Hyperbolic Sines, and Impossible Values**. 2024. Accepted, *Nature Human Behaviour*. <br/>
+<small>[ <a href="#/" onclick="visib('WEA23')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/WEA23_Replication.pdf) | [Data & Code](https://osf.io/hce6n/) ] </small>
+
+<div id="WEA23" style="display: none; text-align: justify; line-height: 1.2" ><small>
+
+Wolfowicz et al. (2023, <i>Nature Human Behaviour</i>) find that more arrests and convictions for terrorism offenses decrease terrorism, more charges increase terrorism, and longer sentences do not deter terrorism in 28 European Union member states from 2006-2021. I assess the computational reproducibility of their study and find many data irregularities. The article's primary dependent variable - purportedly an inverse hyperbolic sine transformation of terrorist attack rates - takes on 292 different values when attack rates equal zero, and negatively correlates with attack rates. Many variables exhibit impossible values or undisclosed imputations, often masking a lack of reporting in the article's main data sources. I estimate that the authors have access to 57% fewer observations than claimed. Reproduction attempts produce estimates at least 77.7% smaller than the published estimates. Models reflecting the true degree of missing data produce estimates that are not statistically significantly different from zero for any independent variable of interest.
+
+</small><br><br/></div>
+
 **Is There a Foreign Language Effect on Workplace Bribery Susceptibility? Evidence from a Randomized Controlled Vignette Experiment** (with [Paul Stroet](https://paulstroet.netlify.app/), [Arjen van Witteloostuijn](https://research.vu.nl/en/persons/arjen-van-witteloostuijn), and [Kristina S. Weißmüller](https://www.ksweissmueller.com/)). *Journal of Business Ethics* 197, 73-97, 2025. <br/>
 <small>[ <a href="#/" onclick="visib('fle_bribery')">Abstract</a> | [Article (Open Access)](https://doi.org/10.1007/s10551-024-05731-x) | [Draft](https://jack-fitzgerald.github.io/files/JBE_manuscript.pdf) | [Code](https://doi.org/10.17605/OSF.IO/Y3NQ7) ] </small>
 
@@ -74,15 +83,6 @@ Researchers may want to know whether an observed statistical relationship is eit
 <div id="VEA24" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
 Vlassopoulos et al. (2024, <i>American Economic Journal: Applied Economics</i>) find that after providing two hours of telephone counseling over three months, a sample of Bangladeshi women saw significant reductions in stress and depression after ten months. We find three anomalies. First, estimates are almost entirely driven by reverse-scored survey items, which are handled inconsistently both in the code and in the field. Second, participants in this experiment are reused from multiple prior experiments conducted by the paper's authors, and estimates are extremely sensitive to the experiment from which participants originate. Finally, inconsistencies and irregularities in raw survey files raise doubts about the data.
-
-</small><br><br/></div>
-
-**Imputations, Inverse Hyperbolic Sines, and Impossible Values**. 2024. Under invited submission, *Nature Human Behaviour*. <br/>
-<small>[ <a href="#/" onclick="visib('WEA23')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/WEA23_Replication.pdf) | [Data & Code](https://osf.io/hce6n/) ] </small>
-
-<div id="WEA23" style="display: none; text-align: justify; line-height: 1.2" ><small>
-
-Wolfowicz et al. (2023, <i>Nature Human Behaviour</i>) find that more arrests and convictions for terrorism offenses decrease terrorism, more charges increase terrorism, and longer sentences do not deter terrorism in 28 European Union member states from 2006-2021. I assess the computational reproducibility of their study and find many data irregularities. The article's primary dependent variable - purportedly an inverse hyperbolic sine transformation of terrorist attack rates - takes on 292 different values when attack rates equal zero, and negatively correlates with attack rates. Many variables exhibit impossible values or undisclosed imputations, often masking a lack of reporting in the article's main data sources. I estimate that the authors have access to 57% fewer observations than claimed. Reproduction attempts produce estimates at least 77.7% smaller than the published estimates. Models reflecting the true degree of missing data produce estimates that are not statistically significantly different from zero for any independent variable of interest.
 
 </small><br><br/></div>
 
