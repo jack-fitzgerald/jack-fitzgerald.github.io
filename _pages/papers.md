@@ -10,7 +10,7 @@ permalink: /papers/
 - - -
 
 **The Need for Equivalence Testing in Economics**. [<i>MetaArXiv</i>](https://doi.org/10.31222/osf.io/d7sqr_v1), 2025. <br/>
-<small>[ <a href="#/" onclick="visib('equiv-test')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/The_Need_for_Equivalence_Testing_in_Economics.pdf) | [Online Appendix](https://jack-fitzgerald.github.io/files/The_Need_for_Equivalence_Testing_in_Economics_Online_Appendix.pdf) | [Stata Command](https://github.com/jack-fitzgerald/tsti) | [R Package](https://github.com/jack-fitzgerald/eqtesting) | [Shiny App](https://jack-fitzgerald.shinyapps.io/shinyTST/) | [30-Minute Presentation](https://youtu.be/ltkuhpcH9mA) | [Institute for Replication Discussion Paper (Older Version)](https://hdl.handle.net/10419/2961900) | [Interview: Economisch Statistische Berichten (in Dutch)](https://esb.nu/we-moeten-vaker-toegeven-dat-er-niks-te-concluderen-valt/) ] </small>
+<small>[ <a href="#/" onclick="visib('equiv-test')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/The_Need_for_Equivalence_Testing_in_Economics.pdf) | [Online Appendix](https://jack-fitzgerald.github.io/files/The_Need_for_Equivalence_Testing_in_Economics_Online_Appendix.pdf) | [Stata Command](https://github.com/jack-fitzgerald/tsti) | [R Package](https://doi.org/10.32614/CRAN.package.eqtesting) | [Shiny App](https://jack-fitzgerald.shinyapps.io/shinyTST/) | [30-Minute Presentation](https://youtu.be/ltkuhpcH9mA) | [Institute for Replication Discussion Paper (Older Version)](https://hdl.handle.net/10419/2961900) | [Interview: Economisch Statistische Berichten (in Dutch)](https://esb.nu/we-moeten-vaker-toegeven-dat-er-niks-te-concluderen-valt/) ] </small>
 
 <div id="equiv-test" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
@@ -69,7 +69,7 @@ Recent studies showing that some outcome variables do not statistically signific
 </small><br><br/></div>
 
 **Three-Sided Testing to Establish Practical Significance: A Tutorial** (with [Peder Isager](https://pedermisager.org/)). [<i>PsyArXiv</i>](https://doi.org/10.31234/osf.io/8y925) and [<i>Tinbergen Institute Discussion Paper Series</i> No. 2024-077/III](https://papers.tinbergen.nl/24077.pdf), 2024. Revise & resubmit, <i>Advances in Methods and Practices in Psychological Science.</i> <br/>
-<small>[ <a href="#/" onclick="visib('TST')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/TST_Tutorial.pdf) | [Stata Command](https://github.com/jack-fitzgerald/tsti) | [R Package](https://github.com/jack-fitzgerald/eqtesting) | [Shiny App](https://jack-fitzgerald.shinyapps.io/shinyTST/) | [Slides](https://jack-fitzgerald.github.io/files/TST_Slides.pdf) | [Twitter/X Thread](https://threadreaderapp.com/thread/1870130179160584350.html) ] </small>
+<small>[ <a href="#/" onclick="visib('TST')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/TST_Tutorial.pdf) | [Stata Command](https://github.com/jack-fitzgerald/tsti) | [R Package](https://doi.org/10.32614/CRAN.package.eqtesting) | [Shiny App](https://jack-fitzgerald.shinyapps.io/shinyTST/) | [Slides](https://jack-fitzgerald.github.io/files/TST_Slides.pdf) | [Twitter/X Thread](https://threadreaderapp.com/thread/1870130179160584350.html) ] </small>
 
 <div id="TST" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
@@ -96,7 +96,7 @@ I leverage a unique administrative register covering the universe of establishme
 </small><br><br/></div>
 
 **Manipulation Tests in Regression Discontinuity Design: The Need for Equivalence Testing**. [<i>MetaArXiv</i>](https://doi.org/10.31222/osf.io/2dgrp_v1), 2025. <br/>
-<small>[ <a href="#/" onclick="visib('rdd-equiv')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/RDD_Equivalence.pdf) | [R Package](https://github.com/jack-fitzgerald/eqtesting) | [Stata Command](https://github.com/jack-fitzgerald/lddtest) | [Python Package](https://github.com/leostimpfle/lddtest) (created by [Leo Stimpfle](https://www.ugent.be/eb/accountancy-fiscaliteit/en/research/corpfin/team/stimpfle.htm)) | [Institute for Replication Discussion Paper (Older Version)](https://hdl.handle.net/10419/300277) | [Slides](https://jack-fitzgerald.github.io/files/CDSM24_Slides.pdf) | [Twitter/X Thread](https://threadreaderapp.com/thread/1815334145091920105.html) ] </small>
+<small>[ <a href="#/" onclick="visib('rdd-equiv')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/RDD_Equivalence.pdf) | [R Package](https://doi.org/10.32614/CRAN.package.eqtesting) | [Stata Command](https://github.com/jack-fitzgerald/lddtest) | [Python Package](https://github.com/leostimpfle/lddtest) (created by [Leo Stimpfle](https://www.ugent.be/eb/accountancy-fiscaliteit/en/research/corpfin/team/stimpfle.htm)) | [Institute for Replication Discussion Paper (Older Version)](https://hdl.handle.net/10419/300277) | [Slides](https://jack-fitzgerald.github.io/files/CDSM24_Slides.pdf) | [Twitter/X Thread](https://threadreaderapp.com/thread/1815334145091920105.html) ] </small>
 
 <div id="rdd-equiv" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
