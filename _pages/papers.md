@@ -68,12 +68,21 @@ Recent studies showing that some outcome variables do not statistically signific
 
 </small><br><br/></div>
 
-**Three-Sided Testing to Establish Practical Significance: A Tutorial** (with [Peder Isager](https://pedermisager.org/)). [<i>PsyArXiv</i>](https://doi.org/10.31234/osf.io/8y925) and [<i>Tinbergen Institute Discussion Paper Series</i> No. 2024-077/III](https://papers.tinbergen.nl/24077.pdf), 2024. Revise & resubmit, <i>Advances in Methods and Practices in Psychological Science.</i> <br/>
+**Three-Sided Testing to Establish Practical Significance: A Tutorial** (with [Peder Isager](https://pedermisager.org/)). [<i>PsyArXiv</i>](https://doi.org/10.31234/osf.io/8y925) and [<i>Tinbergen Institute Discussion Paper Series</i> No. 2024-077/III](https://papers.tinbergen.nl/24077.pdf), 2025. Revise & resubmit, <i>Advances in Methods and Practices in Psychological Science.</i> <br/>
 <small>[ <a href="#/" onclick="visib('TST')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/TST_Tutorial.pdf) | [Stata Command](https://github.com/jack-fitzgerald/tsti) | [R Package](https://doi.org/10.32614/CRAN.package.eqtesting) | [Shiny App](https://jack-fitzgerald.shinyapps.io/shinyTST/) | [Slides](https://jack-fitzgerald.github.io/files/TST_Slides.pdf) | [Twitter/X Thread](https://threadreaderapp.com/thread/1870130179160584350.html) ] </small>
 
 <div id="TST" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
 Researchers may want to know whether an observed statistical relationship is either meaningfully negative, meaningfully positive, or small enough to be considered practically equivalent to zero. Such a question can not be addressed with standard null hypothesis significance testing, nor with standard equivalence testing. Three-sided testing (TST) is a procedure to address such questions, by simultaneously testing whether an estimated relationship is significantly below, within, or above predetermined smallest effect sizes of interest. TST is a natural extension of the standard two one-sided tests (TOST) procedure for equivalence testing. TST offers a more comprehensive decision framework than TOST with no penalty to error rates or statistical power. In this paper, we give a non-technical introduction to TST, provide commands for conducting TST in R, Jamovi, and Stata, and provide a Shiny app for easy implementation. Whenever a meaningful smallest effect size of interest can be specified, TST should be combined with null hypothesis significance testing as the default frequentist testing procedure.
+
+</small><br><br/></div>
+
+**Revisiting the Impacts of Anti-Discrimination Employment Protections on American Businesses**. 2024. Revise & resubmit, <i>Management Science</i>. <br/>
+<small>[ <a href="#/" onclick="visib('GS22')">Abstract</a> | [Code & Data Retrieval Instructions](https://osf.io/6q4k5/) | [Draft](https://jack-fitzgerald.github.io/files/GS22_Replication.pdf) ] </small>
+
+<div id="GS22" style="display: none; text-align: justify; line-height: 1.2" ><small>
+
+Greene & Shenoy (2022, <i>Management Science</i>) - henceforth GS22 - find that the staggered adoption of U.S. state-level protections against racial discrimination in employment decreased both the profitability and leverage of affected businesses. However, these results arise from two-way fixed effects (TWFE) difference-in-differences models. Such models are now known to return inaccurate estimates of average treatment effects on the treated (ATTs) when treatment assignment is staggered, as some firm-year ATTs can enter the TWFE estimator with negative weight. I find that 21-36% of firm-year ATTs in GS22's sample enter the TWFE estimator with negative weight. I then replicate GS22's results using recently-developed difference-in-differences estimators that return valid ATT estimates under staggered adoption. None of these new ATT estimates are statistically significantly different from zero.
 
 </small><br><br/></div>
 
@@ -101,15 +110,6 @@ I leverage a unique administrative register covering the universe of establishme
 <div id="rdd-equiv" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
 Researchers applying regression discontinuity design (RDD) often test for endogenous running variable (RV) manipulation around treatment cutoffs, but misinterpret <i>statistically insignificant</i> RV manipulation as evidence of <i>negligible</i> RV manipulation. I introduce novel procedures that can provide statistically significant evidence that RV manipulation around a cutoff is bounded beneath practically negligible levels. The procedures augment classic RV density tests with an equivalence testing framework, along with bootstrap methods for (cluster-)robust inference. I apply these procedures to replication data from 36 RDD publications, conducting 45 equivalence-based RV manipulation tests. Over 44% of RV density discontinuities at the cutoff cannot be significantly bounded beneath a 50% upward jump. Obtaining equivalence testing failure rates beneath 5% requires arguing that a 350% upward RV density jump at the cutoff is practically equal to zero. My results imply that meaningful RV manipulation around treatment cutoffs cannot be ruled out in many published RDD papers, and that standard tests frequently misclassify the practical significance of RV manipulation. I provide research guidelines to help researchers conduct more credible equivalence-based manipulation testing in future RDD research. The lddtest estimation routine is available in R, Stata, and Python.
-
-</small><br><br/></div>
-
-**Revisiting the Impacts of Anti-Discrimination Employment Protections on American Businesses**. 2024. Under submission, <i>Management Science</i>. <br/>
-<small>[ <a href="#/" onclick="visib('GS22')">Abstract</a> | [Code & Data Retrieval Instructions](https://osf.io/6q4k5/) | [Draft](https://jack-fitzgerald.github.io/files/GS22_Replication.pdf) ] </small>
-
-<div id="GS22" style="display: none; text-align: justify; line-height: 1.2" ><small>
-
-Greene & Shenoy (2022, <i>Management Science</i>) - henceforth GS22 - find that the staggered adoption of U.S. state-level protections against racial discrimination in employment decreased both the profitability and leverage of affected businesses. However, these results arise from two-way fixed effects (TWFE) difference-in-differences models. Such models are now known to return inaccurate estimates of average treatment effects on the treated (ATTs) when treatment assignment is staggered, as some firm-year ATTs can enter the TWFE estimator with negative weight. I find that 21-36% of firm-year ATTs in GS22's sample enter the TWFE estimator with negative weight. I then replicate GS22's results using recently-developed difference-in-differences estimators that return valid ATT estimates under staggered adoption. None of these new ATT estimates are statistically significantly different from zero.
 
 </small><br><br/></div>
 
