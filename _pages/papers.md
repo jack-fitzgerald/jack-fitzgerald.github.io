@@ -21,6 +21,15 @@ Equivalence testing can provide statistically significant evidence that economic
 # <center> Published and Forthcoming Articles </center>
 - - -
 
+**A Comment on "Delivering Remote Learning Using a Low-Tech Solution: Evidence from a Randomized Controlled Trial in Bangladesh"** (with [Lenka Fiala](https://www.lenkafiala.com/), [Essi Kujansuu](https://sites.google.com/view/essi-kujansuu/home), [Derek Mikola](https://sites.google.com/view/derekmikola/), [David Valenta](https://valenta.dev/), [Juan P. Aparicio](https://www.posadaaparicio.com/home), [Michael Wiebe](http://michaelwiebe.com), [Matthew D. Webb](https://sites.google.com/site/matthewdwebb/), and [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home)) Accepted, *Journal of Political Economy: Microeconomics*, 2025. <br/>
+<small>[ <a href="#/" onclick="visib('gdri-jpem')">Abstract</a> ] </small>
+
+<div id="gdri-jpem" style="display: none; text-align: justify; line-height: 1.2" ><small>
+
+Wang et al. (2024) report that Bangladeshi students randomly given access to lessons on a phone server saw significant learning gains during COVID-19 school closures. We identify three sets of anomalies. First, this experiment shares participants with another experiment conducted simultaneously in the same region, but test scores for the same children systematically differ between the two experiments. Second, test scores for treated participants exhibit enormous jumps immediately after students take their first handful of lessons. Third, numerous documentation inconsistencies cast doubt on the study's data reliability. These anomalies raise serious concerns about the credibility of the reported results.
+
+</small><br><br/></div>
+
 **Imputations, Inverse Hyperbolic Sines, and Impossible Values**. 2024. Accepted, *Nature Human Behaviour*. <br/>
 <small>[ <a href="#/" onclick="visib('WEA23')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/WEA23_Replication.pdf) | [Data & Code](https://osf.io/hce6n/) ] </small>
 
