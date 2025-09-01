@@ -66,7 +66,7 @@ Rains & Richards (2024, <i>Proceedings of the National Academy of Sciences</i>) 
 
 </small><br><br/></div>
 
-# <center> Working Papers </center>
+# <center> Invited Submissions and Resubmissions </center>
 - - -
 
 **Three-Sided Testing to Establish Practical Significance: A Tutorial** (with [Peder Isager](https://pedermisager.org/)). [<i>PsyArXiv</i>](https://doi.org/10.31234/osf.io/8y925) and [<i>Tinbergen Institute Discussion Paper Series</i> No. 2024-077/III](https://papers.tinbergen.nl/24077.pdf), 2025. Revise & resubmit, <i>Advances in Methods and Practices in Psychological Science.</i> <br/>
@@ -96,14 +96,9 @@ Vlassopoulos et al. (2024, <i>American Economic Journal: Applied Economics</i>) 
 
 </small><br><br/></div>
 
-**Which Businesses Answer Surveys? Evidence from Dutch Administrative Data**. 2025. <br/>
-<small>[ <a href="#/" onclick="visib('LISA')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/LISA.pdf) | [Code](https://doi.org/10.17605/OSF.IO/9S57M) ] </small>
 
-<div id="LISA" style="display: none; text-align: justify; line-height: 1.2" ><small>
-
-I leverage a unique administrative register covering the universe of establishments in the Netherlands to examine how characteristics differ between establishments that do and do not respond to business surveys. Only 20% of Dutch establishments responded to regional business surveys in 2022. Responsive establishments employed two fewer people than unresponsive establishments, and exhibited parttime employment rates 15 percentage points higher than unresponsive establishments. Sectoral and occupational response rates can vary by nearly 50 percentage points, with public-sector and white-collar occupations overrepresented amongst responsive establishments. Solo enterprises registered to residential addresses are the most common kind of establishment, but exhibit response rates 18 percentage points lower than an average office. However, controlling for contact probability reveals that most sectoral and occupational variation in response rates can be traced back to differences in contact probability rather than responsiveness. These findings highlight generalizability challenges in business surveys and opportunities to improve their design.
-
-</small><br><br/></div>
+# <center> Working Papers </center>
+- - -
 
 **Manipulation Tests in Regression Discontinuity Design: The Need for Equivalence Testing**. [<i>MetaArXiv</i>](https://doi.org/10.31222/osf.io/2dgrp_v1), 2025. <br/>
 <small>[ <a href="#/" onclick="visib('rdd-equiv')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/RDD_Equivalence.pdf) | [R Package](https://doi.org/10.32614/CRAN.package.eqtesting) | [Stata Command](https://github.com/jack-fitzgerald/lddtest) | [Python Package](https://github.com/leostimpfle/lddtest) (created by [Leo Stimpfle](https://www.ugent.be/eb/accountancy-fiscaliteit/en/research/corpfin/team/stimpfle.htm)) | [Institute for Replication Discussion Paper (Older Version)](https://hdl.handle.net/10419/300277) | [Slides](https://jack-fitzgerald.github.io/files/CDSM24_Slides.pdf) | [Twitter/X Thread](https://threadreaderapp.com/thread/1815334145091920105.html) ] </small>
@@ -114,7 +109,16 @@ Researchers applying regression discontinuity design (RDD) often test for endoge
 
 </small><br><br/></div>
 
-**Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science** (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home) et al). [<i>Institute for Replication Discussion Paper Series</i> No. 195](https://hdl.handle.net/10419/308508), 2025. <br/>
+**Which Businesses Answer Surveys? Evidence from Dutch Administrative Data**. 2025. <br/>
+<small>[ <a href="#/" onclick="visib('LISA')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/LISA.pdf) | [Code](https://doi.org/10.17605/OSF.IO/9S57M) ] </small>
+
+<div id="LISA" style="display: none; text-align: justify; line-height: 1.2" ><small>
+
+I leverage a unique administrative register covering the universe of establishments in the Netherlands to examine how characteristics differ between establishments that do and do not respond to business surveys. Only 20% of Dutch establishments responded to regional business surveys in 2022. Responsive establishments employed two fewer people than unresponsive establishments, and exhibited parttime employment rates 15 percentage points higher than unresponsive establishments. Sectoral and occupational response rates can vary by nearly 50 percentage points, with public-sector and white-collar occupations overrepresented amongst responsive establishments. Solo enterprises registered to residential addresses are the most common kind of establishment, but exhibit response rates 18 percentage points lower than an average office. However, controlling for contact probability reveals that most sectoral and occupational variation in response rates can be traced back to differences in contact probability rather than responsiveness. These findings highlight generalizability challenges in business surveys and opportunities to improve their design.
+
+</small><br><br/></div>
+
+**Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science** (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home) et al). [<i>Institute for Replication Discussion Paper Series</i> No. 195](https://hdl.handle.net/10419/308508), 2025. Under submission. <br/>
 <small>[ <a href="#/" onclick="visib('AI')">Abstract</a> | [Draft](https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf) | [Replication Data, Code, and Pre-Analysis Plan](https://osf.io/sz2g8/) ] </small>
 
 <div id="AI" style="display: none; text-align: justify; line-height: 1.2" ><small>
