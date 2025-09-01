@@ -18,15 +18,6 @@ Equivalence testing can provide statistically significant evidence that economic
 
 </small><br><br/></div>
 
-**Imputations, Inverse Hyperbolic Sines, and Impossible Values**. 2024. Accepted, *Nature Human Behaviour*. <br/>
-<small>[ <a href="#/" onclick="visib('WEA23')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/WEA23_Replication.pdf) | [Data & Code](https://osf.io/hce6n/) ] </small>
-
-<div id="WEA23" style="display: none; text-align: justify; line-height: 1.2" ><small>
-
-Wolfowicz et al. (2023, <i>Nature Human Behaviour</i>) find that more arrests and convictions for terrorism offenses decrease terrorism, more charges increase terrorism, and longer sentences do not deter terrorism in 28 European Union member states from 2006-2021. I assess the computational reproducibility of their study and find many data irregularities. The article's primary dependent variable - purportedly an inverse hyperbolic sine transformation of terrorist attack rates - takes on 292 different values when attack rates equal zero, and negatively correlates with attack rates. Many variables exhibit impossible values or undisclosed imputations, often masking a lack of reporting in the article's main data sources. I estimate that the authors have access to 57% fewer observations than claimed. Reproduction attempts produce estimates at least 77.7% smaller than the published estimates. Models reflecting the true degree of missing data produce estimates that are not statistically significantly different from zero for any independent variable of interest.
-
-</small><br><br/></div>
-
 # <center> Published and Forthcoming Articles </center>
 - - -
 
