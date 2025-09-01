@@ -39,7 +39,7 @@ Wang et al. (2024) report that Bangladeshi students randomly given access to les
 
 </small><br><br/></div>
 
-**Identifying the Impact of Hypothetical Stakes on Experimental Outcomes and Treatment Effects**. [<i>MetaArXiv</i>](https://doi.org/10.31222/osf.io/j5nmf_v1), 2025. Revise & resubmit, <i>Experimental Economics</i>. <br/>
+**Identifying the Impact of Hypothetical Stakes on Experimental Outcomes and Treatment Effects**. [<i>MetaArXiv</i>](https://doi.org/10.31222/osf.io/j5nmf_v1), 2025. Conditionally accepted, <i>Experimental Economics</i>. <br/>
 <small>[ <a href="#/" onclick="visib('hypo-bias')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/Hypothetical_Bias.pdf) | [Code & Data Retrieval Instructions](https://osf.io/fe6jn/) | [Tinbergen Institute Discussion Paper](https://papers.tinbergen.nl/24070.pdf) | [Slides](https://jack-fitzgerald.github.io/files/Hypothetical_Bias_Slides.pdf) ] </small>
 
 <div id="hypo-bias" style="display: none; text-align: justify; line-height: 1.2" ><small>
