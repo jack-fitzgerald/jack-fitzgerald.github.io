@@ -66,8 +66,18 @@ Rains & Richards (2024, <i>Proceedings of the National Academy of Sciences</i>) 
 
 </small><br><br/></div>
 
-# <center> Invited Submissions and Resubmissions </center>
+# <center> Invited Resubmissions </center>
 - - -
+
+**A Comment on "Improving Women's Mental Health During a Pandemic"**  (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home), [Lenka Fiala](https://www.lenkafiala.com/), [Essi Kujansuu](https://sites.google.com/view/essi-kujansuu/home), [David Valenta](https://valenta.dev/), [Ole Rogeberg](https://www.frisch.uio.no/english/personell/olejr/), & [Gunther Bensch](https://www.rwi-essen.de/en/rwi/team/person/gunther-bensch)). [<i>Open Science Framework</i>](https://osf.io/s2t6f), 2025. Revise & resubmit, *American Economic Journal: Applied Economics*. <br/>
+<small>[ <a href="#/" onclick="visib('VEA24')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/VEA24.pdf) | [IZA Discussion Paper](https://www.iza.org/en/publications/dp/17782/a-comment-on-improving-womens-mental-health-during-a-pandemic) | [Institute for Replication Discussion Paper](https://hdl.handle.net/10419/312258) | [Data & Code](https://osf.io/s2t6f) | [Author Statement 1](https://osf.io/b94vw) | [Author Statement 2](https://osf.io/wnf29) | [Media: The Australian](https://www.theaustralian.com.au/education/monash-university-investigates-ethical-concerns-over-renowned-economists-bangladesh-research/news-story/5da23d2be9fa1a45c283389af103297a) ] </small>
+
+<div id="VEA24" style="display: none; text-align: justify; line-height: 1.2" ><small>
+
+Vlassopoulos et al. (2024, <i>American Economic Journal: Applied Economics</i>) find that after providing two hours of telephone counseling over three months, a sample of Bangladeshi women saw significant reductions in stress and depression after ten months. We find three anomalies. First, estimates are almost entirely driven by reverse-scored survey items, which are handled inconsistently both in the code and in the field. Second, participants in this experiment are reused from multiple prior experiments conducted by the paper's authors, and estimates are extremely sensitive to the experiment from which participants originate. Finally, inconsistencies and irregularities in raw survey files raise doubts about the data.
+
+</small><br><br/></div>
+
 
 **Three-Sided Testing to Establish Practical Significance: A Tutorial** (with [Peder Isager](https://pedermisager.org/)). [<i>PsyArXiv</i>](https://doi.org/10.31234/osf.io/8y925) and [<i>Tinbergen Institute Discussion Paper Series</i> No. 2024-077/III](https://papers.tinbergen.nl/24077.pdf), 2025. Revise & resubmit, <i>Advances in Methods and Practices in Psychological Science.</i> <br/>
 <small>[ <a href="#/" onclick="visib('TST')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/TST_Tutorial.pdf) | [Stata Command](https://github.com/jack-fitzgerald/tsti) | [R Package](https://doi.org/10.32614/CRAN.package.eqtesting) | [Shiny App](https://jack-fitzgerald.shinyapps.io/shinyTST/) | [Slides](https://jack-fitzgerald.github.io/files/TST_Slides.pdf) | [Twitter/X Thread](https://threadreaderapp.com/thread/1870130179160584350.html) ] </small>
@@ -86,16 +96,6 @@ Researchers may want to know whether an observed statistical relationship is eit
 Greene & Shenoy (2022, <i>Management Science</i>) - henceforth GS22 - find that the staggered adoption of U.S. state-level protections against racial discrimination in employment decreased both the profitability and leverage of affected businesses. However, these results arise from two-way fixed effects (TWFE) difference-in-differences models. Such models are now known to return inaccurate estimates of average treatment effects on the treated (ATTs) when treatment assignment is staggered, as some firm-year ATTs can enter the TWFE estimator with negative weight. I find that 21-36% of firm-year ATTs in GS22's sample enter the TWFE estimator with negative weight. I then replicate GS22's results using recently-developed difference-in-differences estimators that return valid ATT estimates under staggered adoption. None of these new ATT estimates are statistically significantly different from zero.
 
 </small><br><br/></div>
-
-**A Comment on "Improving Women's Mental Health During a Pandemic"**  (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home), [Lenka Fiala](https://www.lenkafiala.com/), [Essi Kujansuu](https://sites.google.com/view/essi-kujansuu/home), [David Valenta](https://valenta.dev/), [Ole Rogeberg](https://www.frisch.uio.no/english/personell/olejr/), & [Gunther Bensch](https://www.rwi-essen.de/en/rwi/team/person/gunther-bensch)). [<i>Open Science Framework</i>](https://osf.io/s2t6f), 2025. Under invited submission, *American Economic Journal: Applied Economics*. <br/>
-<small>[ <a href="#/" onclick="visib('VEA24')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/VEA24.pdf) | [IZA Discussion Paper](https://www.iza.org/en/publications/dp/17782/a-comment-on-improving-womens-mental-health-during-a-pandemic) | [Institute for Replication Discussion Paper](https://hdl.handle.net/10419/312258) | [Data & Code](https://osf.io/s2t6f) | [Author Statement 1](https://osf.io/b94vw) | [Author Statement 2](https://osf.io/wnf29) | [Media: The Australian](https://www.theaustralian.com.au/education/monash-university-investigates-ethical-concerns-over-renowned-economists-bangladesh-research/news-story/5da23d2be9fa1a45c283389af103297a) ] </small>
-
-<div id="VEA24" style="display: none; text-align: justify; line-height: 1.2" ><small>
-
-Vlassopoulos et al. (2024, <i>American Economic Journal: Applied Economics</i>) find that after providing two hours of telephone counseling over three months, a sample of Bangladeshi women saw significant reductions in stress and depression after ten months. We find three anomalies. First, estimates are almost entirely driven by reverse-scored survey items, which are handled inconsistently both in the code and in the field. Second, participants in this experiment are reused from multiple prior experiments conducted by the paper's authors, and estimates are extremely sensitive to the experiment from which participants originate. Finally, inconsistencies and irregularities in raw survey files raise doubts about the data.
-
-</small><br><br/></div>
-
 
 # <center> Working Papers </center>
 - - -
