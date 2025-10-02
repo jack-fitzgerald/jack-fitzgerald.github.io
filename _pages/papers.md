@@ -127,6 +127,15 @@ This study evaluates the effectiveness of varying levels of human and artificial
 
 </small><br><br/></div>
 
+**A Many-Designs Study Crowdsourcing 516 Aggregation Algorithms to Increase the Wisdom of the Crowd** (with [Christian König-Kersting]([https://sites.google.com/site/abelbrodeur/home](https://www.ckgk.de/)) et al). 2025. <br/>
+<small>[ <a href="#/" onclick="visib('WOCCAP')">Abstract</a> | [Project Website](https://woccap.com/) ] </small>
+
+<div id="AI" style="display: none; text-align: justify; line-height: 1.2" ><small>
+
+Accurate predictions are central to decision-making in domains such as politics, climate, or economics. Although aggregating independent individual judgmnets can improve accuracy, a phenomenon known as "Wisdom of the Crowd," the optimal method for combining predictions remains underexplored. In this preregistered many-designs study, 129 research teams submitted 516 aggregation algorithms to predict real-world outcomes across four domains — Economics, Politics, Climate, Sports — over six months. Drawing on 640 individual forecasts per month, we evaluated algorithm performance with respect to both accuracy and variability. We also examined potential predictors of these outcomes, including features of the algorithms themselves (e.g., reliance on domain knowledge or confidence) and characteristics of the researchers who designed them. Results showed that algorithm accuracy is remarkably consistent over time within certain domains, that researchers' expectations about which features would predict algorithm accuracy were often misplaced, and that researchers were overly confident about the success of their own and others' algorithms. No features of algorithms or researchers consistently explained performance differences across domains. By pitting hundreds of independently developed prediction aggregation methods against each other under identical conditions, this study establishes a rigorous empirical benchmark for prediction aggregation, advancing the science of forecasting and our understanding of collective intelligence.
+
+</small><br><br/></div>
+
 **The Problems with Poor Proxies: Does Innovation Mitigate Agricultural Damage from Climate Change?** [<i>Institute for Replication Discussion Paper Series</i> No. 158](https://www.econstor.eu/handle/10419/303190), 2024. Under submission. <br/>
 <small>[ <a href="#/" onclick="visib('MS23')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/MS23_Replication.pdf) | [Data & Code](https://osf.io/d7wz9/) | [Authors' Response](https://www.econstor.eu/handle/10419/303191) | [Twitter/X Thread](https://threadreaderapp.com/thread/1844359711854104708.html) ] </small>
 
