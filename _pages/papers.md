@@ -39,7 +39,7 @@ Wang et al. (2024) report that Bangladeshi students randomly given access to les
 
 </small><br><br/></div>
 
-**Identifying the Impact of Hypothetical Stakes on Experimental Outcomes and Treatment Effects**. [<i>MetaArXiv</i>](https://doi.org/10.31222/osf.io/j5nmf_v1), 2025. Conditionally accepted, <i>Experimental Economics</i>. <br/>
+**Identifying the Impact of Hypothetical Stakes on Experimental Outcomes and Treatment Effects**. [<i>MetaArXiv</i>](https://doi.org/10.31222/osf.io/j5nmf_v1), 2025. Accepted, <i>Experimental Economics</i>. <br/>
 <small>[ <a href="#/" onclick="visib('hypo-bias')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/Hypothetical_Bias.pdf) | [Code & Data Retrieval Instructions](https://osf.io/fe6jn/) | [Tinbergen Institute Discussion Paper](https://papers.tinbergen.nl/24070.pdf) | [Slides](https://jack-fitzgerald.github.io/files/Hypothetical_Bias_Slides.pdf) ] </small>
 
 <div id="hypo-bias" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -78,13 +78,21 @@ Vlassopoulos et al. (2024, <i>American Economic Journal: Applied Economics</i>) 
 
 </small><br><br/></div>
 
-
 **Three-Sided Testing to Establish Practical Significance: A Tutorial** (with [Peder Isager](https://pedermisager.org/)). [<i>PsyArXiv</i>](https://doi.org/10.31234/osf.io/8y925) and [<i>Tinbergen Institute Discussion Paper Series</i> No. 2024-077/III](https://papers.tinbergen.nl/24077.pdf), 2025. Revise & resubmit, <i>Advances in Methods and Practices in Psychological Science.</i> <br/>
 <small>[ <a href="#/" onclick="visib('TST')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/TST_Tutorial.pdf) | [Stata Command](https://github.com/jack-fitzgerald/tsti) | [R Package](https://doi.org/10.32614/CRAN.package.eqtesting) | [Shiny App](https://jack-fitzgerald.shinyapps.io/shinyTST/) | [Slides](https://jack-fitzgerald.github.io/files/TST_Slides.pdf) | [Twitter/X Thread](https://threadreaderapp.com/thread/1870130179160584350.html) ] </small>
 
 <div id="TST" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
 Researchers may want to know whether an observed statistical relationship is either meaningfully negative, meaningfully positive, or small enough to be considered practically equivalent to zero. Such a question can not be addressed with standard null hypothesis significance testing, nor with standard equivalence testing. Three-sided testing (TST) is a procedure to address such questions, by simultaneously testing whether an estimated relationship is significantly below, within, or above predetermined smallest effect sizes of interest. TST is a natural extension of the standard two one-sided tests (TOST) procedure for equivalence testing. TST offers a more comprehensive decision framework than TOST with no penalty to error rates or statistical power. In this paper, we give a non-technical introduction to TST, provide commands for conducting TST in R, Jamovi, and Stata, and provide a Shiny app for easy implementation. Whenever a meaningful smallest effect size of interest can be specified, TST should be combined with null hypothesis significance testing as the default frequentist testing procedure.
+
+</small><br><br/></div>
+
+**Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science** (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home) et al). [<i>Institute for Replication Discussion Paper Series</i> No. 195](https://hdl.handle.net/10419/308508), 2025. Revise & resubmit, *Proceedings of the National Academy of Sciences*. <br/>
+<small>[ <a href="#/" onclick="visib('AI')">Abstract</a> | [Draft](https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf) | [Replication Data, Code, and Pre-Analysis Plan](https://osf.io/sz2g8/) ] </small>
+
+<div id="AI" style="display: none; text-align: justify; line-height: 1.2" ><small>
+
+This study evaluates the effectiveness of varying levels of human and artificial intelligence (AI) integration in reproducibility assessments of quantitative social science research. We computationally reproduced quantitative results from published articles in the social sciences with 288 researchers, randomly assigned to 103 teams across three groups — human-only teams, AI-assisted teams and teams whose task was to minimally guide an AI to conduct reproducibility checks (the “AI-led” approach). Findings reveal that when working independently, human teams matched the reproducibility success rates of teams using AI assistance, while both groups substantially outperformed AI-led approaches (with human teams achieving 57 percentage points higher success rates than AI-led teams, p < 0.001). Human teams were particularly effective at identifying serious problems in the analysis: they found significantly more major errors compared to both AI-assisted teams (0.7 more errors per team, p = 0.017) and AI-led teams (1.1 more errors per team, p < 0.001). AI-assisted teams demonstrated an advantage over more automated approaches, detecting 0.4 more major errors per team than AI-led teams (p = 0.029), though still significantly fewer than human-only teams. Finally, both human and AI-assisted teams significantly outperformed AI-led approaches in both proposing (25 percentage points difference, p = 0.017) and implementing (33 percentage points difference, p = 0.005) comprehensive robustness checks. These results underscore both the strengths and limitations of AI assistance in research reproduction and suggest that despite impressive advancements in AI capability, key aspects of the research publication process still require substantial human involvement.
 
 </small><br><br/></div>
 
@@ -115,15 +123,6 @@ Researchers applying regression discontinuity design (RDD) often test for endoge
 <div id="LISA" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
 I leverage a unique administrative register covering the universe of establishments in the Netherlands to examine how characteristics differ between establishments that do and do not respond to business surveys. Only 20% of Dutch establishments responded to regional business surveys in 2022. Responsive establishments employed two fewer people than unresponsive establishments, and exhibited parttime employment rates 15 percentage points higher than unresponsive establishments. Sectoral and occupational response rates can vary by nearly 50 percentage points, with public-sector and white-collar occupations overrepresented amongst responsive establishments. Solo enterprises registered to residential addresses are the most common kind of establishment, but exhibit response rates 18 percentage points lower than an average office. However, controlling for contact probability reveals that most sectoral and occupational variation in response rates can be traced back to differences in contact probability rather than responsiveness. These findings highlight generalizability challenges in business surveys and opportunities to improve their design.
-
-</small><br><br/></div>
-
-**Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science** (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home) et al). [<i>Institute for Replication Discussion Paper Series</i> No. 195](https://hdl.handle.net/10419/308508), 2025. Under submission. <br/>
-<small>[ <a href="#/" onclick="visib('AI')">Abstract</a> | [Draft](https://www.econstor.eu/bitstream/10419/308508/1/I4R-DP195.pdf) | [Replication Data, Code, and Pre-Analysis Plan](https://osf.io/sz2g8/) ] </small>
-
-<div id="AI" style="display: none; text-align: justify; line-height: 1.2" ><small>
-
-This study evaluates the effectiveness of varying levels of human and artificial intelligence (AI) integration in reproducibility assessments of quantitative social science research. We computationally reproduced quantitative results from published articles in the social sciences with 288 researchers, randomly assigned to 103 teams across three groups — human-only teams, AI-assisted teams and teams whose task was to minimally guide an AI to conduct reproducibility checks (the “AI-led” approach). Findings reveal that when working independently, human teams matched the reproducibility success rates of teams using AI assistance, while both groups substantially outperformed AI-led approaches (with human teams achieving 57 percentage points higher success rates than AI-led teams, p < 0.001). Human teams were particularly effective at identifying serious problems in the analysis: they found significantly more major errors compared to both AI-assisted teams (0.7 more errors per team, p = 0.017) and AI-led teams (1.1 more errors per team, p < 0.001). AI-assisted teams demonstrated an advantage over more automated approaches, detecting 0.4 more major errors per team than AI-led teams (p = 0.029), though still significantly fewer than human-only teams. Finally, both human and AI-assisted teams significantly outperformed AI-led approaches in both proposing (25 percentage points difference, p = 0.017) and implementing (33 percentage points difference, p = 0.005) comprehensive robustness checks. These results underscore both the strengths and limitations of AI assistance in research reproduction and suggest that despite impressive advancements in AI capability, key aspects of the research publication process still require substantial human involvement.
 
 </small><br><br/></div>
 
