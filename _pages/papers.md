@@ -30,6 +30,15 @@ Wolfowicz et al. (2023, <i>Nature Human Behaviour</i>) find that more arrests an
 
 </small><br><br/></div>
 
+**Three-Sided Testing to Establish Practical Significance: A Tutorial** (with [Peder Isager](https://pedermisager.org/)). [<i>PsyArXiv</i>](https://doi.org/10.31234/osf.io/8y925) and [<i>Tinbergen Institute Discussion Paper Series</i> No. 2024-077/III](https://papers.tinbergen.nl/24077.pdf), 2025. Accepted, <i>Advances in Methods and Practices in Psychological Science.</i> <br/>
+<small>[ <a href="#/" onclick="visib('TST')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/TST_Tutorial.pdf) | [Stata Command](https://github.com/jack-fitzgerald/tsti) | [R Package](https://doi.org/10.32614/CRAN.package.eqtesting) | [Shiny App](https://jack-fitzgerald.shinyapps.io/shinyTST/) | [Slides](https://jack-fitzgerald.github.io/files/TST_Slides.pdf) | [Twitter/X Thread](https://threadreaderapp.com/thread/1870130179160584350.html) ] </small>
+
+<div id="TST" style="display: none; text-align: justify; line-height: 1.2" ><small>
+
+Researchers may want to know whether an observed statistical relationship is either meaningfully negative, meaningfully positive, or small enough to be considered practically equivalent to zero. Such a question can not be addressed with standard null hypothesis significance testing, nor with standard equivalence testing. Three-sided testing (TST) is a procedure to address such questions, by simultaneously testing whether an estimated relationship is significantly below, within, or above predetermined smallest effect sizes of interest. TST is a natural extension of the standard two one-sided tests (TOST) procedure for equivalence testing. TST offers a more comprehensive decision framework than TOST with no penalty to error rates or statistical power. In this paper, we give a non-technical introduction to TST, provide commands for conducting TST in R, Jamovi, and Stata, and provide a Shiny app for easy implementation. Whenever a meaningful smallest effect size of interest can be specified, TST should be combined with null hypothesis significance testing as the default frequentist testing procedure.
+
+</small><br><br/></div>
+
 **A Comment on "Delivering Remote Learning Using a Low-Tech Solution: Evidence from a Randomized Controlled Trial in Bangladesh"** (with [Lenka Fiala](https://www.lenkafiala.com/), [Essi Kujansuu](https://sites.google.com/view/essi-kujansuu/home), [Derek Mikola](https://sites.google.com/view/derekmikola/), [David Valenta](https://valenta.dev/), [Juan P. Aparicio](https://www.posadaaparicio.com/home), [Michael Wiebe](http://michaelwiebe.com), [Matthew D. Webb](https://sites.google.com/site/matthewdwebb/), and [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home)) Accepted, *Journal of Political Economy: Microeconomics*, 2025. <br/>
 <small>[ <a href="#/" onclick="visib('gdri-jpem')">Abstract</a> ] </small>
 
@@ -75,15 +84,6 @@ Rains & Richards (2024, <i>Proceedings of the National Academy of Sciences</i>) 
 <div id="VEA24" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
 Vlassopoulos et al. (2024, <i>American Economic Journal: Applied Economics</i>) find that after providing two hours of telephone counseling over three months, a sample of Bangladeshi women saw significant reductions in stress and depression after ten months. We find three anomalies. First, estimates are almost entirely driven by reverse-scored survey items, which are handled inconsistently both in the code and in the field. Second, participants in this experiment are reused from multiple prior experiments conducted by the paper's authors, and estimates are extremely sensitive to the experiment from which participants originate. Finally, inconsistencies and irregularities in raw survey files raise doubts about the data.
-
-</small><br><br/></div>
-
-**Three-Sided Testing to Establish Practical Significance: A Tutorial** (with [Peder Isager](https://pedermisager.org/)). [<i>PsyArXiv</i>](https://doi.org/10.31234/osf.io/8y925) and [<i>Tinbergen Institute Discussion Paper Series</i> No. 2024-077/III](https://papers.tinbergen.nl/24077.pdf), 2025. Revise & resubmit, <i>Advances in Methods and Practices in Psychological Science.</i> <br/>
-<small>[ <a href="#/" onclick="visib('TST')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/TST_Tutorial.pdf) | [Stata Command](https://github.com/jack-fitzgerald/tsti) | [R Package](https://doi.org/10.32614/CRAN.package.eqtesting) | [Shiny App](https://jack-fitzgerald.shinyapps.io/shinyTST/) | [Slides](https://jack-fitzgerald.github.io/files/TST_Slides.pdf) | [Twitter/X Thread](https://threadreaderapp.com/thread/1870130179160584350.html) ] </small>
-
-<div id="TST" style="display: none; text-align: justify; line-height: 1.2" ><small>
-
-Researchers may want to know whether an observed statistical relationship is either meaningfully negative, meaningfully positive, or small enough to be considered practically equivalent to zero. Such a question can not be addressed with standard null hypothesis significance testing, nor with standard equivalence testing. Three-sided testing (TST) is a procedure to address such questions, by simultaneously testing whether an estimated relationship is significantly below, within, or above predetermined smallest effect sizes of interest. TST is a natural extension of the standard two one-sided tests (TOST) procedure for equivalence testing. TST offers a more comprehensive decision framework than TOST with no penalty to error rates or statistical power. In this paper, we give a non-technical introduction to TST, provide commands for conducting TST in R, Jamovi, and Stata, and provide a Shiny app for easy implementation. Whenever a meaningful smallest effect size of interest can be specified, TST should be combined with null hypothesis significance testing as the default frequentist testing procedure.
 
 </small><br><br/></div>
 
