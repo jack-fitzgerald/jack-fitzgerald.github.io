@@ -49,7 +49,7 @@ Wang et al. (2024) report that Bangladeshi students randomly given access to les
 </small><br><br/></div>
 
 **Identifying the Impact of Hypothetical Stakes on Experimental Outcomes and Treatment Effects**. [<i>MetaArXiv</i>](https://doi.org/10.31222/osf.io/j5nmf_v1), 2025. Accepted, <i>Experimental Economics</i>. <br/>
-<small>[ <a href="#/" onclick="visib('hypo-bias')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/Hypothetical_Bias.pdf) | [Code & Data Retrieval Instructions](https://osf.io/fe6jn/) | [Tinbergen Institute Discussion Paper](https://papers.tinbergen.nl/24070.pdf) | [Slides](https://jack-fitzgerald.github.io/files/Hypothetical_Bias_Slides.pdf) ] </small>
+<small>[ <a href="#/" onclick="visib('hypo-bias')">Abstract</a> | [Draft](https://doi.org/10.31222/osf.io/j5nmf_v1) | [Code & Data Retrieval Instructions](https://osf.io/fe6jn/) | [Tinbergen Institute Discussion Paper](https://papers.tinbergen.nl/24070.pdf) | [Slides](https://jack-fitzgerald.github.io/files/Hypothetical_Bias_Slides.pdf) ] </small>
 
 <div id="hypo-bias" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
@@ -67,7 +67,7 @@ Theory and evidence from the behavioral science literature suggest that the wide
 </small><br><br/></div>
 
 **US States That Mandated COVID-19 Vaccination See Higher, Not Lower, Take-Up of COVID-19 Boosters and Flu Vaccines**. *Proceedings of the National Academy of Sciences* (121)41, e2403758121, 2024. <br/>
-<small>[ <a href="#/" onclick="visib('pnas_replication')">Abstract</a> | [Article (Open Access)](https://doi.org/10.1073/pnas.2403758121) | [Draft](https://jack-fitzgerald.github.io/files/RR24_Replication.pdf) | [Data & Code, Published Replication](https://osf.io/mdfb4/) | [Reply](https://www.pnas.org/doi/10.1073/pnas.2409246121) | [Response to Reply](https://jack-fitzgerald.github.io/files/RR24_Response_to_Reply.pdf) | [Data & Code, Response to Reply](https://osf.io/9cn38/) | [Twitter/X Thread](https://threadreaderapp.com/thread/1841491274391597266.html) ] </small>
+<small>[ <a href="#/" onclick="visib('pnas_replication')">Abstract</a> | [Article (Open Access)](https://doi.org/10.1073/pnas.2403758121) | [Data & Code, Published Replication](https://osf.io/mdfb4/) | [Reply](https://www.pnas.org/doi/10.1073/pnas.2409246121) | [Response to Reply](https://jack-fitzgerald.github.io/files/RR24_Response_to_Reply.pdf) | [Data & Code, Response to Reply](https://osf.io/9cn38/) | [Twitter/X Thread](https://threadreaderapp.com/thread/1841491274391597266.html) ] </small>
 
 <div id="pnas_replication" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
@@ -79,7 +79,7 @@ Rains & Richards (2024, <i>Proceedings of the National Academy of Sciences</i>) 
 - - -
 
 **A Comment on "Improving Women's Mental Health During a Pandemic"**  (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home), [Lenka Fiala](https://www.lenkafiala.com/), [Essi Kujansuu](https://sites.google.com/view/essi-kujansuu/home), [David Valenta](https://valenta.dev/), [Ole Rogeberg](https://www.frisch.uio.no/english/personell/olejr/), & [Gunther Bensch](https://www.rwi-essen.de/en/rwi/team/person/gunther-bensch)). [<i>Open Science Framework</i>](https://osf.io/s2t6f), 2025. Revise & resubmit, *American Economic Journal: Applied Economics*. <br/>
-<small>[ <a href="#/" onclick="visib('VEA24')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/VEA24.pdf) | [IZA Discussion Paper](https://www.iza.org/en/publications/dp/17782/a-comment-on-improving-womens-mental-health-during-a-pandemic) | [Institute for Replication Discussion Paper](https://hdl.handle.net/10419/312258) | [Data & Code](https://osf.io/s2t6f) | [Author Statement 1](https://osf.io/b94vw) | [Author Statement 2](https://osf.io/wnf29) | [Media: The Australian](https://www.theaustralian.com.au/education/monash-university-investigates-ethical-concerns-over-renowned-economists-bangladesh-research/news-story/5da23d2be9fa1a45c283389af103297a) ] </small>
+<small>[ <a href="#/" onclick="visib('VEA24')">Abstract</a> | [Draft](https://osf.io/s2t6f) | [IZA Discussion Paper](https://www.iza.org/en/publications/dp/17782/a-comment-on-improving-womens-mental-health-during-a-pandemic) | [Institute for Replication Discussion Paper](https://hdl.handle.net/10419/312258) | [Data & Code](https://osf.io/s2t6f) | [Author Statement 1](https://osf.io/b94vw) | [Author Statement 2](https://osf.io/wnf29) | [Media: The Australian](https://www.theaustralian.com.au/education/monash-university-investigates-ethical-concerns-over-renowned-economists-bangladesh-research/news-story/5da23d2be9fa1a45c283389af103297a) ] </small>
 
 <div id="VEA24" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
@@ -109,7 +109,7 @@ Greene & Shenoy (2022, <i>Management Science</i>) - henceforth GS22 - find that 
 - - -
 
 **Manipulation Tests in Regression Discontinuity Design: The Need for Equivalence Testing**. [<i>MetaArXiv</i>](https://doi.org/10.31222/osf.io/2dgrp_v1), 2025. <br/>
-<small>[ <a href="#/" onclick="visib('rdd-equiv')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/RDD_Equivalence.pdf) | [R Package](https://doi.org/10.32614/CRAN.package.eqtesting) | [Stata Command](https://github.com/jack-fitzgerald/lddtest) | [Python Package](https://github.com/leostimpfle/lddtest) (created by [Leo Stimpfle](https://www.ugent.be/eb/accountancy-fiscaliteit/en/research/corpfin/team/stimpfle.htm)) | [Institute for Replication Discussion Paper (Older Version)](https://hdl.handle.net/10419/300277) | [Slides](https://jack-fitzgerald.github.io/files/CDSM24_Slides.pdf) | [Twitter/X Thread](https://threadreaderapp.com/thread/1815334145091920105.html) ] </small>
+<small>[ <a href="#/" onclick="visib('rdd-equiv')">Abstract</a> | [Draft](https://doi.org/10.31222/osf.io/2dgrp_v1) | [R Package](https://doi.org/10.32614/CRAN.package.eqtesting) | [Stata Command](https://github.com/jack-fitzgerald/lddtest) | [Python Package](https://github.com/leostimpfle/lddtest) (created by [Leo Stimpfle](https://www.ugent.be/eb/accountancy-fiscaliteit/en/research/corpfin/team/stimpfle.htm)) | [Institute for Replication Discussion Paper (Older Version)](https://hdl.handle.net/10419/300277) | [Slides](https://jack-fitzgerald.github.io/files/CDSM24_Slides.pdf) | [Twitter/X Thread](https://threadreaderapp.com/thread/1815334145091920105.html) ] </small>
 
 <div id="rdd-equiv" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
