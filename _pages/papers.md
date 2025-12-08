@@ -21,15 +21,6 @@ Equivalence testing can provide statistically significant evidence that economic
 # <center> Published and Forthcoming Articles </center>
 - - -
 
-**Imputations, Inverse Hyperbolic Sines, and Impossible Values**. 2024. Accepted, *Nature Human Behaviour*. <br/>
-<small>[ <a href="#/" onclick="visib('WEA23')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/WEA23_Replication.pdf) | [Data & Code](https://osf.io/hce6n/) ] </small>
-
-<div id="WEA23" style="display: none; text-align: justify; line-height: 1.2" ><small>
-
-Wolfowicz et al. (2023, <i>Nature Human Behaviour</i>) find that more arrests and convictions for terrorism offenses decrease terrorism, more charges increase terrorism, and longer sentences do not deter terrorism in 28 European Union member states from 2006-2021. I assess the computational reproducibility of their study and find many data irregularities. The article's primary dependent variable - purportedly an inverse hyperbolic sine transformation of terrorist attack rates - takes on 292 different values when attack rates equal zero, and negatively correlates with attack rates. Many variables exhibit impossible values or undisclosed imputations, often masking a lack of reporting in the article's main data sources. I estimate that the authors have access to 57% fewer observations than claimed. Reproduction attempts produce estimates at least 77.7% smaller than the published estimates. Models reflecting the true degree of missing data produce estimates that are not statistically significantly different from zero for any independent variable of interest.
-
-</small><br><br/></div>
-
 **Three-Sided Testing to Establish Practical Significance: A Tutorial** (with [Peder Isager](https://pedermisager.org/)). [<i>PsyArXiv</i>](https://doi.org/10.31234/osf.io/8y925) and [<i>Tinbergen Institute Discussion Paper Series</i> No. 2024-077/III](https://papers.tinbergen.nl/24077.pdf), 2025. Accepted, <i>Advances in Methods and Practices in Psychological Science.</i> <br/>
 <small>[ <a href="#/" onclick="visib('TST')">Abstract</a> | [Draft](https://doi.org/10.31234/osf.io/8y925) | [Stata Command](https://github.com/jack-fitzgerald/tsti) | [R Package](https://doi.org/10.32614/CRAN.package.eqtesting) | [Shiny App](https://jack-fitzgerald.shinyapps.io/shinyTST/) | [Slides](https://jack-fitzgerald.github.io/files/TST_Slides.pdf) | [Twitter/X Thread](https://threadreaderapp.com/thread/1870130179160584350.html) ] </small>
 
@@ -54,6 +45,15 @@ Wang et al. (2024) report that Bangladeshi students randomly given access to les
 <div id="hypo-bias" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
 Recent studies showing that some outcome variables do not statistically significantly differ between real-stakes and hypothetical-stakes conditions have raised methodological challenges to experimental economics' disciplinary norm that experimental choices should be incentivized with real stakes. I show that the hypothetical bias measures estimated in these studies do not econometrically identify the hypothetical biases that matter in most modern experiments. Specifically, traditional hypothetical bias measures are fully informative in 'elicitation experiments' where the researcher is uninterested in treatment effects (TEs). However, in 'intervention experiments' where TEs are of interest, traditional hypothetical bias measures are uninformative; real stakes matter if and only if TEs differ between stakes conditions. I demonstrate that traditional hypothetical bias measures are often misleading estimates of hypothetical bias for intervention experiments, both econometrically and through re-analyses of three recent hypothetical bias experiments. The fact that a given experimental outcome does not statistically significantly differ on average between stakes conditions does not imply that all TEs on that outcome are unaffected by hypothetical stakes. Therefore, the recent hypothetical bias literature does not justify abandoning real stakes in most modern experiments. Maintaining norms that favor completely or probabilistically providing real stakes for experimental choices is useful for ensuring externally valid TEs in experimental economics.
+
+</small><br><br/></div>
+
+**Imputations, Inverse Hyperbolic Sines, and Impossible Values**. 2024. Accepted, *Nature Human Behaviour*. <br/>
+<small>[ <a href="#/" onclick="visib('WEA23')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/WEA23_Replication.pdf) | [Data & Code](https://osf.io/hce6n/) ] </small>
+
+<div id="WEA23" style="display: none; text-align: justify; line-height: 1.2" ><small>
+
+Wolfowicz et al. (2023, <i>Nature Human Behaviour</i>) find that more arrests and convictions for terrorism offenses decrease terrorism, more charges increase terrorism, and longer sentences do not deter terrorism in 28 European Union member states from 2006-2021. I assess the computational reproducibility of their study and find many data irregularities. The article's primary dependent variable - purportedly an inverse hyperbolic sine transformation of terrorist attack rates - takes on 292 different values when attack rates equal zero, and negatively correlates with attack rates. Many variables exhibit impossible values or undisclosed imputations, often masking a lack of reporting in the article's main data sources. I estimate that the authors have access to 57% fewer observations than claimed. Reproduction attempts produce estimates at least 77.7% smaller than the published estimates. Models reflecting the true degree of missing data produce estimates that are not statistically significantly different from zero for any independent variable of interest.
 
 </small><br><br/></div>
 
