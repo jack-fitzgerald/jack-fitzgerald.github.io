@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website! I am on the 2025-2026 PhD job market."
+title: "Welcome to my website!"
 author_profile: true
 redirect_from: 
   - /about/
