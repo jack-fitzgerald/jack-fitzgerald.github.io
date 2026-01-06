@@ -21,21 +21,21 @@ Equivalence testing can provide statistically significant evidence that economic
 # <center> Published and Forthcoming Articles </center>
 - - -
 
+**Identifying the Impact of Hypothetical Stakes on Experimental Outcomes and Treatment Effects**. Forthcoming, <i>Experimental Economics</i>, 2026. <br/>
+<small>[ <a href="#/" onclick="visib('hypo-bias')">Abstract</a> | [Article (Open Access)](https://doi.org/10.1017/eec.2025.10035) | [Preprint](https://doi.org/10.31222/osf.io/j5nmf_v1) | [Code & Data Retrieval Instructions](https://osf.io/fe6jn/) | [Tinbergen Institute Discussion Paper](https://papers.tinbergen.nl/24070.pdf) | [Slides](https://jack-fitzgerald.github.io/files/Hypothetical_Bias_Slides.pdf) ] </small>
+
+<div id="hypo-bias" style="display: none; text-align: justify; line-height: 1.2" ><small>
+
+Recent studies showing that some outcome variables do not statistically significantly differ between real-stakes and hypothetical-stakes conditions have raised methodological challenges to experimental economics' disciplinary norm that experimental choices should be incentivized with real stakes. I show that the hypothetical bias measures estimated in these studies do not econometrically identify the hypothetical biases that matter in most modern experiments. Specifically, traditional hypothetical bias measures are fully informative in 'elicitation experiments' where the researcher is uninterested in treatment effects (TEs). However, in 'intervention experiments' where TEs are of interest, traditional hypothetical bias measures are uninformative; real stakes matter if and only if TEs differ between stakes conditions. I demonstrate that traditional hypothetical bias measures are often misleading estimates of hypothetical bias for intervention experiments, both econometrically and through re-analyses of three recent hypothetical bias experiments. The fact that a given experimental outcome does not statistically significantly differ on average between stakes conditions does not imply that all TEs on that outcome are unaffected by hypothetical stakes. Therefore, the recent hypothetical bias literature does not justify abandoning real stakes in most modern experiments. Maintaining norms that favor completely or probabilistically providing real stakes for experimental choices is useful for ensuring externally valid TEs in experimental economics.
+
+</small><br><br/></div>
+
 **Imputations, Inverse Hyperbolic Sines, and Impossible Values**. 2025. Accepted, *Nature Human Behaviour*. <br/>
 <small>[ <a href="#/" onclick="visib('WEA23')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/WEA23_Replication.pdf) | [Data & Code](https://osf.io/hce6n/) ] </small>
 
 <div id="WEA23" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
 Wolfowicz et al. (2023, <i>Nature Human Behaviour</i>) find that more arrests and convictions for terrorism offenses decrease terrorism, more charges increase terrorism, and longer sentences do not deter terrorism in 28 European Union member states from 2006-2021. I assess the computational reproducibility of their study and find many data irregularities. The article's primary dependent variable - purportedly an inverse hyperbolic sine transformation of terrorist attack rates - takes on 292 different values when attack rates equal zero, and negatively correlates with attack rates. Many variables exhibit impossible values or undisclosed imputations, often masking a lack of reporting in the article's main data sources. I estimate that the authors have access to 57% fewer observations than claimed. Reproduction attempts produce estimates at least 77.7% smaller than the published estimates. Models reflecting the true degree of missing data produce estimates that are not statistically significantly different from zero for any independent variable of interest.
-
-</small><br><br/></div>
-
-**Identifying the Impact of Hypothetical Stakes on Experimental Outcomes and Treatment Effects**. [<i>MetaArXiv</i>](https://doi.org/10.31222/osf.io/j5nmf_v1), 2025. Accepted, <i>Experimental Economics</i>. <br/>
-<small>[ <a href="#/" onclick="visib('hypo-bias')">Abstract</a> | [Draft](https://doi.org/10.31222/osf.io/j5nmf_v1) | [Code & Data Retrieval Instructions](https://osf.io/fe6jn/) | [Tinbergen Institute Discussion Paper](https://papers.tinbergen.nl/24070.pdf) | [Slides](https://jack-fitzgerald.github.io/files/Hypothetical_Bias_Slides.pdf) ] </small>
-
-<div id="hypo-bias" style="display: none; text-align: justify; line-height: 1.2" ><small>
-
-Recent studies showing that some outcome variables do not statistically significantly differ between real-stakes and hypothetical-stakes conditions have raised methodological challenges to experimental economics' disciplinary norm that experimental choices should be incentivized with real stakes. I show that the hypothetical bias measures estimated in these studies do not econometrically identify the hypothetical biases that matter in most modern experiments. Specifically, traditional hypothetical bias measures are fully informative in 'elicitation experiments' where the researcher is uninterested in treatment effects (TEs). However, in 'intervention experiments' where TEs are of interest, traditional hypothetical bias measures are uninformative; real stakes matter if and only if TEs differ between stakes conditions. I demonstrate that traditional hypothetical bias measures are often misleading estimates of hypothetical bias for intervention experiments, both econometrically and through re-analyses of three recent hypothetical bias experiments. The fact that a given experimental outcome does not statistically significantly differ on average between stakes conditions does not imply that all TEs on that outcome are unaffected by hypothetical stakes. Therefore, the recent hypothetical bias literature does not justify abandoning real stakes in most modern experiments. Maintaining norms that favor completely or probabilistically providing real stakes for experimental choices is useful for ensuring externally valid TEs in experimental economics.
 
 </small><br><br/></div>
 
