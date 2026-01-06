@@ -22,7 +22,7 @@ Equivalence testing can provide statistically significant evidence that economic
 - - -
 
 **Identifying the Impact of Hypothetical Stakes on Experimental Outcomes and Treatment Effects**. Forthcoming, <i>Experimental Economics</i>, 2026. <br/>
-<small>[ <a href="#/" onclick="visib('hypo-bias')">Abstract</a> | [Article (Open Access)](https://doi.org/10.1017/eec.2025.10035) | [Preprint](https://doi.org/10.31222/osf.io/j5nmf_v1) | [Code & Data Retrieval Instructions](https://osf.io/fe6jn/) | [Tinbergen Institute Discussion Paper](https://papers.tinbergen.nl/24070.pdf) | [Slides](https://jack-fitzgerald.github.io/files/Hypothetical_Bias_Slides.pdf) ] </small>
+<small>[ <a href="#/" onclick="visib('hypo-bias')">Abstract</a> | [Article (Open Access)](https://doi.org/10.1017/eec.2025.10035) | [Code & Data Retrieval Instructions](https://osf.io/fe6jn/) | [MetaArXiv Preprint](https://doi.org/10.31222/osf.io/j5nmf_v1) | [Tinbergen Institute Discussion Paper](https://papers.tinbergen.nl/24070.pdf) | [Slides](https://jack-fitzgerald.github.io/files/Hypothetical_Bias_Slides.pdf) ] </small>
 
 <div id="hypo-bias" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
