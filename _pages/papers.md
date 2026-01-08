@@ -30,7 +30,7 @@ Recent studies showing that some outcome variables do not statistically signific
 
 </small><br><br/></div>
 
-**Imputations, Inverse Hyperbolic Sines, and Impossible Values**. 2026. Accepted, *Nature Human Behaviour*. <br/>
+**Imputations, Inverse Hyperbolic Sines and Impossible Values**. 2026. *Nature Human Behaviour*. <br/>
 <small>[ <a href="#/" onclick="visib('WEA23')">Abstract</a> | [Article](https://doi.org/10.1038/s41562-025-02347-7) | [Data & Code](https://osf.io/hce6n/) ] </small>
 
 <div id="WEA23" style="display: none; text-align: justify; line-height: 1.2" ><small>
