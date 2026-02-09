@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in economics at Vrije Universiteit Amsterdam and the Tinbergen Institute. I work on issues in applied econometrics, replication, and economics of science. 
+I am a PhD Candidate in Economics at Vrije Universiteit Amsterdam and the Tinbergen Institute, as well as a Lecturer in Advanced Research Methods and Statistics at the University of Amsterdam. I work on issues in applied econometrics, replication, and economics of science. 
 
 I am dedicated to improving methods in scientific research. My research can broadly be categorized as follows:
 * **Equivalence testing and practical significance testing.** [My job market paper](https://doi.org/10.31222/osf.io/d7sqr_v2) introduces methods that can provide statistically significant evidence that economic relationships are practically equal to zero. In their absence, error rates in top economics journals are quite high. I’ve also employed these tests in empirical applications, such as [my article in <i>Journal of Business Ethics</i>](https://link.springer.com/article/10.1007/s10551-024-05731-x), and in extended methodological applications, such as in my [tutorial on three-sided testing](https://doi.org/10.31234/osf.io/8y925_v3).
