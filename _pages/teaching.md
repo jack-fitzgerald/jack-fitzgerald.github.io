@@ -5,6 +5,10 @@ permalink: /teaching/
 author_profile: true
 ---
 
+**Advanced Research Methods and Statistics**. BSc Liberal Arts and Sciences, Amsterdam University College, 2026. <br/>
+
+I teach lectures on multivariate statistics and classification methods.
+
 **Scientific Integrity**. MRes Economics, Econometrics, and Finance/Business Data Science, Tinbergen Institute, 2025, 2026. <br/>
 
 I provide lecture support concerning replication and reproducibility for empirical economics, econometrics, finance, and management research alongside [Kacana Khadjavi](https://kacanasipangule.wordpress.com/).
