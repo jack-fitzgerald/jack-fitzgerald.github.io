@@ -15,7 +15,7 @@ I provide lecture support concerning replication and reproducibility for empiric
 
 **Academic Skills**. BSc Economics and Business Economics, Vrije Universiteit Amsterdam, 2026. <br/>
 
-I provide tutorial support on argumentative essay-writing. The course is coordinated by [Gert-Jan Melker](https://research.vu.nl/en/persons/gert-jan-melker/).
+I provided tutorial support on argumentative essay-writing. The course is coordinated by [Gert-Jan Melker](https://research.vu.nl/en/persons/gert-jan-melker/).
 
 **Programming for Economists**. BSc Economics and Business Economics, Vrije Universiteit Amsterdam, 2025. <br/>
 
