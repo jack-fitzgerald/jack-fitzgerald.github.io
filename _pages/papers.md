@@ -40,7 +40,7 @@ Wolfowicz et al. (2023, <i>Nature Human Behaviour</i>) find that more arrests an
 </small><br><br/></div>
 
 **Revisiting the Cognitive Advantages of Professional Soccer Players** (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home) and [Niklas Jakobsson](https://www.kau.se/en/researchers/niklas-jakobsson)). *Proceedings of the National Academy of Sciences* 123(8), e2515523123, 2026. <br/>
-<small>[ <a href="#/" onclick="visib('BEA25')">Abstract</a> | [Article](https://doi.org/10.1073/pnas.2515523123) | [Author's Reply](https://doi.org/10.1073/pnas.2521662123) [Data & Code](https://osf.io/sc7nt) ] </small>
+<small>[ <a href="#/" onclick="visib('BEA25')">Abstract</a> | [Article](https://doi.org/10.1073/pnas.2515523123) | [Author's Reply](https://doi.org/10.1073/pnas.2521662123) | [Data & Code](https://osf.io/sc7nt) ] </small>
 
 <div id="BEA25" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
