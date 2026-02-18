@@ -30,7 +30,7 @@ Recent studies showing that some outcome variables do not statistically signific
 
 </small><br><br/></div>
 
-**Imputations, Inverse Hyperbolic Sines and Impossible Values**. 2026. *Nature Human Behaviour*. <br/>
+**Imputations, Inverse Hyperbolic Sines and Impossible Values**. *Nature Human Behaviour*, 2026. <br/>
 <small>[ <a href="#/" onclick="visib('WEA23')">Abstract</a> | [Article](https://rdcu.be/eYab2) | [Data & Code](https://osf.io/hce6n/) ] </small>
 
 <div id="WEA23" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -39,7 +39,7 @@ Wolfowicz et al. (2023, <i>Nature Human Behaviour</i>) find that more arrests an
 
 </small><br><br/></div>
 
-**Revisiting the Cognitive Advantages of Professional Soccer Players** (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home) and [Niklas Jakobsson](https://www.kau.se/en/researchers/niklas-jakobsson)). 2026. *Proceedings of the National Academy of Sciences* 123(8), e2515523123. <br/>
+**Revisiting the Cognitive Advantages of Professional Soccer Players** (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home) and [Niklas Jakobsson](https://www.kau.se/en/researchers/niklas-jakobsson)). *Proceedings of the National Academy of Sciences* 123(8), e2515523123, 2026. <br/>
 <small>[ <a href="#/" onclick="visib('BEA25')">Abstract</a> | [Article](https://doi.org/10.1073/pnas.2515523123) | [Author's Reply](https://doi.org/10.1073/pnas.2521662123) [Data & Code](https://osf.io/sc7nt) ] </small>
 
 <div id="BEA25" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -48,7 +48,7 @@ Bonetti et al. (2025, <i>Proceedings of the National Academy of Sciences</i>) fi
 
 </small><br><br/></div>
 
-**Three-Sided Testing to Establish Practical Significance: A Tutorial** (with [Peder Isager](https://pedermisager.org/)). [<i>PsyArXiv</i>](https://doi.org/10.31234/osf.io/8y925_v3) and [<i>Tinbergen Institute Discussion Paper Series</i> No. 2024-077/III](https://papers.tinbergen.nl/24077.pdf), 2025. Accepted, <i>Advances in Methods and Practices in Psychological Science.</i> <br/>
+**Three-Sided Testing to Establish Practical Significance: A Tutorial** (with [Peder Isager](https://pedermisager.org/)). [<i>PsyArXiv</i>](https://doi.org/10.31234/osf.io/8y925_v3) and [<i>Tinbergen Institute Discussion Paper Series</i> No. 2024-077/III](https://papers.tinbergen.nl/24077.pdf), Accepted, <i>Advances in Methods and Practices in Psychological Science</i>, 2025. <br/>
 <small>[ <a href="#/" onclick="visib('TST')">Abstract</a> | [Draft](https://doi.org/10.31234/osf.io/8y925_v3) | [Stata Command](https://github.com/jack-fitzgerald/tsti) | [R Package](https://doi.org/10.32614/CRAN.package.eqtesting) | [Shiny App](https://jack-fitzgerald.shinyapps.io/shinyTST/) | [Slides](https://jack-fitzgerald.github.io/files/TST_Slides.pdf) | [Twitter/X Thread](https://threadreaderapp.com/thread/1870130179160584350.html) ] </small>
 
 <div id="TST" style="display: none; text-align: justify; line-height: 1.2" ><small>
