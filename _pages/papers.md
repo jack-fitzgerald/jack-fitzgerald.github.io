@@ -39,6 +39,15 @@ Wolfowicz et al. (2023, <i>Nature Human Behaviour</i>) find that more arrests an
 
 </small><br><br/></div>
 
+**Revisiting the Cognitive Advantages of Professional Soccer Players** (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home) and [Niklas Jakobsson](https://www.kau.se/en/researchers/niklas-jakobsson)). 2026. *Proceedings of the National Academy of Sciences*. <br/>
+<small>[ <a href="#/" onclick="visib('BEA25')">Abstract</a> | [Article](https://doi.org/10.1073/pnas.2515523123) | [Author's Reply](https://doi.org/10.1073/pnas.2521662123) [Data & Code](https://osf.io/sc7nt) ] </small>
+
+<div id="BEA25" style="display: none; text-align: justify; line-height: 1.2" ><small>
+
+Bonetti et al. (2025, <i>Proceedings of the National Academy of Sciences</i>) find that professional soccer players in Brazil and Sweden exhibit detectable cognitive advantages compared to a sample of Brazilian control participants, and that machine learning models can distinguish the professional players from the control participants with 97% accuracy. Analyzing the study's replication data, we find that some of the study's statistical analyses are mischaracterized, and we document potential issues in the sampling of Brazilian control participants. In light of the latter, we focus on quality differences between professional Swedish players previously analyzed by some of the study's authors. We find that the paper's machine learning models can only distinguish high-quality Swedish professional players from lower-quality players with just 53% average accuracy, near the no-information rate.
+
+</small><br><br/></div>
+
 **Three-Sided Testing to Establish Practical Significance: A Tutorial** (with [Peder Isager](https://pedermisager.org/)). [<i>PsyArXiv</i>](https://doi.org/10.31234/osf.io/8y925_v3) and [<i>Tinbergen Institute Discussion Paper Series</i> No. 2024-077/III](https://papers.tinbergen.nl/24077.pdf), 2025. Accepted, <i>Advances in Methods and Practices in Psychological Science.</i> <br/>
 <small>[ <a href="#/" onclick="visib('TST')">Abstract</a> | [Draft](https://doi.org/10.31234/osf.io/8y925_v3) | [Stata Command](https://github.com/jack-fitzgerald/tsti) | [R Package](https://doi.org/10.32614/CRAN.package.eqtesting) | [Shiny App](https://jack-fitzgerald.shinyapps.io/shinyTST/) | [Slides](https://jack-fitzgerald.github.io/files/TST_Slides.pdf) | [Twitter/X Thread](https://threadreaderapp.com/thread/1870130179160584350.html) ] </small>
 
