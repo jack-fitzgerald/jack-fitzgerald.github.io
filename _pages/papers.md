@@ -87,7 +87,7 @@ Rains & Richards (2024, <i>Proceedings of the National Academy of Sciences</i>) 
 # <center> Invited Submissions and Resubmissions </center>
 - - -
 
-**Reframing Eating: Drivers, Influences, and Transitions (ReDIET) for a Sustainable Food System**. 2026. Invited submission, <i>Current Opinion in Environmental Sustainability</i>. <br/>
+**Reframing Eating: Drivers, Influences, and Transitions (ReDIET) for a Sustainable Food System** (with [Meike Morren](https://www.meikemorren.com/), [Guido van Koningsbruggen](https://research.vu.nl/en/persons/guido-van-koningsbruggen/), [Angela Johnson](https://research.vu.nl/en/persons/dr-angela-johnson/), & [Kristiaan Kok](https://research.vu.nl/en/persons/kristiaan-kok/)). 2026. Invited submission, <i>Current Opinion in Environmental Sustainability</i>. <br/>
 <small>[ <a href="#/" onclick="visib('ReDIET')">Abstract</a> | [Project Website](https://foodtransition.meikemorren.com/) ] </small>
 
 <div id="ReDIET" style="display: none; text-align: justify; line-height: 1.2" ><small>
