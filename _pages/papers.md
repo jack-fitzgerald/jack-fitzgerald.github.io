@@ -84,8 +84,17 @@ Rains & Richards (2024, <i>Proceedings of the National Academy of Sciences</i>) 
 
 </small><br><br/></div>
 
-# <center> Invited Resubmissions </center>
+# <center> Invited Submissions and Resubmissions </center>
 - - -
+
+**Reframing Eating: Drivers, Influences, and Transitions (ReDIET) for a Sustainable Food System**. 2026. Invited submission, <i>Current Opinion in Environmental Sustainability</i>. <br/>
+<small>[ <a href="#/" onclick="visib('ReDIET')">Abstract</a> | [Project Website](https://foodtransition.meikemorren.com/) ] </small>
+
+<div id="ReDIET" style="display: none; text-align: justify; line-height: 1.2" ><small>
+
+To accelerate sustainability transitions in food systems and to meet climate change mitigation targets, fundamental changes in both food production and consumption are essential. While substantial research has examined either systemic or individual interventions to drive change, these approaches often fall short in isolation. System-level interventions may prove ineffective or even counterproductive if they disregard behavioral insights into sustainable food choice, whereas individual-level interventions alone are unlikely to achieve large-scale food system transitions. We propose a new framework that elucidates the interactions between system- and individual-level drivers of sustainable food choice from a multi-stakeholder perspective. Drawing on insights from both natural and the social sciences, we identify key push and pull factors influencing sustainable food behavior both at the system- and individual-level. Our framework provides action-oriented strategies for integrating behavioral science with food system transition, enabling decision-makers to leverage the mutual reinforcement of systematic and individual interventions toward more sustainable food production and consumption.
+
+</small><br><br/></div>
 
 **A Comment on "Improving Women's Mental Health During a Pandemic"**  (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home), [Lenka Fiala](https://www.lenkafiala.com/), [Essi Kujansuu](https://sites.google.com/view/essi-kujansuu/home), [David Valenta](https://valenta.dev/), [Ole Røgeberg](https://frischsenteret.no/person-details/page/5/?person_id=olejr), & [Gunther Bensch](https://www.rwi-essen.de/en/rwi/team/person/gunther-bensch)). [<i>Open Science Framework</i>](https://osf.io/s2t6f), 2025. Revise & resubmit, *American Economic Journal: Applied Economics*. <br/>
 <small>[ <a href="#/" onclick="visib('VEA24')">Abstract</a> | [Draft](https://osf.io/s2t6f) | [IZA Discussion Paper](https://www.iza.org/en/publications/dp/17782/a-comment-on-improving-womens-mental-health-during-a-pandemic) | [Institute for Replication Discussion Paper](https://hdl.handle.net/10419/312258) | [Data & Code](https://osf.io/s2t6f) | [Author Statement 1](https://osf.io/b94vw) | [Author Statement 2](https://osf.io/wnf29) | [Media: The Australian](https://www.theaustralian.com.au/education/monash-university-investigates-ethical-concerns-over-renowned-economists-bangladesh-research/news-story/5da23d2be9fa1a45c283389af103297a) ] </small>
