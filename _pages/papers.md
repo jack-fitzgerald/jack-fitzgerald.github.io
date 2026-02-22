@@ -18,7 +18,7 @@ Equivalence testing can provide statistically significant evidence that economic
 
 </small><br><br/></div>
 
-# <center> Published and Forthcoming Articles </center>
+# <center> Current and Forthcoming Publications </center>
 - - -
 
 **Identifying the Impact of Hypothetical Stakes on Experimental Outcomes and Treatment Effects**. Forthcoming, <i>Experimental Economics</i>, 2026. <br/>
