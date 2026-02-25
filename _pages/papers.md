@@ -126,6 +126,15 @@ Greene & Shenoy (2022, <i>Management Science</i>) - henceforth GS22 - find that 
 # <center> Working Papers </center>
 - - -
 
+**Non-Robustness and Publication Bias in Log-Like Specifications: Evidence from a Large-Scale Reanalysis** (with [Joop Adema](https://jopieadema.github.io/), [Lenka Fiala](https://www.lenkafiala.com/), [Essi Kujansuu](https://sites.google.com/view/essi-kujansuu/home), and [David Valenta](https://valenta.dev/)). 2026. <br/>
+<small>[ <a href="#/" onclick="visib('log-like')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/log-like.pdf) | [R Package](https://doi.org/10.32614/CRAN.package.eqtesting) ] </small>
+
+<div id="rdd-equiv" style="display: none; text-align: justify; line-height: 1.2" ><small>
+
+Recent literature shows that when regression models are estimated on variables transformed with 'log-like' functions such as the inverse hyperbolic sine or ln(Z + 1) transformations, one can obtain (semi-)elasticity estimates of any magnitude by linearly rescaling the input variable(s) before transformation. We systematically reanalyze the replication data of 46 papers whose main conclusions are defended by log-like specifications. First, we find that 14-37% of estimates defending the papers' main claims yield different statistical significance conclusions after modest changes to model specification. Second, we show that for 99.8% of estimates, variables transformed with log-like functions do not meet data requirements specified in recent methodological recommendations. Third and finally, we show that 38% of published test statistics in log-like specifications sit in a 'sweet spot' where test statistics shrink both if transformed variables are scaled up and scaled down. We conclude with methodological guidelines that advocate for more robust alternative specifications, such as normalized estimands, Poisson regression, and quantile regression.
+
+</small><br><br/></div>
+
 **Manipulation Tests in Regression Discontinuity Design: The Need for Equivalence Testing**. [<i>MetaArXiv</i>](https://doi.org/10.31222/osf.io/2dgrp_v1), 2025. <br/>
 <small>[ <a href="#/" onclick="visib('rdd-equiv')">Abstract</a> | [Draft](https://doi.org/10.31222/osf.io/2dgrp_v1) | [R Package](https://doi.org/10.32614/CRAN.package.eqtesting) | [Stata Command](https://github.com/jack-fitzgerald/lddtest) | [Python Package](https://github.com/leostimpfle/lddtest) (created by [Leo Stimpfle](https://www.ugent.be/eb/accountancy-fiscaliteit/en/research/corpfin/team/stimpfle.htm)) | [Institute for Replication Discussion Paper (Older Version)](https://hdl.handle.net/10419/300277) | [Slides](https://jack-fitzgerald.github.io/files/CDSM24_Slides.pdf) | [Twitter/X Thread](https://threadreaderapp.com/thread/1815334145091920105.html) ] </small>
 
