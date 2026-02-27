@@ -127,7 +127,7 @@ Greene & Shenoy (2022, <i>Management Science</i>) - henceforth GS22 - find that 
 - - -
 
 **Non-Robustness and Publication Bias in Log-Like Specifications: Evidence from a Large-Scale Reanalysis** (with [Joop Adema](https://jopieadema.github.io/), [Lenka Fiala](https://www.lenkafiala.com/), [Essi Kujansuu](https://sites.google.com/view/essi-kujansuu/home), and [David Valenta](https://valenta.dev/)). 2026. <br/>
-<small>[ <a href="#/" onclick="visib('log-like')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/log-like.pdf) | [R Package](https://doi.org/10.32614/CRAN.package.eqtesting) ] </small>
+<small>[ <a href="#/" onclick="visib('log-like')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/log-like.pdf) ] </small>
 
 <div id="rdd-equiv" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
