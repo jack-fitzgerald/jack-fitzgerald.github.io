@@ -127,7 +127,7 @@ Greene & Shenoy (2022, <i>Management Science</i>) - henceforth GS22 - find that 
 - - -
 
 **Non-Robustness in Log-Like Specifications** (with [Joop Adema](https://jopieadema.github.io/), [Lenka Fiala](https://www.lenkafiala.com/), [Essi Kujansuu](https://sites.google.com/view/essi-kujansuu/home), and [David Valenta](https://valenta.dev/)). [<i>MetaArXiv</i>](https://doi.org/10.31222/osf.io/juda7_v1), 2026. <br/>
-<small>[ <a href="#/" onclick="visib('log-like')">Abstract</a> | [Draft](https://doi.org/10.31222/osf.io/juda7_v1) | [Teaching Slides](https://jack-fitzgerald.github.io/files/Log-Like_Teaching_Slides.pdf) ] </small>
+<small>[ <a href="#/" onclick="visib('log-like')">Abstract</a> | [Draft](https://doi.org/10.31222/osf.io/juda7_v1) | [Institute for Replication Discussion Paper](https://hdl.handle.net/10419/338628) | [Teaching Slides](https://jack-fitzgerald.github.io/files/Log-Like_Teaching_Slides.pdf) ] </small>
 
 <div id="log-like" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
