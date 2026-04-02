@@ -5,11 +5,6 @@ permalink: /software/
 author_profile: true
 ---
 
-**shinyTST** <br/>
-<small>[ [Website](https://jack-fitzgerald.shinyapps.io/shinyTST/) ] </small>
-
-A Shiny app for three-sided testing ([Goeman, Solari, & Stijnen 2010](https://doi.org/10.1002/sim.4002)). Shiny adaptation of the <b>tst</b> command in my <b>eqtesting</b> R package. Developed jointly with [Peder Isager](https://pedermisager.org/).
-
 **eqtesting** <br/>
 <small>[ [CRAN Repository](https://doi.org/10.32614/CRAN.package.eqtesting) | [Github Repository](https://github.com/jack-fitzgerald/eqtesting) ] </small>
 
@@ -19,6 +14,16 @@ An R package for equivalence testing. Provides the <b>tst</b> command, which imp
 <small>[ [SSC Package](https://ideas.repec.org/c/boc/bocode/s459446.html) | [Github Repository](https://github.com/jack-fitzgerald/lddtest) ] </small>
 
 A Stata command that performs equivalence testing on logarithmic density discontinuities at the cutoff for running variables in regression discontinuity design ([Fitzgerald 2024](https://jack-fitzgerald.github.io/files/RDD_Equivalence.pdf)).
+
+**OpenAware Navigator** <br/>
+<small>[ [Website](https://jack-fitzgerald.shinyapps.io/OpenAware_Navigator/) ] </small>
+
+A Shiny app for OpenAware transparency standards for restricted-access data. Co-created with [Rianne Fijten](https://cris.maastrichtuniversity.nl/en/persons/rianne-fijten/), [Bogdana-Raluca Huma](https://research.vu.nl/en/persons/bogdana-raluca-huma/), [Santosh Ilamparuthi](https://www.tudelft.nl/library/data-management/ondersteuning-bij-data-management/contact/santosh-ilamparuthi), [Angelica Maineri](https://angelicamaineri.github.io/), and [Mark van Assem](https://www.openscience.nl/mark-van-assem).
+
+**shinyTST** <br/>
+<small>[ [Website](https://jack-fitzgerald.shinyapps.io/shinyTST/) ] </small>
+
+A Shiny app for three-sided testing ([Goeman, Solari, & Stijnen 2010](https://doi.org/10.1002/sim.4002)). Shiny adaptation of the <b>tst</b> command in my <b>eqtesting</b> R package. Developed jointly with [Peder Isager](https://pedermisager.org/).
 
 **tsti** <br/>
 <small>[ [SSC Package](https://ideas.repec.org/c/boc/bocode/s459445.html) | [Github Repository](https://github.com/jack-fitzgerald/tsti) ] </small>
