@@ -18,7 +18,7 @@ A Stata command that performs equivalence testing on logarithmic density discont
 **OpenAware Navigator** <br/>
 <small>[ [Website](https://jack-fitzgerald.shinyapps.io/OpenAware_Navigator/) ] </small>
 
-A Shiny app for OpenAware transparency standards for restricted-access data. Co-created with [Rianne Fijten](https://cris.maastrichtuniversity.nl/en/persons/rianne-fijten/), [Bogdana-Raluca Huma](https://research.vu.nl/en/persons/bogdana-raluca-huma/), [Santosh Ilamparuthi](https://www.tudelft.nl/library/data-management/ondersteuning-bij-data-management/contact/santosh-ilamparuthi), [Angelica Maineri](https://angelicamaineri.github.io/), and [Mark van Assem](https://www.openscience.nl/mark-van-assem).
+A Shiny app for OpenAware transparency standards for restricted-access data. Co-created with [Rianne Fijten](https://cris.maastrichtuniversity.nl/en/persons/rianne-fijten/), [Bogdana-Raluca Huma](https://research.vu.nl/en/persons/bogdana-raluca-huma/), [Santosh Ilamparuthi](https://www.tudelft.nl/library/data-management/ondersteuning-bij-data-management/contact/santosh-ilamparuthi), [Angelica Maineri](https://angelicamaineri.github.io/), [Mark van Assem](https://www.openscience.nl/mark-van-assem), and [Lotte van Burgsteden](https://research.vu.nl/en/persons/lotte-van-burgsteden/).
 
 **shinyTST** <br/>
 <small>[ [Website](https://jack-fitzgerald.shinyapps.io/shinyTST/) ] </small>
