@@ -145,7 +145,7 @@ Researchers applying regression discontinuity design (RDD) often test for endoge
 </small><br><br/></div>
 
 **Which Businesses Answer Surveys? Evidence from Dutch Administrative Data**. 2025. <br/>
-<small>[ <a href="#/" onclick="visib('LISA')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/LISA.pdf) | [Code](https://doi.org/10.17605/OSF.IO/9S57M) ] </small>
+<small>[ <a href="#/" onclick="visib('LISA')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/LISA.pdf) | [Code](https://doi.org/10.17605/OSF.IO/9S57M) | [AsCollected Registration](https://ascollected.org/G4V_I9I) ] </small>
 
 <div id="LISA" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
