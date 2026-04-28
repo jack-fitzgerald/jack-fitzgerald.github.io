@@ -21,6 +21,15 @@ Equivalence testing can provide statistically significant evidence that economic
 # <center> Current and Forthcoming Publications </center>
 - - -
 
+**Three-Sided Testing to Establish Practical Significance: A Tutorial** (with [Peder Isager](https://pedermisager.org/)). <i>Advances in Methods and Practices in Psychological Science</i> 9(1), 2026. <br/>
+<small>[ <a href="#/" onclick="visib('TST')">Abstract</a> | [Article (Open Access)](https://doi.org/10.1177/25152459251412435) | [PsyArXiv Preprint](https://doi.org/10.31234/osf.io/8y925_v3) | [Tinbergen Institute Discussion Paper](https://papers.tinbergen.nl/24077.pdf) | [Stata Command](https://github.com/jack-fitzgerald/tsti) | [R Package](https://doi.org/10.32614/CRAN.package.eqtesting) | [Shiny App](https://jack-fitzgerald.shinyapps.io/shinyTST/) | [Teaching Slides](https://jack-fitzgerald.github.io/files/TST_Slides.pdf) | [Twitter/X Thread](https://threadreaderapp.com/thread/1870130179160584350.html) ] </small>
+
+<div id="TST" style="display: none; text-align: justify; line-height: 1.2" ><small>
+
+Researchers may want to know whether an observed statistical relationship is either meaningfully negative, meaningfully positive, or small enough to be considered practically equivalent to zero. Such a question can not be addressed with standard null hypothesis significance testing, nor with standard equivalence testing. Three-sided testing (TST) is a procedure to address such questions, by simultaneously testing whether an estimated relationship is significantly below, within, or above predetermined smallest effect sizes of interest. TST is a natural extension of the standard two one-sided tests (TOST) procedure for equivalence testing. TST offers a more comprehensive decision framework than TOST with no penalty to error rates or statistical power. In this paper, we give a non-technical introduction to TST, provide commands for conducting TST in R, Jamovi, and Stata, and provide a Shiny app for easy implementation. Whenever a meaningful smallest effect size of interest can be specified, TST should be combined with null hypothesis significance testing as the default frequentist testing procedure.
+
+</small><br><br/></div>
+
 **Identifying the Impact of Hypothetical Stakes on Experimental Outcomes and Treatment Effects**. Forthcoming, <i>Experimental Economics</i>, 2026. <br/>
 <small>[ <a href="#/" onclick="visib('hypo-bias')">Abstract</a> | [Article (Open Access)](https://doi.org/10.1017/eec.2025.10035) | [Code & Data Retrieval Instructions](https://osf.io/fe6jn/) | [MetaArXiv Preprint](https://doi.org/10.31222/osf.io/j5nmf_v1) | [Tinbergen Institute Discussion Paper](https://papers.tinbergen.nl/24070.pdf) | [Slides](https://jack-fitzgerald.github.io/files/Hypothetical_Bias_Slides.pdf) ] </small>
 
@@ -45,15 +54,6 @@ Wolfowicz et al. (2023, <i>Nature Human Behaviour</i>) find that more arrests an
 <div id="BEA25" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
 Bonetti et al. (2025, <i>Proceedings of the National Academy of Sciences</i>) find that professional soccer players in Brazil and Sweden exhibit detectable cognitive advantages compared to a sample of Brazilian control participants, and that machine learning models trained on cognitive and personality characteristics can distinguish the professional players from the control participants with 97% accuracy. Analyzing the study's replication data, we find that some of the study's statistical analyses are mischaracterized, and we document potential issues in the sampling of control participants. In light of the latter, we focus on quality differences between professional Swedish players previously analyzed by some of the study's authors. We find that the paper's machine learning models can only distinguish high-quality Swedish professional players from lower-quality players with just 53% average accuracy, near the no-information rate.
-
-</small><br><br/></div>
-
-**Three-Sided Testing to Establish Practical Significance: A Tutorial** (with [Peder Isager](https://pedermisager.org/)). [<i>PsyArXiv</i>](https://doi.org/10.31234/osf.io/8y925_v3) and [<i>Tinbergen Institute Discussion Paper Series</i> No. 2024-077/III](https://papers.tinbergen.nl/24077.pdf), Accepted, <i>Advances in Methods and Practices in Psychological Science</i>, 2025. <br/>
-<small>[ <a href="#/" onclick="visib('TST')">Abstract</a> | [Draft](https://doi.org/10.31234/osf.io/8y925_v3) | [Stata Command](https://github.com/jack-fitzgerald/tsti) | [R Package](https://doi.org/10.32614/CRAN.package.eqtesting) | [Shiny App](https://jack-fitzgerald.shinyapps.io/shinyTST/) | [Slides](https://jack-fitzgerald.github.io/files/TST_Slides.pdf) | [Twitter/X Thread](https://threadreaderapp.com/thread/1870130179160584350.html) ] </small>
-
-<div id="TST" style="display: none; text-align: justify; line-height: 1.2" ><small>
-
-Researchers may want to know whether an observed statistical relationship is either meaningfully negative, meaningfully positive, or small enough to be considered practically equivalent to zero. Such a question can not be addressed with standard null hypothesis significance testing, nor with standard equivalence testing. Three-sided testing (TST) is a procedure to address such questions, by simultaneously testing whether an estimated relationship is significantly below, within, or above predetermined smallest effect sizes of interest. TST is a natural extension of the standard two one-sided tests (TOST) procedure for equivalence testing. TST offers a more comprehensive decision framework than TOST with no penalty to error rates or statistical power. In this paper, we give a non-technical introduction to TST, provide commands for conducting TST in R, Jamovi, and Stata, and provide a Shiny app for easy implementation. Whenever a meaningful smallest effect size of interest can be specified, TST should be combined with null hypothesis significance testing as the default frequentist testing procedure.
 
 </small><br><br/></div>
 
