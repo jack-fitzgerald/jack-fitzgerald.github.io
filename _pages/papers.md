@@ -128,6 +128,15 @@ Greene & Shenoy (2022, <i>Management Science</i>) - henceforth GS22 - find that 
 # <center> Working Papers </center>
 - - -
 
+**Which Businesses Answer Surveys? Evidence from Dutch Administrative Data**. [<i>MetaArXiv</i>](https://doi.org/10.31235/osf.io/zufw2_v1), 2026. <br/>
+<small>[ <a href="#/" onclick="visib('LISA')">Abstract</a> | [Draft](https://doi.org/10.31235/osf.io/zufw2_v1) | [Code and Data Access Instructions](https://doi.org/10.17605/OSF.IO/9S57M) | [AsCollected Registration](https://ascollected.org/G4V_I9I) ] </small>
+
+<div id="LISA" style="display: none; text-align: justify; line-height: 1.2" ><small>
+
+I leverage a unique administrative register covering the universe of establishments in the Netherlands to examine how characteristics differ between establishments that do and do not respond to business surveys. Only 19% of Dutch establishments responded to regional business surveys in 2022. Responsive establishments employ fewer people, and exhibit higher parttime employment rates, than unresponsive establishments. Sectoral response rates vary by up to 32 percentage points. Enterprises registered to residential addresses comprise over 70% of establishments, yet exhibit response rates 18 percentage points lower than an average office. However, controlling for contact probability reveals that the majority of sectoral and occupational variation in response rates can be traced back to differences in contact probability rather than responsiveness. These findings highlight challenges in the representativeness and generalizability of business survey data, as well as opportunities to improve the design of business surveys.
+
+</small><br><br/></div>
+
 **Non-Robustness in Log-Like Specifications** (with [Joop Adema](https://jopieadema.github.io/), [Lenka Fiala](https://www.lenkafiala.com/), [Essi Kujansuu](https://sites.google.com/view/essi-kujansuu/home), and [David Valenta](https://valenta.dev/)). [<i>MetaArXiv</i>](https://doi.org/10.31222/osf.io/juda7_v1), 2026. <br/>
 <small>[ <a href="#/" onclick="visib('log-like')">Abstract</a> | [Draft](https://doi.org/10.31222/osf.io/juda7_v1) | [Institute for Replication Discussion Paper](https://hdl.handle.net/10419/338628) | [Teaching Slides](https://jack-fitzgerald.github.io/files/Log-Like_Teaching_Slides.pdf) ] </small>
 
@@ -143,15 +152,6 @@ Recent literature shows that when regression models are estimated on variables t
 <div id="rdd-equiv" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
 Researchers applying regression discontinuity design (RDD) often test for endogenous running variable (RV) manipulation around treatment cutoffs, but misinterpret <i>statistically insignificant</i> RV manipulation as evidence of <i>negligible</i> RV manipulation. I introduce novel procedures that can provide statistically significant evidence that RV manipulation around a cutoff is bounded beneath practically negligible levels. The procedures augment classic RV density tests with an equivalence testing framework, along with bootstrap methods for (cluster-)robust inference. I apply these procedures to replication data from 36 RDD publications, conducting 45 equivalence-based RV manipulation tests. Over 44% of RV density discontinuities at the cutoff cannot be significantly bounded beneath a 50% upward jump. Obtaining equivalence testing failure rates beneath 5% requires arguing that a 350% upward RV density jump at the cutoff is practically equal to zero. My results imply that meaningful RV manipulation around treatment cutoffs cannot be ruled out in many published RDD papers, and that standard tests frequently misclassify the practical significance of RV manipulation. I provide research guidelines to help researchers conduct more credible equivalence-based manipulation testing in future RDD research. The lddtest estimation routine is available in R, Stata, and Python.
-
-</small><br><br/></div>
-
-**Which Businesses Answer Surveys? Evidence from Dutch Administrative Data**. 2025. <br/>
-<small>[ <a href="#/" onclick="visib('LISA')">Abstract</a> | [Draft](https://jack-fitzgerald.github.io/files/LISA.pdf) | [Code](https://doi.org/10.17605/OSF.IO/9S57M) | [AsCollected Registration](https://ascollected.org/G4V_I9I) ] </small>
-
-<div id="LISA" style="display: none; text-align: justify; line-height: 1.2" ><small>
-
-I leverage a unique administrative register covering the universe of establishments in the Netherlands to examine how characteristics differ between establishments that do and do not respond to business surveys. Only 20% of Dutch establishments responded to regional business surveys in 2022. Responsive establishments employed two fewer people than unresponsive establishments, and exhibited parttime employment rates 15 percentage points higher than unresponsive establishments. Sectoral and occupational response rates can vary by nearly 50 percentage points, with public-sector and white-collar occupations overrepresented amongst responsive establishments. Solo enterprises registered to residential addresses are the most common kind of establishment, but exhibit response rates 18 percentage points lower than an average office. However, controlling for contact probability reveals that most sectoral and occupational variation in response rates can be traced back to differences in contact probability rather than responsiveness. These findings highlight generalizability challenges in business surveys and opportunities to improve their design.
 
 </small><br><br/></div>
 
