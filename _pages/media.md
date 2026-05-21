@@ -5,7 +5,7 @@ permalink: /media/
 author_profile: true
 ---
 **Institute for Replication Blog** <br/>
-<small>[ [Link](https://i4replication.org/replication-games-in-secure-environments-replicating-research-with-dutch-administrative-data/) ] </small>
+<small>[ [Link](https://i4replication.org/blog/replication-games-in-secure-environments-replicating-research-with-dutch-administrative-data/) ] </small>
 
 Post highlighting the CBS Replication Games, a three-day hackathon that served as the capstone for a one-month project to re-examine scientific publications produced using Dutch administrative microdata.
 
