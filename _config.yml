@@ -21,7 +21,7 @@ repository               : "academicpages/jack-fitzgerald.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "pp_photo_far.png"
   name             : "Jack Fitzgerald"
   pronouns         : # example: "she/her"  
   bio              : "Economics PhD Candidate, Vrije Universiteit Amsterdam and Tinbergen Institute"
