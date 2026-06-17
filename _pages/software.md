@@ -13,7 +13,7 @@ An R package for equivalence testing. Provides the <b>tst</b> command, which imp
 **lddtest** <br/>
 <small>[ [SSC Package](https://ideas.repec.org/c/boc/bocode/s459446.html) | [Github Repository](https://github.com/jack-fitzgerald/lddtest) ] </small>
 
-A Stata command that performs equivalence testing on logarithmic density discontinuities at the cutoff for running variables in regression discontinuity design ([Fitzgerald 2025](https://jack-fitzgerald.github.io/files/RDD_Equivalence.pdf).
+A Stata command that performs equivalence testing on logarithmic density discontinuities at the cutoff for running variables in regression discontinuity design ([Fitzgerald 2025](https://jack-fitzgerald.github.io/files/RDD_Equivalence.pdf)).
 
 **lzqreg** <br/>
 <small>[ [Github Repository](https://github.com/jack-fitzgerald/lzqreg) ] </small>
