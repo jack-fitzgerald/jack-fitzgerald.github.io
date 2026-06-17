@@ -23,7 +23,7 @@ A Stata command that implements an algorithm in [Liu & Kaplan (2025)](https://dr
 **lzrq** <br/>
 <small>[ [Github Repository](https://github.com/jack-fitzgerald/lzrq) ] </small>
 
-An R package containing the <b>lzrq</b> function, which implements an algorithm in [Liu & Kaplan (2025)](https://drive.google.com/file/d/1F3dnhm8MrlO5aRrGt48rBWAEaBqdCBH-/view) for estimating logarithmic slopes through quantile regressions; designed for data with non-positive values in the outcome variable. See also [Fitzgerald et al. (2026)](https://doi.org/10.31222/osf.io/juda7_v1).
+An R package containing the <b>lzrq</b> function, which implements an algorithm in [Liu & Kaplan (2025)](https://drive.google.com/file/d/1F3dnhm8MrlO5aRrGt48rBWAEaBqdCBH-/view) for estimating logarithmic slopes through quantile regressions; designed for data with non-positive values in the outcome variable. See also [Fitzgerald et al. (2026)](https://doi.org/10.31222/osf.io/juda7_v1). Developed jointly with [David Valenta](https://valenta.dev/).
 
 **OpenAware Navigator** <br/>
 <small>[ [Website](https://jack-fitzgerald.shinyapps.io/OpenAware_Navigator/) ] </small>
