@@ -13,12 +13,12 @@ An R package for equivalence testing. Provides the <b>tst</b> command, which imp
 **lddtest** <br/>
 <small>[ [SSC Package](https://ideas.repec.org/c/boc/bocode/s459446.html) | [Github Repository](https://github.com/jack-fitzgerald/lddtest) ] </small>
 
-A Stata command that performs equivalence testing on logarithmic density discontinuities at the cutoff for running variables in regression discontinuity design ([Fitzgerald 2025](https://jack-fitzgerald.github.io/files/RDD_Equivalence.pdf)).
+A Stata command that performs equivalence testing on logarithmic density discontinuities at the cutoff for running variables in regression discontinuity design ([Fitzgerald 2025](https://jack-fitzgerald.github.io/files/RDD_Equivalence.pdf).
 
 **lzqreg** <br/>
 <small>[ [Github Repository](https://github.com/jack-fitzgerald/lzqreg) ] </small>
 
-A Stata command that implements an algorithm in [Liu & Kaplan (2025)](https://drive.google.com/file/d/1F3dnhm8MrlO5aRrGt48rBWAEaBqdCBH-/view) for estimating logarithmic slopes through quantile regressions; designed for data with non-positive values in the outcome variable. See also [Fitzgerald et al. (2026)](https://doi.org/10.31222/osf.io/juda7_v1)).
+A Stata command that implements an algorithm in [Liu & Kaplan (2025)](https://drive.google.com/file/d/1F3dnhm8MrlO5aRrGt48rBWAEaBqdCBH-/view) for estimating logarithmic slopes through quantile regressions; designed for data with non-positive values in the outcome variable. See also [Fitzgerald et al. (2026)](https://doi.org/10.31222/osf.io/juda7_v1).
 
 **lzrq** <br/>
 <small>[ [Github Repository](https://github.com/jack-fitzgerald/lzrq) ] </small>
