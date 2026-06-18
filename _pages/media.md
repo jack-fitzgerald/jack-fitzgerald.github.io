@@ -4,6 +4,11 @@ title: "Media"
 permalink: /media/
 author_profile: true
 ---
+**ODISSEI Podcast** <br/>
+<small>[ [Link](https://odissei.transistor.fm/episodes/the-replication-games-with-jack-fitzgerald) ] </small>
+
+Podcast on the CBS Replication Games and my replication career more broadly.
+
 **Institute for Replication Blog** <br/>
 <small>[ [Link](https://i4replication.org/blog/replication-games-in-secure-environments-replicating-research-with-dutch-administrative-data/) ] </small>
 
