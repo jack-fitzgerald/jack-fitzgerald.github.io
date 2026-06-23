@@ -129,7 +129,7 @@ Greene & Shenoy (2022, <i>Management Science</i>) - henceforth GS22 - find that 
 - - -
 
 **Which Businesses Answer Surveys? Evidence from Dutch Administrative Data**. [<i>SocArXiv</i>](https://doi.org/10.31235/osf.io/zufw2_v1), 2026. Under submission. <br/>
-<small>[ <a href="#/" onclick="visib('LISA')">Abstract</a> | [Draft](https://doi.org/10.31235/osf.io/zufw2_v1) | [Code and Data Access Instructions](https://doi.org/10.17605/OSF.IO/9S57M) | [AsCollected Registration](https://ascollected.org/G4V_I9I) ] </small>
+<small>[ <a href="#/" onclick="visib('LISA')">Abstract</a> | [Draft](https://doi.org/10.31235/osf.io/zufw2_v1) | [Code and Data Access Instructions](https://doi.org/10.17605/OSF.IO/9S57M) | [AsCollected Registration](https://ascollected.org/G4V_I9I) | [X/Bluesky Thread](https://threadreaderapp.com/thread/2049886218872074441.html) ] </small>
 
 <div id="LISA" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
