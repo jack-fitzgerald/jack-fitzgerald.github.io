@@ -95,8 +95,26 @@ Rains & Richards (2024, <i>Proceedings of the National Academy of Sciences</i>) 
 
 </small><br><br/></div>
 
-# <center> Invited Resubmissions </center>
+# <center> Invited Submissions and Resubmissions </center>
 - - -
+
+**Reproducibility and Robustness of Nature Human Behaviour Papers in 2022-2024** (with [Lenka Fiala](https://www.lenkafiala.com/) et al). Invited submission, *Nature Human Behaviour*, 2026. <br/>
+<small>[ <a href="#/" onclick="visib('nhb')">Abstract</a> | [Project Announcement](https://doi.org/10.1038/s41562-023-01807-2)] </small>
+
+<div id="nhb" style="display: none; text-align: justify; line-height: 1.2" ><small>
+
+Circulated only amongst co-authors at this stage.
+
+</small><br><br/></div>
+
+**Mass Reproducibility in Psychological Science** (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home) et al). Invited submission, *Psychological Science*, 2026. <br/>
+<small>[ <a href="#/" onclick="visib('psychsci')">Abstract</a> | [Project Announcement](https://doi.org/10.1177/09567976231221573)] </small>
+
+<div id="psychsci" style="display: none; text-align: justify; line-height: 1.2" ><small>
+
+Circulated only amongst co-authors at this stage.
+
+</small><br><br/></div>
 
 **Reframing Eating: Drivers, Influences, and Transitions (ReDIET) for a Sustainable Food System** (with [Meike Morren](https://www.meikemorren.com/), [Guido van Koningsbruggen](https://research.vu.nl/en/persons/guido-van-koningsbruggen/), [Angela Johnson](https://research.vu.nl/en/persons/dr-angela-johnson/), & [Kristiaan Kok](https://research.vu.nl/en/persons/kristiaan-kok/)). 2026. Revise & resubmit, <i>Current Opinion in Environmental Sustainability</i>. <br/>
 <small>[ <a href="#/" onclick="visib('ReDIET')">Abstract</a> | [Draft](https://doi.org/10.31234/osf.io/6vkcg_v1) ] </small>
@@ -143,6 +161,24 @@ I leverage a unique administrative register covering the universe of establishme
 <div id="log-like" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
 Recent literature shows that when regression models are estimated on variables transformed with 'log-like' functions such as the inverse hyperbolic sine or ln(Z + 1) transformations, one can obtain (semi-)elasticity estimates of any magnitude by linearly re-scaling the input variable(s) before transformation. We systematically re-analyze the replication data of 46 papers whose main conclusions are defended by log-like specifications. Our replication findings motivate new theoretical and simulation results showing that in log-like specifications, unit scale can be used to overfit data, creating an uncontrolled multiple hypothesis testing problem that frequently yields spuriously significant results. In particular, 38% of the estimates we re-analyze sit in a 'sweet spot', where both upward and downward re-scalings of variables' units before transformation shrink test statistics. Consequently, published estimates in this literature are statistically significant over 40% more frequently than in the general economics literature. We find that modest changes to model specification yield different statistical significance conclusions for 14-37% of estimates defending papers' main claims. We also show that for 99.8% of estimates, variables transformed with log-like functions do not meet data requirements for log-like specifications from a methodological recommendation cited by all papers in our replication sample. We synthesize and harmonize methodological guidelines and advocate for more robust alternative specifications, including normalized estimands, Poisson regression, and quantile regression.
+
+</small><br><br/></div>
+
+**Lessons on Reproducibility and Robustness in Administrative Data Analyses from an International Replication Initiative** (with [Lenka Fiala](https://www.lenkafiala.com/) et al). 2026. <br/>
+<small>[ <a href="#/" onclick="visib('cbs')">Abstract</a> | [Project Announcement](https://i4replication.org/blog/replication-games-in-secure-environments-replicating-research-with-dutch-administrative-data/)] </small>
+
+<div id="cbs" style="display: none; text-align: justify; line-height: 1.2" ><small>
+
+Circulated only amongst co-authors at this stage.
+
+</small><br><br/></div>
+
+**Reproducibility and Robustness by Method and Subfield** (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home) et al). 2026. <br/>
+<small>[ <a href="#/" onclick="visib('2ndmeta')">Abstract</a>] </small>
+
+<div id="2ndmeta" style="display: none; text-align: justify; line-height: 1.2" ><small>
+
+Circulated only amongst co-authors at this stage.
 
 </small><br><br/></div>
 
