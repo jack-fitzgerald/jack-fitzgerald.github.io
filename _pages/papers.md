@@ -174,7 +174,7 @@ Circulated only amongst co-authors at this stage.
 </small><br><br/></div>
 
 **Reproducibility and Robustness by Method and Subfield** (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home) et al). 2026. <br/>
-<small>[ <a href="#/" onclick="visib('2ndmeta')">Abstract</a>] </small>
+<small>[ <a href="#/" onclick="visib('2ndmeta')">Abstract</a> ] </small>
 
 <div id="2ndmeta" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
