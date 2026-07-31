@@ -103,7 +103,7 @@ Rains & Richards (2024, <i>Proceedings of the National Academy of Sciences</i>) 
 
 <div id="nhb" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
-Circulated only amongst co-authors at this stage.
+In development.
 
 </small><br><br/></div>
 
@@ -168,6 +168,15 @@ Recent literature shows that when regression models are estimated on variables t
 <small>[ <a href="#/" onclick="visib('cbs')">Abstract</a> | [Project Announcement](https://i4replication.org/blog/replication-games-in-secure-environments-replicating-research-with-dutch-administrative-data/)] </small>
 
 <div id="cbs" style="display: none; text-align: justify; line-height: 1.2" ><small>
+
+Circulated only amongst co-authors at this stage.
+
+</small><br><br/></div>
+
+**The Effect of Data Access on Pre-Analysis Plans: Evidence from a Many-Analyst Study on the Daughters Hypothesis** (with [David Albrecht](https://da-lbrecht.github.io/) et al). 2026. <br/>
+<small>[ <a href="#/" onclick="visib('manydaughters')">Abstract</a> | [Project Website](https://www.manydaughters.com/)] </small>
+
+<div id="manydaughters" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
 Circulated only amongst co-authors at this stage.
 
