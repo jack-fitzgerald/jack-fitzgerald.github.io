@@ -203,7 +203,7 @@ Researchers applying regression discontinuity design (RDD) often test for endoge
 **A Many-Designs Study Crowdsourcing 516 Aggregation Algorithms to Increase the Wisdom of the Crowd** (with [Christian König-Kersting](https://www.ckgk.de/) et al). 2025. <br/>
 <small>[ <a href="#/" onclick="visib('WOCCAP')">Abstract</a> | [Project Website](https://woccap.com/) ] </small>
 
-<div id="AI" style="display: none; text-align: justify; line-height: 1.2" ><small>
+<div id="WOCCAP" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
 Circulated only amongst co-authors at this stage.
 
