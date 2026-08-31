@@ -31,7 +31,7 @@ Recent studies showing that some outcome variables do not statistically signific
 </small><br><br/></div>
 
 **Three-Sided Testing to Establish Practical Significance: A Tutorial** (with [Peder Isager](https://pedermisager.org/)). <i>Advances in Methods and Practices in Psychological Science</i> 9(1), 2026. <br/>
-<small>[ <a href="#/" onclick="visib('TST')">Abstract</a> | [Article (Open Access)](https://doi.org/10.1177/25152459251412435) | [PsyArXiv Preprint](https://doi.org/10.31234/osf.io/8y925_v3) | [Tinbergen Institute Discussion Paper](https://papers.tinbergen.nl/24077.pdf) | [Stata Command](https://github.com/jack-fitzgerald/tsti) | [R Package](https://doi.org/10.32614/CRAN.package.eqtesting) | [Shiny App](https://jack-fitzgerald.shinyapps.io/shinyTST/) | [Teaching Slides](https://jack-fitzgerald.github.io/files/TST_Slides.pdf) | [Twitter/X Thread](https://threadreaderapp.com/thread/1870130179160584350.html) ] </small>
+<small>[ <a href="#/" onclick="visib('TST')">Abstract</a> | [Article (Open Access)](https://doi.org/10.1177/25152459251412435) | [Supplementary Code](https://osf.io/nzgtc/overview) | [PsyArXiv Preprint](https://doi.org/10.31234/osf.io/8y925_v3) | [Tinbergen Institute Discussion Paper](https://papers.tinbergen.nl/24077.pdf) | [Stata Command](https://github.com/jack-fitzgerald/tsti) | [R Package](https://doi.org/10.32614/CRAN.package.eqtesting) | [Shiny App](https://jack-fitzgerald.shinyapps.io/shinyTST/) | [Teaching Slides](https://jack-fitzgerald.github.io/files/TST_Slides.pdf) | [Twitter/X Thread](https://threadreaderapp.com/thread/1870130179160584350.html) ] </small>
 
 <div id="TST" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
