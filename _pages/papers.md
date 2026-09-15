@@ -165,7 +165,7 @@ Recent literature shows that when regression models are estimated on variables t
 </small><br><br/></div>
 
 **Lessons on Reproducibility and Robustness in Administrative Data Analyses from an International Replication Initiative** (with [Lenka Fiala](https://www.lenkafiala.com/) et al). 2026. <br/>
-<small>[ <a href="#/" onclick="visib('cbs')">Abstract</a> | [Project Announcement](https://i4replication.org/blog/replication-games-in-secure-environments-replicating-research-with-dutch-administrative-data/)] </small>
+<small>[ <a href="#/" onclick="visib('cbs')">Abstract</a> | [Project Page](https://www.i4replication.org/projects/cbs-replication-games) | [Blog](https://i4replication.org/blog/replication-games-in-secure-environments-replicating-research-with-dutch-administrative-data/)] </small>
 
 <div id="cbs" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
