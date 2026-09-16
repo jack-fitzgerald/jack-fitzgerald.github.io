@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in Economics at Vrije Universiteit Amsterdam and the Tinbergen Institute. I work on issues in applied econometrics, replication, and economics of science. 
+I work on issues in applied econometrics, replication, and metascience. In October, I am joining the [Meta-Research Innovation Center at Stanford](https://metrics.stanford.edu/) as a Postdoctoral Scholar. I retain a guest affiliation with the [Department of Ethics, Governance, and Society](https://vu.nl/en/about-vu/faculties/school-of-business-and-economics/departments/ethics-governance-and-society) at Vrije Universiteit Amsterdam, and I am a Fellow of the [Institute for Replication](https://www.i4replicat).
 
 I am dedicated to improving methods in scientific research. My research can broadly be categorized as follows:
 * **Replication-based methods research.** I work to evidence the importance of methodological improvements through re-analyzing the replication data of large numbers of published articles that use similar methods. [My job market paper](https://doi.org/10.31222/osf.io/d7sqr_v2) evidences the importance of equivalence testing in 81 articles that advertise null results, [my paper on log-like specifications](https://doi.org/10.31222/osf.io/juda7_v2) re-analyzes 46 articles that use such specifications, and [my paper on manipulation tests in regression discontinuity design](https://doi.org/10.31222/osf.io/2dgrp_v1) re-analyzes 36 published articles using such designs.
