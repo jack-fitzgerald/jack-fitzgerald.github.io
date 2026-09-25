@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website! I am on the job market for the 2026-2027 academic year."
+title: "Welcome to my website! I am on the academic job market for the 2026-2027 academic year."
 author_profile: true
 redirect_from: 
   - /about/
