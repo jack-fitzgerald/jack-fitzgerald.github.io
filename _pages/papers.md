@@ -108,7 +108,7 @@ In development.
 </small><br><br/></div>
 
 **Mass Reproducibility in Psychological Science** (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home) et al). Invited submission, *Psychological Science*, 2026. <br/>
-<small>[ <a href="#/" onclick="visib('psychsci')">Abstract</a> | [Project Announcement](https://doi.org/10.1177/09567976231221573)] </small>
+<small>[ <a href="#/" onclick="visib('psychsci')">Abstract</a> | [Draft](https://hdl.handle.net/10419/344024) ] </small>
 
 <div id="psychsci" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
