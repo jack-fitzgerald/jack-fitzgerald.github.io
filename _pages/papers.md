@@ -99,7 +99,7 @@ Rains & Richards (2024, <i>Proceedings of the National Academy of Sciences</i>) 
 - - -
 
 **Reproducibility and Robustness of Research Conducted with Administrative Data: Lessons Learnt from the CBS Replication Games** (with [Lenka Fiala](https://www.lenkafiala.com/) et al). *International Journal of Population Data Science* 11(5),  Conference Proceedings for the International Population Data Linkage Network Conference 2026. <br/>
-<small>[ <a href="#/" onclick="visib('cbs')">Abstract</a> | [Proceedings](10.23889/ijpds.v11i5.3650) | [Project Page](https://www.i4replication.org/projects/cbs-replication-games) | [Blog](https://i4replication.org/blog/replication-games-in-secure-environments-replicating-research-with-dutch-administrative-data/)] </small>
+<small>[ <a href="#/" onclick="visib('cbs')">Abstract</a> | [Proceedings](https://doi.org/10.23889/ijpds.v11i5.3650) | [Project Page](https://www.i4replication.org/projects/cbs-replication-games) | [Blog](https://i4replication.org/blog/replication-games-in-secure-environments-replicating-research-with-dutch-administrative-data/)] </small>
 
 <div id="cbs" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
