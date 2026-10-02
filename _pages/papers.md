@@ -18,7 +18,7 @@ Equivalence testing can provide statistically significant evidence that economic
 
 </small><br><br/></div>
 
-# <center> Current and Forthcoming Publications </center>
+# <center> Peer-Reviewed Publications </center>
 - - -
 
 **Identifying the Impact of Hypothetical Stakes on Experimental Outcomes and Treatment Effects**. Forthcoming, <i>Experimental Economics</i>, 2026. <br/>
@@ -95,6 +95,18 @@ Rains & Richards (2024, <i>Proceedings of the National Academy of Sciences</i>) 
 
 </small><br><br/></div>
 
+# <center> Other Publications </center>
+- - -
+
+**Reproducibility and Robustness of Research Conducted with Administrative Data: Lessons Learnt from the CBS Replication Games** (with [Lenka Fiala](https://www.lenkafiala.com/) et al). *International Journal of Population Data Science* 11(5),  Conference Proceedings for the International Population Data Linkage Network Conference 2026. <br/>
+<small>[ <a href="#/" onclick="visib('cbs')">Abstract</a> | [Proceedings](10.23889/ijpds.v11i5.3650) | [Project Page](https://www.i4replication.org/projects/cbs-replication-games) | [Blog](https://i4replication.org/blog/replication-games-in-secure-environments-replicating-research-with-dutch-administrative-data/)] </small>
+
+<div id="cbs" style="display: none; text-align: justify; line-height: 1.2" ><small>
+
+The social sciences are experiencing a renaissance in open science, with mass replication initiatives and transparency policies becoming widespread in many institutions and academic journals. However, the rising use of restricted data is a key barrier to replication in the social sciences. In a sample of 158 articles published in Top 5 economics journals from 2020-2023, over 48% required restricted-use data to produce some main findings ([Fitzgerald 2025](https://doi.org/10.31222/osf.io/d7sqr_v2)). The proportions of papers that use restricted data have tripled or quadrupled in economic subdisciplines since 2000 ([Garg & Fetzer 2024](https://dx.doi.org/10.2139/ssrn.5045487)). The time and costs associated with re-accessing restricted-access data tend to be a significant barrier to preclude reproducibility in practice. In February 2026, ODISSEI and the Institute for Replication will host a Replication Games hackathon where teams of replicators will attempt to reproduce and run robustness checks on six papers published since 2020 in top economics journals with robust transparency policies that are produced entirely from Statistic Netherlands administrative microdata and other public-use data, and have made code available. The results of our reproducibility and robustness analyses can help improve the trustworthiness of scientific analyses using restricted-access data. Difficulties in reproducing findings in these papers can help highlight necessary infrastructural adjustments (e.g., improvements in version control) to help ensure that findings using CBS microdata are reproducible. Conversely, if results in these papers are reasonably reproducible and robust, this can help boost trust in research using restricted-access data. The presentation will outline the preliminary results and lessons learnt from the three-day event.
+
+</small><br><br/></div>
+
 # <center> Invited Submissions and Resubmissions </center>
 - - -
 
@@ -164,15 +176,6 @@ Recent literature shows that when regression models are estimated on variables t
 
 </small><br><br/></div>
 
-**Lessons on Reproducibility and Robustness in Administrative Data Analyses from an International Replication Initiative** (with [Lenka Fiala](https://www.lenkafiala.com/) et al). 2026. <br/>
-<small>[ <a href="#/" onclick="visib('cbs')">Abstract</a> | [Project Page](https://www.i4replication.org/projects/cbs-replication-games) | [Blog](https://i4replication.org/blog/replication-games-in-secure-environments-replicating-research-with-dutch-administrative-data/)] </small>
-
-<div id="cbs" style="display: none; text-align: justify; line-height: 1.2" ><small>
-
-Circulated only amongst co-authors at this stage.
-
-</small><br><br/></div>
-
 **The Effect of Data Access on Pre-Analysis Plans: Evidence from a Many-Analyst Study on the Daughters Hypothesis** (with [David Albrecht](https://da-lbrecht.github.io/) et al). 2026. <br/>
 <small>[ <a href="#/" onclick="visib('manydaughters')">Abstract</a> | [Project Website](https://www.manydaughters.com/)] </small>
 
@@ -182,7 +185,7 @@ Circulated only amongst co-authors at this stage.
 
 </small><br><br/></div>
 
-**Reproducibility and Robustness by Method and Subfield** (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home) et al). 2026. <br/>
+**Reproducible and Robust by Design: The Reproducibility and Robustness of Social Science Research by Method and Field** (with [Nikolai Cook](https://sites.google.com/site/nikolaimcook/home) et al). 2026. <br/>
 <small>[ <a href="#/" onclick="visib('2ndmeta')">Abstract</a> ] </small>
 
 <div id="2ndmeta" style="display: none; text-align: justify; line-height: 1.2" ><small>
