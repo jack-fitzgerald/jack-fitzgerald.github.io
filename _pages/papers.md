@@ -69,7 +69,7 @@ Bonetti et al. (2025, <i>Proceedings of the National Academy of Sciences</i>) fi
 </small><br><br/></div>
 
 **A Comment on "Delivering Remote Learning Using a Low-Tech Solution: Evidence from a Randomized Controlled Trial in Bangladesh"** (with [Lenka Fiala](https://www.lenkafiala.com/), [Essi Kujansuu](https://sites.google.com/view/essi-kujansuu/home), [Derek Mikola](https://sites.google.com/view/derekmikola/), [David Valenta](https://valenta.dev/), [Juan P. Aparicio](https://www.posadaaparicio.com/home), [Michael Wiebe](http://michaelwiebe.com), [Matthew D. Webb](https://sites.google.com/site/matthewdwebb/), and [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home)) Accepted, *Journal of Political Economy: Microeconomics*, 2025. <br/>
-<small>[ <a href="#/" onclick="visib('gdri-jpem')">Abstract</a> ] </small>
+<small>[ <a href="#/" onclick="visib('gdri-jpem')">Abstract</a> | [Draft](https://hdl.handle.net/10419/321368) ] </small>
 
 <div id="gdri-jpem" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
