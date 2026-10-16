@@ -40,7 +40,7 @@ Researchers may want to know whether an observed statistical relationship is eit
 </small><br><br/></div>
 
 **Imputations, Inverse Hyperbolic Sines and Impossible Values**. *Nature Human Behaviour* 10, 239-242, 2026. <br/>
-<small>[ <a href="#/" onclick="visib('WEA23')">Abstract</a> | [Article](https://doi.org/10.1038/s41562-025-02347-7) | [Open Access Version](https://rdcu.be/eYab2) | [Data & Code](https://osf.io/hce6n/) ] </small>
+<small>[ <a href="#/" onclick="visib('WEA23')">Abstract</a> | [Article](https://doi.org/10.1038/s41562-025-02347-7) | [Open Access Version](https://rdcu.be/eYab2) | [Data & Code](https://osf.io/hce6n/) | [Retraction of Replicated Article](https://doi.org/10.1038/s41562-023-01695-6) ] </small>
 
 <div id="WEA23" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
@@ -60,7 +60,7 @@ Large Language Models (LLMs) such as ChatGPT are transforming how scientists con
 </small><br><br/></div>
 
 **Revisiting the Cognitive Advantages of Professional Soccer Players** (with [Abel Brodeur](https://sites.google.com/site/abelbrodeur/home) and [Niklas Jakobsson](https://www.kau.se/en/researchers/niklas-jakobsson)). *Proceedings of the National Academy of Sciences* 123(8), e2515523123, 2026. <br/>
-<small>[ <a href="#/" onclick="visib('BEA25')">Abstract</a> | [Article](https://doi.org/10.1073/pnas.2515523123) | [Author's Reply](https://doi.org/10.1073/pnas.2521662123) | [Data & Code](https://osf.io/sc7nt) ] </small>
+<small>[ <a href="#/" onclick="visib('BEA25')">Abstract</a> | [Article](https://doi.org/10.1073/pnas.2515523123) | [Author's Reply](https://doi.org/10.1073/pnas.2521662123) | [Data & Code](https://osf.io/sc7nt) | [Retraction of Replicated Article](https://doi.org/10.1073/pnas.2634399123) ] </small>
 
 <div id="BEA25" style="display: none; text-align: justify; line-height: 1.2" ><small>
 
